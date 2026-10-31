@@ -172,6 +172,6 @@ npm install
 npm run dev
 ```
 
-Open `http://localhost:3000`. For local API-backed actions, start the Python service from the project root in a separate terminal with `python -m uvicorn backend.api.main:app --host 127.0.0.1 --port 8000` after installing the project's Python dependencies. The [figure package](Docs/presentation_assets/README.md) contains slide-ready visuals and its reproducible generation script.
+Open `http://localhost:3000`. For local API-backed actions, install the tested [Python dependencies](requirements.txt) with `python -m pip install -r requirements.txt`, then start the service from the project root in a separate terminal with `python -m uvicorn backend.api.main:app --host 127.0.0.1 --port 8000`. The [figure package](Docs/presentation_assets/README.md) contains slide-ready visuals and its reproducible generation script.
 
 MurderBall's aim is simple: make a match easier to investigate, and make the limits of the evidence just as easy to see.

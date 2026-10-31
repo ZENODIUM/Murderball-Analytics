@@ -1,0 +1,17 @@
+# Python 3.12 environment used for the backend, research scripts, figures, and tests.
+beautifulsoup4==4.15.0
+fastapi==0.162.0
+httpx==0.28.1
+matplotlib==3.11.2
+numpy==2.5.4
+ortools==9.15.6755
+pandas==3.1.0
+pdfplumber==0.11.10
+Pillow==13.0.0
+playwright==1.64.1
+pydantic==2.14.1
+pymupdf==2.0
+pytest==9.2.0
+scikit-learn==1.9.1
+scipy==1.18.1
+uvicorn==0.54.0
