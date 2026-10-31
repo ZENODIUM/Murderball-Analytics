@@ -1,4 +1,4 @@
-# MurderBall
+# Murderball Analytics
 
 **Wheelchair rugby, from the scoreline to the evidence behind it.** Built for the AQX Sports Analytics Data Bowl 4.0.
 
@@ -10,7 +10,7 @@
 
 Wheelchair rugby is a fast, physical Paralympic team sport nicknamed *Murderball*. Four athletes play at a time, and their sport classifications determine which combinations fit the lineup's point limit. A scoreboard tells you who crossed the goal line. It says much less about supporting work, the lineup on court, or what a coach could learn from an important decision.
 
-MurderBall connects official match records with tools for exploring those questions. Coaches and analysts can move from a historical game to its recorded events and lineups, then examine legal alternatives on an interactive court. Fans and athletes can see contributions that try totals alone may miss. The app keeps recorded history separate from model estimates and tactical ideas.
+Murderball Analytics connects official match records with tools for exploring those questions. Coaches and analysts can move from a historical game to its recorded events and lineups, then examine legal alternatives on an interactive court. Fans and athletes can see contributions that try totals alone may miss. The app keeps recorded history separate from model estimates and tactical ideas.
 
 ## The finding that changed how I looked at the box score
 
@@ -20,7 +20,7 @@ An Assist Block is a recorded box-score action. These numbers show a difference 
 
 ## From a match moment to a coaching question
 
-At **5:31 left in the fourth quarter** of the Paris 2024 gold medal match, Japan led the United States **39–34**. The official record shows a USA timeout and substitution. In MurderBall, **Match Theatre** lets you inspect the score and recorded events around that moment. **Decision Mirror** shows what happened afterward and frames alternative lineup choices as questions. **Tactical Court** lets you arrange four athletes, check the classification limit for a selected rules era, and sketch a possible setup.
+At **5:31 left in the fourth quarter** of the Paris 2024 gold medal match, Japan led the United States **39–34**. The official record shows a USA timeout and substitution. In Murderball Analytics, **Match Theatre** lets you inspect the score and recorded events around that moment. **Decision Mirror** shows what happened afterward and frames alternative lineup choices as questions. **Tactical Court** lets you arrange four athletes, check the classification limit for a selected rules era, and sketch a possible setup.
 
 That workflow is useful because its boundary is visible: a court sketch is a plan, not historical player tracking; a modeled alternative is not evidence that a different decision would have changed the result. Broadcast footage is labeled when its timing has not been synchronized to the event log.
 
@@ -174,4 +174,4 @@ npm run dev
 
 Open `http://localhost:3000`. For local API-backed actions, install the tested [Python dependencies](requirements.txt) with `python -m pip install -r requirements.txt`, then start the service from the project root in a separate terminal with `python -m uvicorn backend.api.main:app --host 127.0.0.1 --port 8000`. The [figure package](Docs/presentation_assets/README.md) contains slide-ready visuals and its reproducible generation script.
 
-MurderBall's aim is simple: make a match easier to investigate, and make the limits of the evidence just as easy to see.
+Murderball Analytics aims to make a match easier to investigate, and the limits of the evidence just as easy to see.

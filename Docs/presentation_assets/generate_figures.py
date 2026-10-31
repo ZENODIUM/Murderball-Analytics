@@ -1,4 +1,4 @@
-"""Generate five source-checked MurderBall slide figures (dark/light PNG + SVG).
+"""Generate five source-checked Murderball Analytics slide figures (dark/light PNG + SVG).
 
 Run from any directory:
     python Docs/presentation_assets/generate_figures.py
@@ -103,7 +103,7 @@ def canvas(theme: dict, number: str, section: str, title: str, subtitle: str):
     ax.set_xlim(0, WIDTH)
     ax.set_ylim(HEIGHT, 0)
     ax.axis("off")
-    txt(ax, 92, 58, "MURDERBALL", 14, theme["sage"], weight="bold", ls=2)
+    txt(ax, 92, 58, "MURDERBALL ANALYTICS", 14, theme["sage"], weight="bold", ls=2)
     txt(ax, 1828, 58, f"AQX DATA BOWL 4.0  /  {number}", 12, theme["muted"], ha="right", weight="bold", ls=1)
     ax.plot([92, 1828], [82, 82], color=theme["rule"], lw=1.2)
     txt(ax, 92, 111, section.upper(), 13, theme["gold"], weight="bold", ls=1.6)
@@ -142,7 +142,7 @@ def footer(ax, theme, source: str, caveat: str):
     txt(ax, 112, 943, caveat, 12, theme["ink"])
     line(ax, 92, 1001, 1828, 1001, theme["rule"])
     txt(ax, 92, 1019, source, 11, theme["muted"])
-    txt(ax, 1828, 1019, "MURDERBALL  /  RESEARCH SHOWCASE", 10, theme["faint"], ha="right", weight="bold", ls=1)
+    txt(ax, 1828, 1019, "MURDERBALL ANALYTICS  /  RESEARCH SHOWCASE", 10, theme["faint"], ha="right", weight="bold", ls=1)
 
 
 def figure_01(t):
@@ -352,7 +352,7 @@ def contact_sheet() -> None:
     font_path = Path("C:/Windows/Fonts/segoeuib.ttf")
     font = ImageFont.truetype(str(font_path), 44) if font_path.exists() else ImageFont.load_default()
     small = ImageFont.truetype(str(font_path), 23) if font_path.exists() else ImageFont.load_default()
-    draw.text((86, 44), "MURDERBALL  /  FIVE-FIGURE CONTACT SHEET", font=font, fill=DARK["ink"])
+    draw.text((86, 44), "MURDERBALL ANALYTICS  /  FIVE-FIGURE CONTACT SHEET", font=font, fill=DARK["ink"])
     for i, (stem, _) in enumerate(FIGURES):
         col, row = i % 2, i // 2
         x, y = 80 + col * 895, 150 + row * 565

@@ -256,7 +256,7 @@ export default function ResearchHub({ researchData, onNavigateTab }: ResearchHub
             </span>
             <h3 className="text-xl font-bold text-white">Three Verified Paralympic Match Case Studies</h3>
             <p className="text-xs text-zinc-400 max-w-4xl">
-              Demonstrating how MurderBall's statistical discoveries answer concrete coaching dilemmas in actual Paralympic gold medal matches without fabricated counterfactual outcomes.
+              Exploring how Murderball Analytics findings can frame coaching questions around recorded Paralympic gold medal matches without fabricating alternative outcomes.
             </p>
           </div>
 
@@ -619,7 +619,7 @@ export default function ResearchHub({ researchData, onNavigateTab }: ResearchHub
             </span>
             <h3 className="text-xl font-bold text-white">Literature Originality & State-of-the-Art Benchmark</h3>
             <p className="text-xs text-zinc-400 max-w-3xl">
-              Benchmarking MurderBall's empirical advances against foundational published research in wheelchair sports science.
+              Comparing Murderball Analytics findings with published wheelchair sports research while keeping originality claims limited to verified evidence.
             </p>
           </div>
 
@@ -643,7 +643,7 @@ export default function ResearchHub({ researchData, onNavigateTab }: ResearchHub
                   </div>
 
                   <div className="p-3 rounded-xl bg-purple-950/20 border border-purple-500/30 text-purple-200">
-                    <strong className="text-purple-300 block mb-1">MurderBall Original Advance:</strong>
+                    <strong className="text-purple-300 block mb-1">Murderball Analytics analysis:</strong>
                     {lit.murderball_original_advance}
                   </div>
                 </div>

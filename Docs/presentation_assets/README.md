@@ -1,4 +1,4 @@
-# MurderBall presentation figures
+# Murderball Analytics presentation figures
 
 Five 16:9 research figures for AQX Data Bowl 4.0 slides and the Markdown showcase. Each figure has a **1920 × 1080 dark PNG**, a **high-quality SVG**, and a **1920 × 1080 light PNG**. The [contact sheet](contact_sheet.png) previews the five dark versions.
 
@@ -10,7 +10,7 @@ Five 16:9 research figures for AQX Data Bowl 4.0 slides and the Markdown showcas
 | 2 | **A recorded moment, not a reconstructed tactic** | [Dark](02_paris_decision_timeline.png) | [Vector](02_paris_decision_timeline.svg) | [Light](02_paris_decision_timeline_light.png) | Selected official Q4 events in the Paris 2024 Japan–USA gold final. At 5:31 Japan led 39–34; the USA took a 60-second timeout and substituted Sarah Adam out for Josh Wheeler. Later events are observed sequence, not a measured effect of the decision. |
 | 3 | **Six tournaments. Every final score reconciled.** | [Dark](03_historical_coverage.png) | [Vector](03_historical_coverage.svg) | [Light](03_historical_coverage_light.png) | The six detailed Paralympic tournaments contain 120 matches, with 120/120 final scores reconciled. Event rows and 5,148 lineup stints are extracted/reconstructed coverage and vary by field and era; athlete minutes reconcile in 26/120 matches. |
 | 4 | **Lower observed error. No validated winner.** | [Dark](04_model_comparison.png) | [Vector](04_model_comparison.svg) | [Light](04_model_comparison_light.png) | Six Brier scores on 24 reused, development-influenced 2026 matches. The reconstructed-ranking baseline has the lowest observed score (0.1177) versus 0.1433 for L2 logistic regression, but paired uncertainty spans zero; no statistically established superiority or prospective validation is claimed. |
-| 5 | **From an official record to a better question** | [Dark](05_evidence_to_decision.png) | [Vector](05_evidence_to_decision.svg) | [Light](05_evidence_to_decision_light.png) | MurderBall moves from the verified Paris 2024 record to a recorded decision and observed aftermath, then to a *hypothetical* legal-lineup exercise. The fourth stage is planning, not historical player tracking. |
+| 5 | **From an official record to a better question** | [Dark](05_evidence_to_decision.png) | [Vector](05_evidence_to_decision.svg) | [Light](05_evidence_to_decision_light.png) | Murderball Analytics moves from the verified Paris 2024 record to a recorded decision and observed aftermath, then to a *hypothetical* legal-lineup exercise. The fourth stage is planning, not historical player tracking. |
 
 The workflow figure is an original vector diagram. It deliberately uses no screenshot: the recorded facts and hypothetical court exploration remain visually separate, and no app screenshot can be mistaken for observed spatial tracking.
 
@@ -21,7 +21,7 @@ From a Markdown file in the project root, use the light version on a conventiona
 ```md
 ![Class 0.5 athletes: 364 of 1,296 Assist Blocks versus 3 of 2,459 tries](Docs/presentation_assets/01_assist_block_discovery_light.png)
 
-![Five MurderBall presentation figures](Docs/presentation_assets/contact_sheet.png)
+![Five Murderball Analytics presentation figures](Docs/presentation_assets/contact_sheet.png)
 ```
 
 From a Markdown file inside `Docs/`, use `presentation_assets/01_assist_block_discovery_light.png`. For presentation software, insert the dark PNG. Use the SVG when a scalable vector asset is supported.

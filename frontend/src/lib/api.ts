@@ -463,7 +463,7 @@ export async function getAnnotationQueue() {
     if (res.ok) return await res.json();
   } catch {}
   return {
-    title: "MurderBall Active Learning & Annotation Priority Queue",
+    title: "Murderball Analytics Active Learning & Annotation Priority Queue",
     total_tasks_queued: 5,
     tasks: [
       {
@@ -508,7 +508,7 @@ export async function getAgentBenchmark() {
     if (res.ok) return await res.json();
   } catch {}
   return {
-    benchmark_title: "MurderBall Agentic Intelligence System Evaluation Benchmark",
+    benchmark_title: "Murderball Analytics Agentic Intelligence Evaluation Benchmark",
     total_test_cases: 12,
     mean_latency_ms: 12.4,
     accuracy_rate_pct: 100.0,
@@ -808,7 +808,7 @@ export async function getUseCaseInventory() {
     if (res.ok) return await res.json();
   } catch {}
   return {
-    title: "MurderBall Practical Value & Use-Case Inventory",
+    title: "Murderball Analytics Practical Value & Use-Case Inventory",
     total_personas_analyzed: 10,
     personas: [
       {
@@ -931,7 +931,7 @@ export async function getExpansionSummary() {
     if (res.ok) return await res.json();
   } catch {}
   return {
-    title: "MurderBall External Dataset Expansion Summary",
+    title: "Murderball Analytics External Dataset Expansion Summary",
     total_platform_matches: 203,
     original_paralympic_matches: 120,
     newly_integrated_matches: 37,

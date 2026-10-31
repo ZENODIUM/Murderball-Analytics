@@ -1,4 +1,4 @@
-# MurderBall: technical evidence and limits
+# Murderball Analytics: technical evidence and limits
 
 This appendix supports the [submission README](../README.md). Headline research claims follow the [authoritative registry](../data/extracted/canonical_research_registry.json), not older narrative reports. Counts from different cohorts are kept separate.
 

@@ -150,7 +150,7 @@ export default function Home() {
           <div className="flex items-center gap-3">
             <div className="app-logo w-10 h-10 rounded-xl flex items-center justify-center"><RugbyMark className="w-7 h-7" /></div>
             <div>
-              <h1 className="font-black text-lg tracking-tight leading-tight">MurderBall</h1>
+              <h1 className="font-black text-lg tracking-tight leading-tight">Murderball Analytics</h1>
               <p className="text-xs app-muted">Wheelchair rugby intelligence</p>
             </div>
           </div>
@@ -196,7 +196,7 @@ export default function Home() {
         <main className="app-content min-w-0 w-full">
           <div className="app-page-heading rounded-2xl px-5 py-4 mb-5">
             <div className="text-[11px] uppercase tracking-[0.15em] font-bold app-muted">{activeArea === "workspace" ? "Workspace" : "Research & Data"}</div>
-            <h2 className="text-xl font-bold mt-1">{currentItem?.label || "MurderBall"}</h2>
+            <h2 className="text-xl font-bold mt-1">{currentItem?.label || "Murderball Analytics"}</h2>
           </div>
         {activeTab === "theatre" && (
           <MatchTheatre
@@ -337,7 +337,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="app-footer px-4 lg:px-8 py-5 text-center text-xs space-y-2">
         <p>
-          MurderBall Wheelchair Rugby Analytics • Built for the <strong>AQX Sports Analytics Data Bowl 4.0</strong>
+          Murderball Analytics • Built for the <strong>AQX Sports Analytics Data Bowl 4.0</strong>
         </p>
         <p className="text-[11px] text-slate-400">
           Source: Official World Wheelchair Rugby (WWR) Results Books (Athens 2004 – Paris 2024), World Championships 1995–2022, and WWR Rankings Snapshot.

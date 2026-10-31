@@ -631,7 +631,7 @@ export default function LivingIntelligenceUI({ onNavigateTab }: LivingUIProps) {
                   Scientific Epistemic Boundary
                 </div>
                 <p className="text-slate-300 leading-relaxed">
-                  The MurderBall platform explicitly refuses to invent synthetic match results or generate overconfident point spreads for this tournament. Instead, we establish descriptive athlete profiles, prior uncertainty bounds, and a live data collection framework.
+                  Murderball Analytics does not invent match results or unsupported point spreads for this tournament. This section presents descriptive athlete profiles, uncertainty bounds, and a data collection plan.
                 </p>
               </div>
             </div>

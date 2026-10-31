@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "MurderBall Intelligence | Wheelchair Rugby Analytics",
-  description: "Professional Evidence-Backed Wheelchair Rugby Intelligence & Analytics Platform for the AQX Sports Analytics Data Bowl 4.0",
+  title: "Murderball Analytics | Wheelchair Rugby Intelligence",
+  description: "Murderball Analytics explores official wheelchair rugby records, research findings, and hypothetical lineup decisions for the AQX Sports Analytics Data Bowl 4.0.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {

@@ -34,7 +34,7 @@ export default function CoachAssistantUI({ onNavigateTab, onSendToTacticalCourt 
     {
       id: "welcome_01",
       sender: "assistant",
-      text: "Welcome to the **MurderBall Coach Intelligence Assistant**. I am an evidence-grounded agent with safe, typed access to our 120 Paralympic matches, 5,148 reconstructed stints, and calibrated predictive models. Ask me complex match questions, request opponent scouting dossiers, explore counterfactual lineup alternatives, or audit evidence gaps.",
+      text: "Welcome to the **Murderball Analytics Coach Intelligence Assistant**. I can inspect the available match records, research findings, and model-based lineup scenarios. Ask about a match, compare players, explore a hypothetical lineup, or audit an evidence gap.",
       timestamp: "Just now",
       workflow: "general_coaching_advice",
       provider: "OFFLINE_DETERMINISTIC_ENGINE",
@@ -163,7 +163,7 @@ export default function CoachAssistantUI({ onNavigateTab, onSendToTacticalCourt 
             </div>
             <h2 className="text-2xl font-black text-white tracking-tight flex items-center gap-2">
               <Bot className="w-7 h-7 text-cyan-400" />
-              MurderBall Coach Intelligence Assistant
+              Murderball Analytics Coach Intelligence Assistant
             </h2>
             <p className="text-sm text-slate-400 mt-1 max-w-4xl leading-relaxed">
               Multi-step analytical reasoning engine for coaches, athletes, and researchers. Safe typed tools, adversarial decision critiques, epistemic evidence-gap auditing, and deep application navigation.
@@ -226,7 +226,7 @@ export default function CoachAssistantUI({ onNavigateTab, onSendToTacticalCourt 
                         <div className="flex items-center gap-2">
                           <span className="font-bold text-cyan-400 flex items-center gap-1">
                             <Bot className="w-3.5 h-3.5" />
-                            MurderBall Agent
+                            Murderball Analytics Agent
                           </span>
                           {msg.workflow && (
                             <span className="px-2 py-0.5 rounded bg-slate-900 text-slate-300 border border-slate-800">

@@ -466,7 +466,7 @@ export default function AnnotationPlannerUI({ onNavigateTab }: AnnotationPlanner
               <div className="flex items-center gap-2">
                 <Activity className="w-5 h-5 text-amber-400" />
                 <h3 className="text-base font-bold text-white">
-                  MurderBall Agentic Intelligence System Evaluation Benchmark
+                  Murderball Analytics Agentic Intelligence Evaluation Benchmark
                 </h3>
               </div>
               <button
