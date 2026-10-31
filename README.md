@@ -4,7 +4,7 @@
 
 [Live website](https://murderball.vercel.app/) · [GitHub source](https://github.com/ZENODIUM/Murderball-Analytics) · [Research figures](Docs/presentation_assets/README.md) · [Technical evidence](Docs/SUBMISSION_TECHNICAL_APPENDIX.md)
 
-**Recorded demo:** `[add URL before submission]`
+**Recorded demo:** [Demo Link](https://youtu.be/nd-rxM0gY80)
 
 ## Why I built it
 
