@@ -1,0 +1,1446 @@
+{
+  "snapshot_date": "August 29, 2026",
+  "source_url": "https://worldwheelchair.rugby/world-rankings/",
+  "note": "Official snapshot as of August 29, 2026. Anomalies preserved and documented.",
+  "metadata": {
+    "title": "Official World Wheelchair Rugby (WWR) World Rankings",
+    "snapshot_date": "August 29, 2026",
+    "source_url": "https://worldwheelchair.rugby/world-rankings/",
+    "total_raw_elements": 41,
+    "total_ranked_members": 32,
+    "total_unranked_members": 8,
+    "curator": "MurderBall Independent Audit Engine",
+    "anomalies_preserved": [
+      "Israel points='c'",
+      "Poland diff=0 (41.60 vs 4.60)"
+    ]
+  },
+  "ranked_countries": [
+    {
+      "country": "Japan",
+      "raw_spans": [
+        "Japan",
+        "Rank: 01",
+        "Points: 657.25",
+        "Previous: 571.00",
+        "Difference: 86.25",
+        "Previous Rank: 1",
+        "Change: 0"
+      ],
+      "rank": "01",
+      "points": "657.25",
+      "previous": "571.00",
+      "difference": "86.25",
+      "previous_rank": "1",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Australia",
+      "raw_spans": [
+        "Australia",
+        "Rank: 02",
+        "Points: 655.25",
+        "Previous: 542.75",
+        "Difference: 112.50",
+        "Previous Rank: 2",
+        "Change: 0"
+      ],
+      "rank": "02",
+      "points": "655.25",
+      "previous": "542.75",
+      "difference": "112.50",
+      "previous_rank": "2",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "United States",
+      "raw_spans": [
+        "United States",
+        "Rank: 03",
+        "Points: 604.95",
+        "Previous: 467.45",
+        "Difference: 137.50",
+        "Previous Rank: 3",
+        "Change: 0"
+      ],
+      "rank": "03",
+      "points": "604.95",
+      "previous": "467.45",
+      "difference": "137.50",
+      "previous_rank": "3",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Great Britain",
+      "raw_spans": [
+        "Great Britain",
+        "Rank: 04",
+        "Points: 530.50",
+        "Previous: 425.50",
+        "Difference: 105.00",
+        "Previous Rank: 4",
+        "Change: 0"
+      ],
+      "rank": "04",
+      "points": "530.50",
+      "previous": "425.50",
+      "difference": "105.00",
+      "previous_rank": "4",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "France",
+      "raw_spans": [
+        "France",
+        "Rank: 05",
+        "Points: 489.25",
+        "Previous: 424.25",
+        "Difference: 65.00",
+        "Previous Rank: 5",
+        "Change: 0"
+      ],
+      "rank": "05",
+      "points": "489.25",
+      "previous": "424.25",
+      "difference": "65.00",
+      "previous_rank": "5",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Canada",
+      "raw_spans": [
+        "Canada",
+        "Rank: 06",
+        "Points: 393.35",
+        "Previous: 348.35",
+        "Difference: 45.00",
+        "Previous Rank: 6",
+        "Change: 0"
+      ],
+      "rank": "06",
+      "points": "393.35",
+      "previous": "348.35",
+      "difference": "45.00",
+      "previous_rank": "6",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Brazil",
+      "raw_spans": [
+        "Brazil",
+        "Rank: 07",
+        "Points: 354.30",
+        "Previous: 322.00",
+        "Difference: 32.50",
+        "Previous Rank: 7",
+        "Change: 0"
+      ],
+      "rank": "07",
+      "points": "354.30",
+      "previous": "322.00",
+      "difference": "32.50",
+      "previous_rank": "7",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Denmark",
+      "raw_spans": [
+        "Denmark",
+        "Rank: 08",
+        "Points: 330.40",
+        "Previous: 285.40",
+        "Difference: 45.00",
+        "Previous Rank: 8",
+        "Change: 0"
+      ],
+      "rank": "08",
+      "points": "330.40",
+      "previous": "285.40",
+      "difference": "45.00",
+      "previous_rank": "8",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Germany",
+      "raw_spans": [
+        "Germany",
+        "Rank: 09",
+        "Points: 264.50",
+        "Previous: 227.00",
+        "Difference: 37.50",
+        "Previous Rank: 9",
+        "Change: 0"
+      ],
+      "rank": "09",
+      "points": "264.50",
+      "previous": "227.00",
+      "difference": "37.50",
+      "previous_rank": "9",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "New Zealand",
+      "raw_spans": [
+        "New Zealand",
+        "Rank: 10",
+        "Points: 242.60",
+        "Previous: 221.10",
+        "Difference: 21.50",
+        "Previous Rank: 10",
+        "Change: 0"
+      ],
+      "rank": "10",
+      "points": "242.60",
+      "previous": "221.10",
+      "difference": "21.50",
+      "previous_rank": "10",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Colombia",
+      "raw_spans": [
+        "Colombia",
+        "Rank: 11=",
+        "Points: 210.00",
+        "Previous: 170.00",
+        "Difference: 40.00",
+        "Previous Rank: 11",
+        "Change: 0"
+      ],
+      "rank": "11=",
+      "points": "210.00",
+      "previous": "170.00",
+      "difference": "40.00",
+      "previous_rank": "11",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Netherlands",
+      "raw_spans": [
+        "Netherlands",
+        "Rank: 11=",
+        "Points: 210.00",
+        "Previous: 132.50",
+        "Difference: 77.50",
+        "Previous Rank: 13",
+        "Change: +2"
+      ],
+      "rank": "11=",
+      "points": "210.00",
+      "previous": "132.50",
+      "difference": "77.50",
+      "previous_rank": "13",
+      "change": "+2",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Switzerland",
+      "raw_spans": [
+        "Switzerland",
+        "Rank: 13",
+        "Points: 166.10",
+        "Previous: 138.60",
+        "Difference: 27.50",
+        "Previous Rank: 12",
+        "Change: -1"
+      ],
+      "rank": "13",
+      "points": "166.10",
+      "previous": "138.60",
+      "difference": "27.50",
+      "previous_rank": "12",
+      "change": "-1",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Argentina",
+      "raw_spans": [
+        "Argentina",
+        "Rank: 14",
+        "Points: 130.00",
+        "Previous: 75.00",
+        "Difference: 55.00",
+        "Previous Rank: 15",
+        "Change: +1"
+      ],
+      "rank": "14",
+      "points": "130.00",
+      "previous": "75.00",
+      "difference": "55.00",
+      "previous_rank": "15",
+      "change": "+1",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Chile",
+      "raw_spans": [
+        "Chile",
+        "Rank: 15",
+        "Points: 119.00",
+        "Previous: 69.00",
+        "Difference: 50.00",
+        "Previous Rank: 17",
+        "Change: +2"
+      ],
+      "rank": "15",
+      "points": "119.00",
+      "previous": "69.00",
+      "difference": "50.00",
+      "previous_rank": "17",
+      "change": "+2",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Republic of Korea",
+      "raw_spans": [
+        "Republic of Korea",
+        "Rank: 16",
+        "Points: 108.38",
+        "Previous: 109.50",
+        "Difference: -1.13",
+        "Previous Rank: 14",
+        "Change: -2"
+      ],
+      "rank": "16",
+      "points": "108.38",
+      "previous": "109.50",
+      "difference": "-1.13",
+      "previous_rank": "14",
+      "change": "-2",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Thailand",
+      "raw_spans": [
+        "Thailand",
+        "Rank: 17",
+        "Points: 75.00",
+        "Previous: 75.00",
+        "Difference: 0",
+        "Previous Rank: 16",
+        "Change: -1"
+      ],
+      "rank": "17",
+      "points": "75.00",
+      "previous": "75.00",
+      "difference": "0",
+      "previous_rank": "16",
+      "change": "-1",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Malaysia",
+      "raw_spans": [
+        "Malaysia",
+        "Rank: 18",
+        "Points: 69.00",
+        "Previous: 69.00",
+        "Difference: 0",
+        "Previous Rank: 18",
+        "Change: 0"
+      ],
+      "rank": "18",
+      "points": "69.00",
+      "previous": "69.00",
+      "difference": "0",
+      "previous_rank": "18",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Spain",
+      "raw_spans": [
+        "Spain",
+        "Rank: 19",
+        "Points: 67.20",
+        "Previous: 67.20",
+        "Difference: 0",
+        "Previous Rank: 19",
+        "Change: 0"
+      ],
+      "rank": "19",
+      "points": "67.20",
+      "previous": "67.20",
+      "difference": "0",
+      "previous_rank": "19",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Paraguay",
+      "raw_spans": [
+        "Paraguay",
+        "Rank: 20",
+        "Points: 63.00",
+        "Previous: 63.00",
+        "Difference: 0",
+        "Previous Rank: 20",
+        "Change: 0"
+      ],
+      "rank": "20",
+      "points": "63.00",
+      "previous": "63.00",
+      "difference": "0",
+      "previous_rank": "20",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Sweden",
+      "raw_spans": [
+        "Sweden",
+        "Rank: 21",
+        "Points: 60.80",
+        "Previous: 60.80",
+        "Difference: 0",
+        "Previous Rank: 21",
+        "Change: 0"
+      ],
+      "rank": "21",
+      "points": "60.80",
+      "previous": "60.80",
+      "difference": "0",
+      "previous_rank": "21",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Peru",
+      "raw_spans": [
+        "Peru",
+        "Rank: 22",
+        "Points: 57.00",
+        "Previous: 57.00",
+        "Difference: 0",
+        "Previous Rank: 22",
+        "Change: 0"
+      ],
+      "rank": "22",
+      "points": "57.00",
+      "previous": "57.00",
+      "difference": "0",
+      "previous_rank": "22",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Israel",
+      "raw_spans": [
+        "Israel",
+        "Rank: 23",
+        "Points: c",
+        "Previous: 60.80",
+        "Difference: 0",
+        "Previous Rank: 23",
+        "Change: 0"
+      ],
+      "rank": "23",
+      "points": "c",
+      "previous": "60.80",
+      "difference": "0",
+      "previous_rank": "23",
+      "change": "0",
+      "data_quality_flag": "MALFORMED_POINTS_STRING",
+      "notes": "Official WWR published points as 'c' instead of numerical rating. Preserved raw from source."
+    },
+    {
+      "country": "Italy",
+      "raw_spans": [
+        "Italy",
+        "Rank: 24",
+        "Points: 48.00",
+        "Previous: 48.00",
+        "Difference: 0",
+        "Previous Rank: 24",
+        "Change: 0"
+      ],
+      "rank": "24",
+      "points": "48.00",
+      "previous": "48.00",
+      "difference": "0",
+      "previous_rank": "24",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Czechia",
+      "raw_spans": [
+        "Czechia",
+        "Rank: 25",
+        "Points: 44.80",
+        "Previous: 44.80",
+        "Difference: 0",
+        "Previous Rank: 25",
+        "Change: 0"
+      ],
+      "rank": "25",
+      "points": "44.80",
+      "previous": "44.80",
+      "difference": "0",
+      "previous_rank": "25",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Poland",
+      "raw_spans": [
+        "Poland",
+        "Rank: 26",
+        "Points: 41.60",
+        "Previous: 4.60",
+        "Difference: 0",
+        "Previous Rank: 26",
+        "Change: 0"
+      ],
+      "rank": "26",
+      "points": "41.60",
+      "previous": "4.60",
+      "difference": "0",
+      "previous_rank": "26",
+      "change": "0",
+      "data_quality_flag": "ARITHMETIC_INCONSISTENCY",
+      "notes": "Points listed as 41.60 with previous 4.60, but difference listed as 0. Preserved raw from source."
+    },
+    {
+      "country": "Ireland",
+      "raw_spans": [
+        "Ireland",
+        "Rank: 27",
+        "Points: 38.40",
+        "Previous: 38.40",
+        "Difference: 0",
+        "Previous Rank: 27",
+        "Change: 0"
+      ],
+      "rank": "27",
+      "points": "38.40",
+      "previous": "38.40",
+      "difference": "0",
+      "previous_rank": "27",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "South Africa",
+      "raw_spans": [
+        "South Africa",
+        "Rank: 28",
+        "Points: 35.20",
+        "Previous: 35.20",
+        "Difference: 0",
+        "Previous Rank: 28",
+        "Change: 0"
+      ],
+      "rank": "28",
+      "points": "35.20",
+      "previous": "35.20",
+      "difference": "0",
+      "previous_rank": "28",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Norway",
+      "raw_spans": [
+        "Norway",
+        "Rank: 29",
+        "Points: 32.00",
+        "Previous: 32.00",
+        "Difference: 0",
+        "Previous Rank: 29",
+        "Change: 0"
+      ],
+      "rank": "29",
+      "points": "32.00",
+      "previous": "32.00",
+      "difference": "0",
+      "previous_rank": "29",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Singapore",
+      "raw_spans": [
+        "Singapore",
+        "Rank: 30",
+        "Points: 5.00",
+        "Previous: 5.00",
+        "Difference: 0",
+        "Previous Rank: 30",
+        "Change: 0"
+      ],
+      "rank": "30",
+      "points": "5.00",
+      "previous": "5.00",
+      "difference": "0",
+      "previous_rank": "30",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Indonesia",
+      "raw_spans": [
+        "Indonesia",
+        "Rank: 31",
+        "Points: 4.50",
+        "Previous: 4.50",
+        "Difference: 0",
+        "Previous Rank: 31",
+        "Change: 0"
+      ],
+      "rank": "31",
+      "points": "4.50",
+      "previous": "4.50",
+      "difference": "0",
+      "previous_rank": "31",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "India",
+      "raw_spans": [
+        "India",
+        "Rank: 32",
+        "Points: 4.00",
+        "Previous: 4.00",
+        "Difference: 0",
+        "Previous Rank: 32",
+        "Change: 0"
+      ],
+      "rank": "32",
+      "points": "4.00",
+      "previous": "4.00",
+      "difference": "0",
+      "previous_rank": "32",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    }
+  ],
+  "unranked_countries": [
+    {
+      "country": "Austria",
+      "raw_spans": [
+        "Austria",
+        "Rank: -",
+        "Points: 0",
+        "Previous: -",
+        "Difference: -",
+        "Previous Rank: -",
+        "Change: -"
+      ],
+      "rank": "-",
+      "points": "0",
+      "previous": "-",
+      "difference": "-",
+      "previous_rank": "-",
+      "change": "-",
+      "status": "Unranked / Non-Active",
+      "data_quality_flag": "UNRANKED"
+    },
+    {
+      "country": "Belgium",
+      "raw_spans": [
+        "Belgium",
+        "Rank: -",
+        "Points: 0",
+        "Previous: -",
+        "Difference: -",
+        "Previous Rank: -",
+        "Change: -"
+      ],
+      "rank": "-",
+      "points": "0",
+      "previous": "-",
+      "difference": "-",
+      "previous_rank": "-",
+      "change": "-",
+      "status": "Unranked / Non-Active",
+      "data_quality_flag": "UNRANKED"
+    },
+    {
+      "country": "China",
+      "raw_spans": [
+        "China",
+        "Rank: -",
+        "Points: 0",
+        "Previous: -",
+        "Difference: -",
+        "Previous Rank: -",
+        "Change: -"
+      ],
+      "rank": "-",
+      "points": "0",
+      "previous": "-",
+      "difference": "-",
+      "previous_rank": "-",
+      "change": "-",
+      "status": "Unranked / Non-Active",
+      "data_quality_flag": "UNRANKED"
+    },
+    {
+      "country": "Finland",
+      "raw_spans": [
+        "Finland",
+        "Rank: -",
+        "Points: 0",
+        "Previous: -",
+        "Difference: -",
+        "Previous Rank: -",
+        "Change: -"
+      ],
+      "rank": "-",
+      "points": "0",
+      "previous": "-",
+      "difference": "-",
+      "previous_rank": "-",
+      "change": "-",
+      "status": "Unranked / Non-Active",
+      "data_quality_flag": "UNRANKED"
+    },
+    {
+      "country": "Greece",
+      "raw_spans": [
+        "Greece",
+        "Rank: -",
+        "Points: 0",
+        "Previous: -",
+        "Difference: -",
+        "Previous Rank: -",
+        "Change: -"
+      ],
+      "rank": "-",
+      "points": "0",
+      "previous": "-",
+      "difference": "-",
+      "previous_rank": "-",
+      "change": "-",
+      "status": "Unranked / Non-Active",
+      "data_quality_flag": "UNRANKED"
+    },
+    {
+      "country": "Hungary",
+      "raw_spans": [
+        "Hungary",
+        "Rank:",
+        "Points: 0",
+        "Previous:",
+        "Difference:",
+        "Previous Rank:",
+        "Change:"
+      ],
+      "rank": "",
+      "points": "0",
+      "previous": "",
+      "difference": "",
+      "previous_rank": "",
+      "change": "",
+      "status": "Unranked / Non-Active",
+      "data_quality_flag": "UNRANKED"
+    },
+    {
+      "country": "Mexico",
+      "raw_spans": [
+        "Mexico",
+        "Rank: -",
+        "Points: 0",
+        "Previous: -",
+        "Difference: -",
+        "Previous Rank: -",
+        "Change: -"
+      ],
+      "rank": "-",
+      "points": "0",
+      "previous": "-",
+      "difference": "-",
+      "previous_rank": "-",
+      "change": "-",
+      "status": "Unranked / Non-Active",
+      "data_quality_flag": "UNRANKED"
+    },
+    {
+      "country": "Portugal",
+      "raw_spans": [
+        "Portugal",
+        "Rank: -",
+        "Points: 0",
+        "Previous: -",
+        "Difference: -",
+        "Previous Rank: -",
+        "Change: -"
+      ],
+      "rank": "-",
+      "points": "0",
+      "previous": "-",
+      "difference": "-",
+      "previous_rank": "-",
+      "change": "-",
+      "status": "Unranked / Non-Active",
+      "data_quality_flag": "UNRANKED"
+    }
+  ],
+  "separator_divider": {
+    "country": "End of ranked members",
+    "raw_spans": [
+      "End of ranked members",
+      "Rank:",
+      "Points:",
+      "Previous:",
+      "Difference:",
+      "Previous Rank:",
+      "Change:"
+    ],
+    "rank": "",
+    "points": "",
+    "previous": "",
+    "difference": "",
+    "previous_rank": "",
+    "change": ""
+  },
+  "rankings": [
+    {
+      "country": "Japan",
+      "raw_spans": [
+        "Japan",
+        "Rank: 01",
+        "Points: 657.25",
+        "Previous: 571.00",
+        "Difference: 86.25",
+        "Previous Rank: 1",
+        "Change: 0"
+      ],
+      "rank": "01",
+      "points": "657.25",
+      "previous": "571.00",
+      "difference": "86.25",
+      "previous_rank": "1",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Australia",
+      "raw_spans": [
+        "Australia",
+        "Rank: 02",
+        "Points: 655.25",
+        "Previous: 542.75",
+        "Difference: 112.50",
+        "Previous Rank: 2",
+        "Change: 0"
+      ],
+      "rank": "02",
+      "points": "655.25",
+      "previous": "542.75",
+      "difference": "112.50",
+      "previous_rank": "2",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "United States",
+      "raw_spans": [
+        "United States",
+        "Rank: 03",
+        "Points: 604.95",
+        "Previous: 467.45",
+        "Difference: 137.50",
+        "Previous Rank: 3",
+        "Change: 0"
+      ],
+      "rank": "03",
+      "points": "604.95",
+      "previous": "467.45",
+      "difference": "137.50",
+      "previous_rank": "3",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Great Britain",
+      "raw_spans": [
+        "Great Britain",
+        "Rank: 04",
+        "Points: 530.50",
+        "Previous: 425.50",
+        "Difference: 105.00",
+        "Previous Rank: 4",
+        "Change: 0"
+      ],
+      "rank": "04",
+      "points": "530.50",
+      "previous": "425.50",
+      "difference": "105.00",
+      "previous_rank": "4",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "France",
+      "raw_spans": [
+        "France",
+        "Rank: 05",
+        "Points: 489.25",
+        "Previous: 424.25",
+        "Difference: 65.00",
+        "Previous Rank: 5",
+        "Change: 0"
+      ],
+      "rank": "05",
+      "points": "489.25",
+      "previous": "424.25",
+      "difference": "65.00",
+      "previous_rank": "5",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Canada",
+      "raw_spans": [
+        "Canada",
+        "Rank: 06",
+        "Points: 393.35",
+        "Previous: 348.35",
+        "Difference: 45.00",
+        "Previous Rank: 6",
+        "Change: 0"
+      ],
+      "rank": "06",
+      "points": "393.35",
+      "previous": "348.35",
+      "difference": "45.00",
+      "previous_rank": "6",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Brazil",
+      "raw_spans": [
+        "Brazil",
+        "Rank: 07",
+        "Points: 354.30",
+        "Previous: 322.00",
+        "Difference: 32.50",
+        "Previous Rank: 7",
+        "Change: 0"
+      ],
+      "rank": "07",
+      "points": "354.30",
+      "previous": "322.00",
+      "difference": "32.50",
+      "previous_rank": "7",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Denmark",
+      "raw_spans": [
+        "Denmark",
+        "Rank: 08",
+        "Points: 330.40",
+        "Previous: 285.40",
+        "Difference: 45.00",
+        "Previous Rank: 8",
+        "Change: 0"
+      ],
+      "rank": "08",
+      "points": "330.40",
+      "previous": "285.40",
+      "difference": "45.00",
+      "previous_rank": "8",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Germany",
+      "raw_spans": [
+        "Germany",
+        "Rank: 09",
+        "Points: 264.50",
+        "Previous: 227.00",
+        "Difference: 37.50",
+        "Previous Rank: 9",
+        "Change: 0"
+      ],
+      "rank": "09",
+      "points": "264.50",
+      "previous": "227.00",
+      "difference": "37.50",
+      "previous_rank": "9",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "New Zealand",
+      "raw_spans": [
+        "New Zealand",
+        "Rank: 10",
+        "Points: 242.60",
+        "Previous: 221.10",
+        "Difference: 21.50",
+        "Previous Rank: 10",
+        "Change: 0"
+      ],
+      "rank": "10",
+      "points": "242.60",
+      "previous": "221.10",
+      "difference": "21.50",
+      "previous_rank": "10",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Colombia",
+      "raw_spans": [
+        "Colombia",
+        "Rank: 11=",
+        "Points: 210.00",
+        "Previous: 170.00",
+        "Difference: 40.00",
+        "Previous Rank: 11",
+        "Change: 0"
+      ],
+      "rank": "11=",
+      "points": "210.00",
+      "previous": "170.00",
+      "difference": "40.00",
+      "previous_rank": "11",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Netherlands",
+      "raw_spans": [
+        "Netherlands",
+        "Rank: 11=",
+        "Points: 210.00",
+        "Previous: 132.50",
+        "Difference: 77.50",
+        "Previous Rank: 13",
+        "Change: +2"
+      ],
+      "rank": "11=",
+      "points": "210.00",
+      "previous": "132.50",
+      "difference": "77.50",
+      "previous_rank": "13",
+      "change": "+2",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Switzerland",
+      "raw_spans": [
+        "Switzerland",
+        "Rank: 13",
+        "Points: 166.10",
+        "Previous: 138.60",
+        "Difference: 27.50",
+        "Previous Rank: 12",
+        "Change: -1"
+      ],
+      "rank": "13",
+      "points": "166.10",
+      "previous": "138.60",
+      "difference": "27.50",
+      "previous_rank": "12",
+      "change": "-1",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Argentina",
+      "raw_spans": [
+        "Argentina",
+        "Rank: 14",
+        "Points: 130.00",
+        "Previous: 75.00",
+        "Difference: 55.00",
+        "Previous Rank: 15",
+        "Change: +1"
+      ],
+      "rank": "14",
+      "points": "130.00",
+      "previous": "75.00",
+      "difference": "55.00",
+      "previous_rank": "15",
+      "change": "+1",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Chile",
+      "raw_spans": [
+        "Chile",
+        "Rank: 15",
+        "Points: 119.00",
+        "Previous: 69.00",
+        "Difference: 50.00",
+        "Previous Rank: 17",
+        "Change: +2"
+      ],
+      "rank": "15",
+      "points": "119.00",
+      "previous": "69.00",
+      "difference": "50.00",
+      "previous_rank": "17",
+      "change": "+2",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Republic of Korea",
+      "raw_spans": [
+        "Republic of Korea",
+        "Rank: 16",
+        "Points: 108.38",
+        "Previous: 109.50",
+        "Difference: -1.13",
+        "Previous Rank: 14",
+        "Change: -2"
+      ],
+      "rank": "16",
+      "points": "108.38",
+      "previous": "109.50",
+      "difference": "-1.13",
+      "previous_rank": "14",
+      "change": "-2",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Thailand",
+      "raw_spans": [
+        "Thailand",
+        "Rank: 17",
+        "Points: 75.00",
+        "Previous: 75.00",
+        "Difference: 0",
+        "Previous Rank: 16",
+        "Change: -1"
+      ],
+      "rank": "17",
+      "points": "75.00",
+      "previous": "75.00",
+      "difference": "0",
+      "previous_rank": "16",
+      "change": "-1",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Malaysia",
+      "raw_spans": [
+        "Malaysia",
+        "Rank: 18",
+        "Points: 69.00",
+        "Previous: 69.00",
+        "Difference: 0",
+        "Previous Rank: 18",
+        "Change: 0"
+      ],
+      "rank": "18",
+      "points": "69.00",
+      "previous": "69.00",
+      "difference": "0",
+      "previous_rank": "18",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Spain",
+      "raw_spans": [
+        "Spain",
+        "Rank: 19",
+        "Points: 67.20",
+        "Previous: 67.20",
+        "Difference: 0",
+        "Previous Rank: 19",
+        "Change: 0"
+      ],
+      "rank": "19",
+      "points": "67.20",
+      "previous": "67.20",
+      "difference": "0",
+      "previous_rank": "19",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Paraguay",
+      "raw_spans": [
+        "Paraguay",
+        "Rank: 20",
+        "Points: 63.00",
+        "Previous: 63.00",
+        "Difference: 0",
+        "Previous Rank: 20",
+        "Change: 0"
+      ],
+      "rank": "20",
+      "points": "63.00",
+      "previous": "63.00",
+      "difference": "0",
+      "previous_rank": "20",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Sweden",
+      "raw_spans": [
+        "Sweden",
+        "Rank: 21",
+        "Points: 60.80",
+        "Previous: 60.80",
+        "Difference: 0",
+        "Previous Rank: 21",
+        "Change: 0"
+      ],
+      "rank": "21",
+      "points": "60.80",
+      "previous": "60.80",
+      "difference": "0",
+      "previous_rank": "21",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Peru",
+      "raw_spans": [
+        "Peru",
+        "Rank: 22",
+        "Points: 57.00",
+        "Previous: 57.00",
+        "Difference: 0",
+        "Previous Rank: 22",
+        "Change: 0"
+      ],
+      "rank": "22",
+      "points": "57.00",
+      "previous": "57.00",
+      "difference": "0",
+      "previous_rank": "22",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Israel",
+      "raw_spans": [
+        "Israel",
+        "Rank: 23",
+        "Points: c",
+        "Previous: 60.80",
+        "Difference: 0",
+        "Previous Rank: 23",
+        "Change: 0"
+      ],
+      "rank": "23",
+      "points": "c",
+      "previous": "60.80",
+      "difference": "0",
+      "previous_rank": "23",
+      "change": "0",
+      "data_quality_flag": "MALFORMED_POINTS_STRING",
+      "notes": "Official WWR published points as 'c' instead of numerical rating. Preserved raw from source."
+    },
+    {
+      "country": "Italy",
+      "raw_spans": [
+        "Italy",
+        "Rank: 24",
+        "Points: 48.00",
+        "Previous: 48.00",
+        "Difference: 0",
+        "Previous Rank: 24",
+        "Change: 0"
+      ],
+      "rank": "24",
+      "points": "48.00",
+      "previous": "48.00",
+      "difference": "0",
+      "previous_rank": "24",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Czechia",
+      "raw_spans": [
+        "Czechia",
+        "Rank: 25",
+        "Points: 44.80",
+        "Previous: 44.80",
+        "Difference: 0",
+        "Previous Rank: 25",
+        "Change: 0"
+      ],
+      "rank": "25",
+      "points": "44.80",
+      "previous": "44.80",
+      "difference": "0",
+      "previous_rank": "25",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Poland",
+      "raw_spans": [
+        "Poland",
+        "Rank: 26",
+        "Points: 41.60",
+        "Previous: 4.60",
+        "Difference: 0",
+        "Previous Rank: 26",
+        "Change: 0"
+      ],
+      "rank": "26",
+      "points": "41.60",
+      "previous": "4.60",
+      "difference": "0",
+      "previous_rank": "26",
+      "change": "0",
+      "data_quality_flag": "ARITHMETIC_INCONSISTENCY",
+      "notes": "Points listed as 41.60 with previous 4.60, but difference listed as 0. Preserved raw from source."
+    },
+    {
+      "country": "Ireland",
+      "raw_spans": [
+        "Ireland",
+        "Rank: 27",
+        "Points: 38.40",
+        "Previous: 38.40",
+        "Difference: 0",
+        "Previous Rank: 27",
+        "Change: 0"
+      ],
+      "rank": "27",
+      "points": "38.40",
+      "previous": "38.40",
+      "difference": "0",
+      "previous_rank": "27",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "South Africa",
+      "raw_spans": [
+        "South Africa",
+        "Rank: 28",
+        "Points: 35.20",
+        "Previous: 35.20",
+        "Difference: 0",
+        "Previous Rank: 28",
+        "Change: 0"
+      ],
+      "rank": "28",
+      "points": "35.20",
+      "previous": "35.20",
+      "difference": "0",
+      "previous_rank": "28",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Norway",
+      "raw_spans": [
+        "Norway",
+        "Rank: 29",
+        "Points: 32.00",
+        "Previous: 32.00",
+        "Difference: 0",
+        "Previous Rank: 29",
+        "Change: 0"
+      ],
+      "rank": "29",
+      "points": "32.00",
+      "previous": "32.00",
+      "difference": "0",
+      "previous_rank": "29",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Singapore",
+      "raw_spans": [
+        "Singapore",
+        "Rank: 30",
+        "Points: 5.00",
+        "Previous: 5.00",
+        "Difference: 0",
+        "Previous Rank: 30",
+        "Change: 0"
+      ],
+      "rank": "30",
+      "points": "5.00",
+      "previous": "5.00",
+      "difference": "0",
+      "previous_rank": "30",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "Indonesia",
+      "raw_spans": [
+        "Indonesia",
+        "Rank: 31",
+        "Points: 4.50",
+        "Previous: 4.50",
+        "Difference: 0",
+        "Previous Rank: 31",
+        "Change: 0"
+      ],
+      "rank": "31",
+      "points": "4.50",
+      "previous": "4.50",
+      "difference": "0",
+      "previous_rank": "31",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    },
+    {
+      "country": "India",
+      "raw_spans": [
+        "India",
+        "Rank: 32",
+        "Points: 4.00",
+        "Previous: 4.00",
+        "Difference: 0",
+        "Previous Rank: 32",
+        "Change: 0"
+      ],
+      "rank": "32",
+      "points": "4.00",
+      "previous": "4.00",
+      "difference": "0",
+      "previous_rank": "32",
+      "change": "0",
+      "data_quality_flag": "NORMAL"
+    }
+  ],
+  "data_anomalies_investigation": {
+    "total_anomalies": 2,
+    "flagged_anomalies": [
+      {
+        "anomaly_id": "WWR_ANOMALY_01",
+        "country": "Israel",
+        "field": "points",
+        "raw_value": "c",
+        "expected_type": "float",
+        "description": "Malformed character 'c' present in official WWR DOM snapshot instead of numeric float.",
+        "status": "PRESERVED_RAW"
+      },
+      {
+        "anomaly_id": "WWR_ANOMALY_02",
+        "country": "Poland",
+        "field": "difference",
+        "points": "41.60",
+        "previous": "4.60",
+        "difference": "0",
+        "description": "Internal arithmetic mismatch: 41.60 - 4.60 = 37.00, but official difference recorded as 0.",
+        "status": "PRESERVED_RAW"
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "metadata": {
+    "title": "Grounded Wheelchair Rugby Match Storylines",
+    "total_narrative_matches": 5,
+    "provenance_standard": "Reconstructed strictly from official event timestamps, period tables, and validated C73/C74 reports."
+  },
+  "matches": {
+    "PAR24_M20": {
+      "match_id": "PAR24_M20",
+      "title": "Paris 2024 Gold Medal: Japan Makes History vs United States",
+      "tournament": "Paris 2024",
+      "stage": "Gold Medal Game",
+      "final_score": "JPN 48 - 41 USA",
+      "winner": "JPN",
+      "margin": 7,
+      "chapters": [
+        {
+          "chapter_index": 1,
+          "period": 1,
+          "title": "Quarter 1: Verified Score Progression",
+          "score_at_conclusion": "11 - 14",
+          "margin": -3,
+          "summary": "The official record supplies the starting lineups and period score for JPN and USA. Specific presses, passes, screens, and movement routes are not described because no synchronized video or spatial tracking was verified.",
+          "critical_events": [],
+          "source_provenance": "Official Results Book page 130"
+        },
+        {
+          "chapter_index": 2,
+          "period": 2,
+          "title": "Quarter 2: Verified Events and Rotations",
+          "score_at_conclusion": "24 - 23",
+          "margin": 1,
+          "summary": "The official event record contains 4 turnover or steal events in this period. It does not establish the press, trap, pass route, or coaching adjustment that produced them.",
+          "critical_events": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "source_provenance": "Official Results Book page 130"
+        },
+        {
+          "chapter_index": 3,
+          "period": 4,
+          "title": "Quarter 4: High-Leverage Championship Climax",
+          "score_at_conclusion": "48 - 41",
+          "margin": 7,
+          "summary": "The official record documents the final-period events and the 48 to 41 result. Any tactical explanation for that sequence remains a hypothesis unless supported by synchronized video or spatial data.",
+          "critical_events": [],
+          "source_provenance": "Official Results Book C73 Match Summary & C74 Box Score"
+        }
+      ]
+    },
+    "TKY20_M18": {
+      "match_id": "TKY20_M18",
+      "title": "Tokyo 2020 Gold Medal: Great Britain's Historic European Breakthrough",
+      "tournament": "Tokyo 2020",
+      "stage": "Gold Medal",
+      "final_score": "USA 49 - 54 GBR",
+      "winner": "GBR",
+      "margin": 5,
+      "chapters": [
+        {
+          "chapter_index": 1,
+          "period": 1,
+          "title": "Quarter 1: Verified Score Progression",
+          "score_at_conclusion": "12 - 15",
+          "margin": -3,
+          "summary": "The official record supplies the starting lineups and period score for USA and GBR. Specific presses, passes, screens, and movement routes are not described because no synchronized video or spatial tracking was verified.",
+          "critical_events": [
+            "5 - AOKI C Try",
+            "9 - ROBERTS J Try",
+            "5 - AOKI C Turnover - backcourt",
+            "13 - PHIPPS A Try"
+          ],
+          "source_provenance": "Official Results Book page 126"
+        },
+        {
+          "chapter_index": 2,
+          "period": 2,
+          "title": "Quarter 2: Verified Events and Rotations",
+          "score_at_conclusion": "24 - 26",
+          "margin": -2,
+          "summary": "The official event record contains 5 turnover or steal events in this period. It does not establish the press, trap, pass route, or coaching adjustment that produced them.",
+          "critical_events": [
+            "2 - COGGAN J Turnover - ten seconds in the key",
+            "14 - DELAGRAVE J Turnover - twelve seconds",
+            "3 - ROBINSON S Turnover - physical advantage",
+            "3 - ROBINSON S Timeout - medical"
+          ],
+          "source_provenance": "Official Results Book page 127"
+        },
+        {
+          "chapter_index": 3,
+          "period": 4,
+          "title": "Quarter 4: High-Leverage Championship Climax",
+          "score_at_conclusion": "49 - 54",
+          "margin": -5,
+          "summary": "The official record documents the final-period events and the 49 to 54 result. Any tactical explanation for that sequence remains a hypothesis unless supported by synchronized video or spatial data.",
+          "critical_events": [
+            "5 - AOKI C Try",
+            "3 - ROBINSON S Try",
+            "Timeout - 60s",
+            "6 - BUTLER J Turnover - out of bounds",
+            "3 - ROBINSON S Try"
+          ],
+          "source_provenance": "Official Results Book C73 Match Summary & C74 Box Score"
+        }
+      ]
+    },
+    "RIO16_M18": {
+      "match_id": "RIO16_M18",
+      "title": "Rio 2016 Gold Medal: The 2OT Epic \u2014 Australia 59, USA 58",
+      "tournament": "Rio 2016",
+      "stage": "Gold Medal",
+      "final_score": "AUS 59 - 58 USA",
+      "winner": "AUS",
+      "margin": 1,
+      "chapters": [
+        {
+          "chapter_index": 1,
+          "period": 1,
+          "title": "Quarter 1: Verified Score Progression",
+          "score_at_conclusion": "12 - 12",
+          "margin": 0,
+          "summary": "The official record supplies the starting lineups and period score for AUS and USA. Specific presses, passes, screens, and movement routes are not described because no synchronized video or spatial tracking was verified.",
+          "critical_events": [
+            "5 AOKI C Goal",
+            "15 HARRISON A Goal",
+            "5 AOKI C Goal",
+            "3 BATT R Goal"
+          ],
+          "source_provenance": "Official Results Book page 18"
+        },
+        {
+          "chapter_index": 2,
+          "period": 2,
+          "title": "Quarter 2: Verified Events and Rotations",
+          "score_at_conclusion": "26 - 25",
+          "margin": 1,
+          "summary": "The official event record contains 5 turnover or steal events in this period. It does not establish the press, trap, pass route, or coaching adjustment that produced them.",
+          "critical_events": [
+            "20 BREWER J Timeout - medical",
+            "20 BREWER J Turnover - tip-off",
+            "20 BREWER J Timeout - medical",
+            "10 BOND C Timeout - equipment"
+          ],
+          "source_provenance": "Official Results Book page 18"
+        },
+        {
+          "chapter_index": 3,
+          "period": 4,
+          "title": "Quarter 4: High-Leverage Championship Climax",
+          "score_at_conclusion": "59 - 58",
+          "margin": 1,
+          "summary": "The official record documents the final-period events and the 59 to 58 result. Any tactical explanation for that sequence remains a hypothesis unless supported by synchronized video or spatial data.",
+          "critical_events": [
+            "10 BOND C Goal",
+            "10 BOND C Timeout - equipment",
+            "20 BREWER J Goal",
+            "3 BATT R Turnover - throw in",
+            "5 AOKI C Steal"
+          ],
+          "source_provenance": "Official Results Book C73 Match Summary & C74 Box Score"
+        }
+      ]
+    },
+    "LON12_M20": {
+      "match_id": "LON12_M20",
+      "title": "London 2012 Gold Medal: Batt's 37-Try Masterclass vs Canada",
+      "tournament": "London 2012",
+      "stage": "Gold Medal",
+      "final_score": "CAN 51 - 66 AUS",
+      "winner": "AUS",
+      "margin": 15,
+      "chapters": [
+        {
+          "chapter_index": 1,
+          "period": 1,
+          "title": "Quarter 1: Verified Score Progression",
+          "score_at_conclusion": "11 - 18",
+          "margin": -7,
+          "summary": "The official record supplies the starting lineups and period score for CAN and AUS. Specific presses, passes, screens, and movement routes are not described because no synchronized video or spatial tracking was verified.",
+          "critical_events": [
+            "3-BATT R Goal",
+            "33-MADELL Z Goal 1",
+            "13-CARR C Goal",
+            "3-BATT R Steal"
+          ],
+          "source_provenance": "Official Results Book page 16"
+        },
+        {
+          "chapter_index": 2,
+          "period": 2,
+          "title": "Quarter 2: Verified Events and Rotations",
+          "score_at_conclusion": "21 - 34",
+          "margin": -13,
+          "summary": "The official event record contains 6 turnover or steal events in this period. It does not establish the press, trap, pass route, or coaching adjustment that produced them.",
+          "critical_events": [
+            "5-HICKLING G Turnover Ball out-of-bounds",
+            "5-HICKLING G Turnover Held Ball",
+            "5-HICKLING G Turnover Ball out-of-bounds"
+          ],
+          "source_provenance": "Official Results Book page 18"
+        },
+        {
+          "chapter_index": 3,
+          "period": 4,
+          "title": "Quarter 4: High-Leverage Championship Climax",
+          "score_at_conclusion": "51 - 66",
+          "margin": -15,
+          "summary": "The official record documents the final-period events and the 51 to 66 result. Any tactical explanation for that sequence remains a hypothesis unless supported by synchronized video or spatial data.",
+          "critical_events": [
+            "12-MURAO T TimeOut Equipment",
+            "12-MURAO T Goal 51",
+            "3-BATT R Goal",
+            "13-CARR C Steal",
+            "9-SMITH G Goal"
+          ],
+          "source_provenance": "Official Results Book C73 Match Summary & C74 Box Score"
+        }
+      ]
+    },
+    "PAR24_M01": {
+      "match_id": "PAR24_M01",
+      "title": "Paris 2024 Group B Opener: Great Britain Edges Australia 58-55",
+      "tournament": "Paris 2024",
+      "stage": "Preliminary Round Group B",
+      "final_score": "AUS 55 - 58 GBR",
+      "winner": "GBR",
+      "margin": 3,
+      "chapters": [
+        {
+          "chapter_index": 1,
+          "period": 1,
+          "title": "Quarter 1: Verified Score Progression",
+          "score_at_conclusion": "13 - 14",
+          "margin": -1,
+          "summary": "The official record supplies the starting lineups and period score for AUS and GBR. Specific presses, passes, screens, and movement routes are not described because no synchronized video or spatial tracking was verified.",
+          "critical_events": [
+            "13 - PHIPPS A Try",
+            "10 - BOND C Try",
+            "3 - ROBINSON S Try",
+            "3 - BATT R Try"
+          ],
+          "source_provenance": "Official Results Book page 16"
+        },
+        {
+          "chapter_index": 2,
+          "period": 2,
+          "title": "Quarter 2: Verified Events and Rotations",
+          "score_at_conclusion": "27 - 28",
+          "margin": -1,
+          "summary": "The official event record contains 2 turnover or steal events in this period. It does not establish the press, trap, pass route, or coaching adjustment that produced them.",
+          "critical_events": [
+            "3 - ROBINSON S Turnover - out of bounds",
+            "Timeout - 60s",
+            "5 - McQUILLAN J Timeout - Equipment",
+            "13 - PHIPPS A Timeout - Equipment"
+          ],
+          "source_provenance": "Official Results Book page 16"
+        },
+        {
+          "chapter_index": 3,
+          "period": 4,
+          "title": "Quarter 4: High-Leverage Championship Climax",
+          "score_at_conclusion": "55 - 58",
+          "margin": -3,
+          "summary": "The official record documents the final-period events and the 55 to 58 result. Any tactical explanation for that sequence remains a hypothesis unless supported by synchronized video or spatial data.",
+          "critical_events": [
+            "3 - ROBINSON S Try",
+            "10 - BOND C Timeout - Equipment",
+            "10 - BOND C Try",
+            "13 - PHIPPS A Try",
+            "11 - VERNON B Try"
+          ],
+          "source_provenance": "Official Results Book C73 Match Summary & C74 Box Score"
+        }
+      ]
+    }
+  }
+}

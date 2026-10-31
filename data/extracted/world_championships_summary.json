@@ -1,0 +1,1510 @@
+{
+  "wc_2022": {
+    "matches": [
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 1,
+        "team_a": "Denmark",
+        "score_a": 62,
+        "team_b": "Brazil",
+        "score_b": 45,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 2,
+        "team_a": "GB",
+        "score_a": 66,
+        "team_b": "Switzerland",
+        "score_b": 43,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 3,
+        "team_a": "France",
+        "score_a": 60,
+        "team_b": "New Zealand",
+        "score_b": 42,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 4,
+        "team_a": "Australia",
+        "score_a": 57,
+        "team_b": "Brazil",
+        "score_b": 36,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 5,
+        "team_a": "Colombia",
+        "score_a": 34,
+        "team_b": "Japan",
+        "score_b": 60,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 6,
+        "team_a": "USA",
+        "score_a": 56,
+        "team_b": "Germany",
+        "score_b": 45,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 7,
+        "team_a": "Switzerland",
+        "score_a": 48,
+        "team_b": "New Zealand",
+        "score_b": 57,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 8,
+        "team_a": "Canada",
+        "score_a": 53,
+        "team_b": "Australia",
+        "score_b": 55,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 9,
+        "team_a": "Brazil",
+        "score_a": 36,
+        "team_b": "Colombia",
+        "score_b": 53,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 10,
+        "team_a": "Japan",
+        "score_a": 61,
+        "team_b": "Denmark",
+        "score_b": 60,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 11,
+        "team_a": "Germany",
+        "score_a": 52,
+        "team_b": "GB",
+        "score_b": 55,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 12,
+        "team_a": "France",
+        "score_a": 58,
+        "team_b": "Switzerland",
+        "score_b": 34,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 13,
+        "team_a": "Japan",
+        "score_a": 52,
+        "team_b": "Canada",
+        "score_b": 47,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 14,
+        "team_a": "Denmark",
+        "score_a": 52,
+        "team_b": "Colombia",
+        "score_b": 44,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 15,
+        "team_a": "USA",
+        "score_a": 48,
+        "team_b": "France",
+        "score_b": 49,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 16,
+        "team_a": "New Zealand",
+        "score_a": 50,
+        "team_b": "GB",
+        "score_b": 55,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 17,
+        "team_a": "Brazil",
+        "score_a": 37,
+        "team_b": "Japan",
+        "score_b": 58,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 18,
+        "team_a": "Switzerland",
+        "score_a": 43,
+        "team_b": "Germany",
+        "score_b": 52,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 19,
+        "team_a": "Colombia",
+        "score_a": 46,
+        "team_b": "Canada",
+        "score_b": 62,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 20,
+        "team_a": "Australia",
+        "score_a": 55,
+        "team_b": "Denmark",
+        "score_b": 43,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 21,
+        "team_a": "New Zealand",
+        "score_a": 39,
+        "team_b": "USA",
+        "score_b": 50,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 22,
+        "team_a": "GB",
+        "score_a": 54,
+        "team_b": "France",
+        "score_b": 55,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 23,
+        "team_a": "Australia",
+        "score_a": 54,
+        "team_b": "Colombia",
+        "score_b": 42,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 24,
+        "team_a": "Brazil",
+        "score_a": 41,
+        "team_b": "Canada",
+        "score_b": 59,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 25,
+        "team_a": "Germany",
+        "score_a": 46,
+        "team_b": "New Zealand",
+        "score_b": 50,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 26,
+        "team_a": "USA",
+        "score_a": 54,
+        "team_b": "Switzerland",
+        "score_b": 35,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 27,
+        "team_a": "Japan",
+        "score_a": 54,
+        "team_b": "Australia",
+        "score_b": 50,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 28,
+        "team_a": "Canada",
+        "score_a": 58,
+        "team_b": "Denmark",
+        "score_b": 56,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 29,
+        "team_a": "France",
+        "score_a": 60,
+        "team_b": "Germany",
+        "score_b": 46,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 30,
+        "team_a": "GB",
+        "score_a": 49,
+        "team_b": "USA",
+        "score_b": 55,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 31,
+        "team_a": "Colombia",
+        "score_a": 49,
+        "team_b": "Switzerland",
+        "score_b": 44,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 32,
+        "team_a": "Japan",
+        "score_a": 58,
+        "team_b": "New Zealand",
+        "score_b": 38,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 33,
+        "team_a": "Germany",
+        "score_a": 53,
+        "team_b": "Brazil",
+        "score_b": 42,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 34,
+        "team_a": "USA",
+        "score_a": 53,
+        "team_b": "Canada",
+        "score_b": 51,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 35,
+        "team_a": "France",
+        "score_a": 53,
+        "team_b": "Denmark",
+        "score_b": 55,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 36,
+        "team_a": "Australia",
+        "score_a": 54,
+        "team_b": "GB",
+        "score_b": 45,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 37,
+        "team_a": "Canada",
+        "score_a": 60,
+        "team_b": "New Zealand",
+        "score_b": 49,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 38,
+        "team_a": "Switzerland",
+        "score_a": 44,
+        "team_b": "Brazil",
+        "score_b": 48,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 39,
+        "team_a": "GB",
+        "score_a": 48,
+        "team_b": "France",
+        "score_b": 51,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 40,
+        "team_a": "Colombia",
+        "score_a": 54,
+        "team_b": "Germany",
+        "score_b": 49,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 41,
+        "team_a": "USA",
+        "score_a": 57,
+        "team_b": "Japan",
+        "score_b": 52,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 42,
+        "team_a": "Australia",
+        "score_a": 56,
+        "team_b": "Denmark",
+        "score_b": 55,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 43,
+        "team_a": "New Zealand",
+        "score_a": 49,
+        "team_b": "GB",
+        "score_b": 52,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 44,
+        "team_a": "Canada",
+        "score_a": 60,
+        "team_b": "France",
+        "score_b": 48,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 45,
+        "team_a": "Denmark",
+        "score_a": 57,
+        "team_b": "Japan",
+        "score_b": 61,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2022",
+        "year": 2022,
+        "game_number": 46,
+        "team_a": "Australia",
+        "score_a": 58,
+        "team_b": "USA",
+        "score_b": 55,
+        "source_pdf": "Results-Wolrds-2022.pdf",
+        "source_page": 2
+      }
+    ],
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Australia"
+      },
+      {
+        "rank": 2,
+        "team": "USA"
+      },
+      {
+        "rank": 3,
+        "team": "Japan"
+      },
+      {
+        "rank": 4,
+        "team": "Denmark"
+      },
+      {
+        "rank": 5,
+        "team": "Canada"
+      },
+      {
+        "rank": 6,
+        "team": "France"
+      },
+      {
+        "rank": 7,
+        "team": "GB"
+      },
+      {
+        "rank": 8,
+        "team": "New Zealand"
+      },
+      {
+        "rank": 9,
+        "team": "Colombia"
+      },
+      {
+        "rank": 10,
+        "team": "Germany"
+      },
+      {
+        "rank": 11,
+        "team": "Brazil"
+      },
+      {
+        "rank": 12,
+        "team": "Switzerland"
+      }
+    ],
+    "awards": [
+      {
+        "award": "Best 0.5",
+        "player": "Eric Rodriques",
+        "country": "Canada"
+      },
+      {
+        "award": "Best 1.0",
+        "player": "Lee Fredette",
+        "country": "USA"
+      },
+      {
+        "award": "Best 1.5",
+        "player": "Cedric Nankin",
+        "country": "France"
+      },
+      {
+        "award": "Best 2.0",
+        "player": "Josco Wilke",
+        "country": "Germany"
+      },
+      {
+        "award": "Best 2.5",
+        "player": "Josuha Wheeler",
+        "country": "USA"
+      },
+      {
+        "award": "Best 3.0",
+        "player": "Chuck Aoki",
+        "country": "USA"
+      },
+      {
+        "award": "Best 3.5",
+        "player": "Zak Mandell",
+        "country": "Canada"
+      },
+      {
+        "award": "Most Valuable Player",
+        "player": "Ryley Batt",
+        "country": "Australia"
+      }
+    ]
+  },
+  "wc_2018": {
+    "matches": [
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 1,
+        "team_a": "New Zealand",
+        "score_a": 36,
+        "team_b": "Australia",
+        "score_b": 66,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 2,
+        "team_a": "Ireland",
+        "score_a": 37,
+        "team_b": "Japan",
+        "score_b": 57,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 3,
+        "team_a": "Canada",
+        "score_a": 42,
+        "team_b": "France",
+        "score_b": 51,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 4,
+        "team_a": "Sweden",
+        "score_a": 54,
+        "team_b": "Denmark",
+        "score_b": 57,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 5,
+        "team_a": "Colombia",
+        "score_a": 32,
+        "team_b": "United States",
+        "score_b": 58,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 6,
+        "team_a": "Poland",
+        "score_a": 31,
+        "team_b": "Great Britain",
+        "score_b": 55,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 7,
+        "team_a": "Japan",
+        "score_a": 56,
+        "team_b": "New Zealand",
+        "score_b": 37,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 8,
+        "team_a": "Denmark",
+        "score_a": 56,
+        "team_b": "Ireland",
+        "score_b": 47,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 9,
+        "team_a": "Australia",
+        "score_a": 71,
+        "team_b": "Sweden",
+        "score_b": 38,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 10,
+        "team_a": "United States",
+        "score_a": 47,
+        "team_b": "Great Britain",
+        "score_b": 41,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 11,
+        "team_a": "Colombia",
+        "score_a": 45,
+        "team_b": "France",
+        "score_b": 50,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 12,
+        "team_a": "Poland",
+        "score_a": 45,
+        "team_b": "Canada",
+        "score_b": 43,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 13,
+        "team_a": "Denmark",
+        "score_a": 55,
+        "team_b": "New Zealand",
+        "score_b": 54,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 14,
+        "team_a": "Ireland",
+        "score_a": 47,
+        "team_b": "Sweden",
+        "score_b": 52,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 52,
+        "team_a": "Tuesday, 7 August",
+        "score_a": 15,
+        "team_b": "Colombia",
+        "score_b": 50,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 16,
+        "team_a": "Great Britain",
+        "score_a": 55,
+        "team_b": "Canada",
+        "score_b": 43,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 17,
+        "team_a": "France",
+        "score_a": 39,
+        "team_b": "United States",
+        "score_b": 54,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 18,
+        "team_a": "Denmark",
+        "score_a": 49,
+        "team_b": "Australia",
+        "score_b": 61,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 19,
+        "team_a": "New Zealand",
+        "score_a": 52,
+        "team_b": "Ireland",
+        "score_b": 42,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 20,
+        "team_a": "Sweden",
+        "score_a": 46,
+        "team_b": "Japan",
+        "score_b": 48,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 21,
+        "team_a": "Great Britain",
+        "score_a": 57,
+        "team_b": "Colombia",
+        "score_b": 20,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 22,
+        "team_a": "France",
+        "score_a": 51,
+        "team_b": "Poland",
+        "score_b": 39,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 2
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 23,
+        "team_a": "Australia",
+        "score_a": 70,
+        "team_b": "Ireland",
+        "score_b": 44,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 24,
+        "team_a": "Japan",
+        "score_a": 52,
+        "team_b": "Denmark",
+        "score_b": 42,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 25,
+        "team_a": "United States",
+        "score_a": 47,
+        "team_b": "Poland",
+        "score_b": 33,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 26,
+        "team_a": "Canada",
+        "score_a": 59,
+        "team_b": "Colombia",
+        "score_b": 46,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 27,
+        "team_a": "Sweden",
+        "score_a": 54,
+        "team_b": "New Zealand",
+        "score_b": 52,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 28,
+        "team_a": "Great Britain",
+        "score_a": 47,
+        "team_b": "France",
+        "score_b": 41,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 29,
+        "team_a": "Australia",
+        "score_a": 65,
+        "team_b": "Japan",
+        "score_b": 52,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 30,
+        "team_a": "United States",
+        "score_a": 54,
+        "team_b": "Canada",
+        "score_b": 47,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 47,
+        "team_a": "Thursday, 9 August",
+        "score_a": 31,
+        "team_b": "New Zealand",
+        "score_b": 59,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 32,
+        "team_a": "Poland",
+        "score_a": 49,
+        "team_b": "Ireland",
+        "score_b": 44,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 33,
+        "team_a": "Denmark",
+        "score_a": 51,
+        "team_b": "Canada",
+        "score_b": 52,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 34,
+        "team_a": "France",
+        "score_a": 54,
+        "team_b": "Sweden",
+        "score_b": 42,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 35,
+        "team_a": "Australia",
+        "score_a": 59,
+        "team_b": "Great Britain",
+        "score_b": 57,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 36,
+        "team_a": "United States",
+        "score_a": 46,
+        "team_b": "Japan",
+        "score_b": 51,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 51,
+        "team_a": "Friday, 10 August",
+        "score_a": 37,
+        "team_b": "Columbia",
+        "score_b": 39,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 38,
+        "team_a": "New Zealand",
+        "score_a": 51,
+        "team_b": "Ireland",
+        "score_b": 40,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 39,
+        "team_a": "Canada",
+        "score_a": 51,
+        "team_b": "France",
+        "score_b": 52,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 40,
+        "team_a": "Denmark",
+        "score_a": 51,
+        "team_b": "Sweden",
+        "score_b": 48,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 41,
+        "team_a": "Great Britain",
+        "score_a": 36,
+        "team_b": "United States",
+        "score_b": 47,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      },
+      {
+        "tournament": "World Championship 2018",
+        "year": 2018,
+        "game_number": 42,
+        "team_a": "Australia",
+        "score_a": 61,
+        "team_b": "Japan",
+        "score_b": 62,
+        "source_pdf": "TD-Results-summary-report-WC-2018.pdf",
+        "source_page": 3
+      }
+    ],
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Japan"
+      },
+      {
+        "rank": 2,
+        "team": "Australia"
+      },
+      {
+        "rank": 3,
+        "team": "United States"
+      },
+      {
+        "rank": 4,
+        "team": "Great Britain"
+      },
+      {
+        "rank": 5,
+        "team": "France"
+      },
+      {
+        "rank": 6,
+        "team": "Canada"
+      },
+      {
+        "rank": 7,
+        "team": "Denmark"
+      },
+      {
+        "rank": 8,
+        "team": "Sweden"
+      },
+      {
+        "rank": 9,
+        "team": "Poland"
+      },
+      {
+        "rank": 10,
+        "team": "Columbia"
+      },
+      {
+        "rank": 11,
+        "team": "New Zealand"
+      },
+      {
+        "rank": 12,
+        "team": "Ireland"
+      },
+      {
+        "rank": 13,
+        "team": "Brazil"
+      },
+      {
+        "rank": 14,
+        "team": "Korea"
+      },
+      {
+        "rank": 15,
+        "team": "Germany"
+      },
+      {
+        "rank": 16,
+        "team": "Switzerland"
+      }
+    ],
+    "awards": [
+      {
+        "award": "Best 0.5",
+        "player": "Jonathan Coggan",
+        "country": "Great Britain"
+      },
+      {
+        "award": "Best 1.0",
+        "player": "Carlos Neme",
+        "country": "Columbia"
+      },
+      {
+        "award": "Best 1.5",
+        "player": "Cedrik Nankin",
+        "country": "France"
+      },
+      {
+        "award": "Best 2.0",
+        "player": "Joe Delgrave",
+        "country": "United States"
+      },
+      {
+        "award": "Best 2.5",
+        "player": "Thomas Hjert",
+        "country": "Sweden"
+      },
+      {
+        "award": "Best 3.0",
+        "player": "James Roberts",
+        "country": "Great Britain"
+      },
+      {
+        "award": "Best 3.5",
+        "player": "Ryley Batt",
+        "country": "Australia"
+      },
+      {
+        "award": "Most Valuable Player",
+        "player": "Daisuke Ikezaki",
+        "country": "Japan"
+      }
+    ]
+  },
+  "wc_2014": {
+    "matches": [
+      {
+        "tournament": "World Championship 2014",
+        "year": 2014,
+        "team_a": "United States",
+        "score_a": 62,
+        "team_b": "Japan",
+        "score_b": 56,
+        "source_pdf": "WWR_2014_Odense_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2014",
+        "year": 2014,
+        "team_a": "Australia",
+        "score_a": 67,
+        "team_b": "Canada",
+        "score_b": 56,
+        "source_pdf": "WWR_2014_Odense_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2014",
+        "year": 2014,
+        "team_a": "Great Britain",
+        "score_a": 55,
+        "team_b": "Denmark",
+        "score_b": 48,
+        "source_pdf": "WWR_2014_Odense_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2014",
+        "year": 2014,
+        "team_a": "Sweden",
+        "score_a": 52,
+        "team_b": "New Zealand",
+        "score_b": 50,
+        "source_pdf": "WWR_2014_Odense_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2014",
+        "year": 2014,
+        "team_a": "France",
+        "score_a": 59,
+        "team_b": "Finland",
+        "score_b": 48,
+        "source_pdf": "WWR_2014_Odense_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 2014",
+        "year": 2014,
+        "team_a": "Germany",
+        "score_a": 50,
+        "team_b": "Belgium",
+        "score_b": 36,
+        "source_pdf": "WWR_2014_Odense_results.pdf",
+        "source_page": 1
+      }
+    ],
+    "standings": [
+      {
+        "rank": 1,
+        "team": "Australia"
+      },
+      {
+        "rank": 2,
+        "team": "Canada"
+      },
+      {
+        "rank": 3,
+        "team": "United States"
+      },
+      {
+        "rank": 4,
+        "team": "Japan"
+      },
+      {
+        "rank": 5,
+        "team": "Great Britain"
+      },
+      {
+        "rank": 6,
+        "team": "Denmark"
+      },
+      {
+        "rank": 7,
+        "team": "Sweden"
+      },
+      {
+        "rank": 8,
+        "team": "New Zealand"
+      },
+      {
+        "rank": 9,
+        "team": "France"
+      },
+      {
+        "rank": 10,
+        "team": "Finland"
+      },
+      {
+        "rank": 11,
+        "team": "Germany"
+      },
+      {
+        "rank": 12,
+        "team": "Belgium"
+      }
+    ]
+  },
+  "wc_1995": {
+    "matches": [
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "1",
+        "score_a": 26,
+        "team_b": "NZL vs. USA",
+        "score_b": 42,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "2",
+        "score_a": 44,
+        "team_b": "GBR vs. SUI",
+        "score_b": 26,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "3",
+        "score_a": 33,
+        "team_b": "CAN vs. NED",
+        "score_b": 24,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "5",
+        "score_a": 16,
+        "team_b": "SUI vs. USA",
+        "score_b": 36,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "6",
+        "score_a": 23,
+        "team_b": "GBR vs. NZL",
+        "score_b": 29,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "8",
+        "score_a": 22,
+        "team_b": "NED vs. AUS",
+        "score_b": 26,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "9",
+        "score_a": 42,
+        "team_b": "USA vs. NED",
+        "score_b": 19,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "11",
+        "score_a": 41,
+        "team_b": "NZL vs. CAN",
+        "score_b": 43,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "12",
+        "score_a": 31,
+        "team_b": "AUS vs. SUI",
+        "score_b": 15,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "13",
+        "score_a": 50,
+        "team_b": "USA vs. SWE",
+        "score_b": 18,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "16",
+        "score_a": 32,
+        "team_b": "NZL vs. AUS",
+        "score_b": 25,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "17",
+        "score_a": 19,
+        "team_b": "AUS vs. USA",
+        "score_b": 37,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "21",
+        "score_a": 42,
+        "team_b": "USA vs. CAN",
+        "score_b": 38,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "22",
+        "score_a": 22,
+        "team_b": "AUS vs. GBR",
+        "score_b": 28,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "United States",
+        "score_a": 38,
+        "team_b": "Great Britain",
+        "score_b": 20,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "Canada",
+        "score_a": 45,
+        "team_b": "New Zealand",
+        "score_b": 34,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "Great Britain",
+        "score_a": 28,
+        "team_b": "New Zealand",
+        "score_b": 41,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      },
+      {
+        "tournament": "World Championship 1995",
+        "year": 1995,
+        "team_a": "United States",
+        "score_a": 41,
+        "team_b": "Canada",
+        "score_b": 36,
+        "source_pdf": "WWRC_1995_Nottwil_Switzerland_results.pdf",
+        "source_page": 1
+      }
+    ],
+    "standings": [
+      {
+        "rank": 1,
+        "team": "United States"
+      },
+      {
+        "rank": 2,
+        "team": "Canada"
+      },
+      {
+        "rank": 3,
+        "team": "New Zealand"
+      },
+      {
+        "rank": 4,
+        "team": "Great Britain"
+      },
+      {
+        "rank": 5,
+        "team": "Australia"
+      },
+      {
+        "rank": 6,
+        "team": "Sweden"
+      },
+      {
+        "rank": 7,
+        "team": "The Netherlands"
+      },
+      {
+        "rank": 8,
+        "team": "Switzerland"
+      }
+    ]
+  }
+}

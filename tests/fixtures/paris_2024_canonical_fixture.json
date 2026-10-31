@@ -1,0 +1,331 @@
+{
+  "match_id": "PAR24_M20",
+  "tournament": "Paris 2024 Paralympic Games",
+  "tournament_year": 2024,
+  "stage": "Gold Medal Game",
+  "date": "2024-09-02",
+  "start_time": "19:30",
+  "venue": "Champ-de-Mars Arena, Paris",
+  "score_japan": 48,
+  "score_usa": 41,
+  "period_scores": {
+    "P1": [
+      11,
+      14
+    ],
+    "P2": [
+      13,
+      9
+    ],
+    "P3": [
+      11,
+      9
+    ],
+    "P4": [
+      13,
+      9
+    ]
+  },
+  "roster_japan": [
+    {
+      "number": 1,
+      "name": "WAKAYAMA Hidefumi",
+      "gender": "M",
+      "classification": 1.0,
+      "minutes": "0:00",
+      "starter": false,
+      "tries": 0
+    },
+    {
+      "number": 2,
+      "name": "HASEGAWA Yuki",
+      "gender": "M",
+      "classification": 0.5,
+      "minutes": "4:52",
+      "starter": false,
+      "tries": 0
+    },
+    {
+      "number": 3,
+      "name": "KURAHASHI Kae",
+      "gender": "F",
+      "classification": 0.5,
+      "minutes": "24:04",
+      "starter": false,
+      "tries": 0
+    },
+    {
+      "number": 4,
+      "name": "HAGA Masayuki",
+      "gender": "M",
+      "classification": 2.0,
+      "minutes": "0:00",
+      "starter": false,
+      "tries": 0
+    },
+    {
+      "number": 7,
+      "name": "IKEZAKI Daisuke",
+      "gender": "M",
+      "classification": 3.0,
+      "minutes": "7:56",
+      "starter": true,
+      "tries": 6
+    },
+    {
+      "number": 11,
+      "name": "KUSABA Ryuji",
+      "gender": "M",
+      "classification": 1.0,
+      "minutes": "3:04",
+      "starter": true,
+      "tries": 0
+    },
+    {
+      "number": 13,
+      "name": "SHIMAKAWA Shinichi",
+      "gender": "M",
+      "classification": 3.0,
+      "minutes": "0:00",
+      "starter": false,
+      "tries": 0
+    },
+    {
+      "number": 14,
+      "name": "NAKAMACHI Shunya",
+      "gender": "M",
+      "classification": 2.0,
+      "minutes": "0:00",
+      "starter": false,
+      "tries": 0
+    },
+    {
+      "number": 21,
+      "name": "IKE Yukinobu",
+      "gender": "M",
+      "classification": 3.0,
+      "minutes": "32:00",
+      "starter": true,
+      "tries": 16,
+      "captain": true
+    },
+    {
+      "number": 22,
+      "name": "NORIMATSU Seiya",
+      "gender": "M",
+      "classification": 1.5,
+      "minutes": "28:56",
+      "starter": false,
+      "tries": 3
+    },
+    {
+      "number": 23,
+      "name": "OGAWA Hitoshi",
+      "gender": "M",
+      "classification": 1.0,
+      "minutes": "3:04",
+      "starter": true,
+      "tries": 1
+    },
+    {
+      "number": 32,
+      "name": "HASHIMOTO Katsuya",
+      "gender": "M",
+      "classification": 3.5,
+      "minutes": "24:04",
+      "starter": false,
+      "tries": 19
+    }
+  ],
+  "roster_usa": [
+    {
+      "number": 2,
+      "name": "MELTON Chuck",
+      "gender": "M",
+      "classification": 2.0,
+      "minutes": "1:56",
+      "starter": false,
+      "tries": 0
+    },
+    {
+      "number": 5,
+      "name": "AOKI Chuck",
+      "gender": "M",
+      "classification": 3.0,
+      "minutes": "30:31",
+      "starter": true,
+      "tries": 14,
+      "captain": true
+    },
+    {
+      "number": 6,
+      "name": "BUTLER Jeff",
+      "gender": "M",
+      "classification": 0.5,
+      "minutes": "23:59",
+      "starter": true,
+      "tries": 0
+    },
+    {
+      "number": 8,
+      "name": "ADAM Sarah",
+      "gender": "F",
+      "classification": 2.5,
+      "minutes": "24:03",
+      "starter": true,
+      "tries": 14
+    },
+    {
+      "number": 9,
+      "name": "NEWBY Eric",
+      "gender": "M",
+      "classification": 2.0,
+      "minutes": "4:35",
+      "starter": false,
+      "tries": 3,
+      "captain": true
+    },
+    {
+      "number": 10,
+      "name": "WHEELER Josh",
+      "gender": "M",
+      "classification": 2.5,
+      "minutes": "24:40",
+      "starter": true,
+      "tries": 7
+    },
+    {
+      "number": 11,
+      "name": "FREDETTE Lee",
+      "gender": "M",
+      "classification": 1.0,
+      "minutes": "6:05",
+      "starter": false,
+      "tries": 0
+    },
+    {
+      "number": 15,
+      "name": "O'NEILL Josh",
+      "gender": "M",
+      "classification": 1.5,
+      "minutes": "3:32",
+      "starter": false,
+      "tries": 1
+    },
+    {
+      "number": 21,
+      "name": "BRACKETT Clayton",
+      "gender": "M",
+      "classification": 2.5,
+      "minutes": "1:29",
+      "starter": false,
+      "tries": 2
+    },
+    {
+      "number": 23,
+      "name": "HUDSPETH Brad",
+      "gender": "M",
+      "classification": 1.0,
+      "minutes": "0:27",
+      "starter": false,
+      "tries": 0
+    },
+    {
+      "number": 44,
+      "name": "REDINGTON Zion",
+      "gender": "M",
+      "classification": 3.5,
+      "minutes": "0:00",
+      "starter": false,
+      "tries": 0
+    },
+    {
+      "number": 55,
+      "name": "SYMONS Mason",
+      "gender": "M",
+      "classification": 2.0,
+      "minutes": "6:43",
+      "starter": false,
+      "tries": 0
+    }
+  ],
+  "q4_verified_sequence": [
+    {
+      "clock": "5:31",
+      "action": "JPN Ike try",
+      "score_japan": 39,
+      "score_usa": 34,
+      "detail": "Japan scores to lead 39-34"
+    },
+    {
+      "clock": "5:31",
+      "action": "USA 60s timeout",
+      "score_japan": 39,
+      "score_usa": 34,
+      "detail": "USA calls 60-second timeout"
+    },
+    {
+      "clock": "5:31",
+      "action": "USA substitution: Sarah Adam out, Josh Wheeler in",
+      "score_japan": 39,
+      "score_usa": 34,
+      "detail": "Sarah Adam exits, Josh Wheeler enters"
+    },
+    {
+      "clock": "5:20",
+      "action": "USA Josh O'Neill try",
+      "score_japan": 39,
+      "score_usa": 35,
+      "detail": "USA scores, 39-35"
+    },
+    {
+      "clock": "5:04",
+      "action": "JPN Katsuya Hashimoto try",
+      "score_japan": 40,
+      "score_usa": 35,
+      "detail": "Japan scores, 40-35"
+    },
+    {
+      "clock": "4:50",
+      "action": "USA Josh Wheeler turnover",
+      "score_japan": 40,
+      "score_usa": 35,
+      "detail": "Josh Wheeler commits turnover out of bounds"
+    },
+    {
+      "clock": "4:50",
+      "action": "USA substitutions: Fredette & O'Neill out, Butler & Adam in",
+      "score_japan": 40,
+      "score_usa": 35,
+      "detail": "Lee Fredette exits, Jeff Butler enters; Josh O'Neill exits, Sarah Adam enters"
+    },
+    {
+      "clock": "4:40",
+      "action": "JPN Yukinobu Ike try",
+      "score_japan": 41,
+      "score_usa": 35,
+      "detail": "Japan scores, 41-35"
+    },
+    {
+      "clock": "4:40",
+      "action": "USA Sarah Adam timeout",
+      "score_japan": 41,
+      "score_usa": 35,
+      "detail": "Sarah Adam equipment timeout"
+    },
+    {
+      "clock": "4:20",
+      "action": "USA Chuck Aoki try",
+      "score_japan": 41,
+      "score_usa": 36,
+      "detail": "USA scores, 41-36"
+    },
+    {
+      "clock": "3:59",
+      "action": "JPN Yukinobu Ike try",
+      "score_japan": 42,
+      "score_usa": 36,
+      "detail": "Japan scores, 42-36"
+    }
+  ]
+}

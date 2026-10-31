@@ -1,0 +1,93 @@
+{
+  "L2_Logistic (Champion)": {
+    "accuracy": 1.0,
+    "accuracy_ci95": [
+      1.0,
+      1.0
+    ],
+    "brier_score": 0.1089,
+    "brier_ci95": [
+      0.0859,
+      0.1316
+    ],
+    "log_loss": 0.3903,
+    "roc_auc": 1.0,
+    "ece": 0.2823
+  },
+  "State_Space_Elo": {
+    "accuracy": 1.0,
+    "accuracy_ci95": [
+      1.0,
+      1.0
+    ],
+    "brier_score": 0.1128,
+    "brier_ci95": [
+      0.09,
+      0.1351
+    ],
+    "log_loss": 0.4,
+    "roc_auc": 1.0,
+    "ece": 0.2889
+  },
+  "Random_Forest": {
+    "accuracy": 1.0,
+    "accuracy_ci95": [
+      1.0,
+      1.0
+    ],
+    "brier_score": 0.1214,
+    "brier_ci95": [
+      0.0996,
+      0.1428
+    ],
+    "log_loss": 0.4214,
+    "roc_auc": 1.0,
+    "ece": 0.3035
+  },
+  "Hist_GBDT": {
+    "accuracy": 1.0,
+    "accuracy_ci95": [
+      1.0,
+      1.0
+    ],
+    "brier_score": 0.0833,
+    "brier_ci95": [
+      0.0638,
+      0.1023
+    ],
+    "log_loss": 0.3275,
+    "roc_auc": 1.0,
+    "ece": 0.2734
+  },
+  "Poisson_Rating": {
+    "accuracy": 1.0,
+    "accuracy_ci95": [
+      1.0,
+      1.0
+    ],
+    "brier_score": 0.0948,
+    "brier_ci95": [
+      0.0707,
+      0.1181
+    ],
+    "log_loss": 0.3539,
+    "roc_auc": 1.0,
+    "ece": 0.2905
+  },
+  "WWR_Rank_Baseline": {
+    "accuracy": 1.0,
+    "accuracy_ci95": [
+      1.0,
+      1.0
+    ],
+    "brier_score": 0.0559,
+    "brier_ci95": [
+      0.0339,
+      0.0773
+    ],
+    "log_loss": 0.2396,
+    "roc_auc": 1.0,
+    "ece": 0.2034
+  },
+  "point_spread_mae": 3.64
+}

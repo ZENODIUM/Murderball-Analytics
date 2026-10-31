@@ -1,0 +1,21 @@
+# Local environments and secrets
+.env
+.env.*
+*.pem
+*.key
+.venv/
+venv/
+# Build/cache output
+node_modules/
+.next/
+out/
+.vercel/
+.cache/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+# Source books are linked from their original publishers
+Docs/*.pdf
+frontend/next-env.d.ts
+*.tsbuildinfo

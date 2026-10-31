@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "title": "MurderBall Independent Research Reproducibility Audit",
+    "version": "2.4.0",
+    "timestamp": "2026-10-29T14:10:00Z",
+    "curator": "Independent Scientific Review Lead",
+    "withdrawn_metrics": [
+      "uncontested_tries_per_possession (unmeasurable in official source PDFs)"
+    ]
+  },
+  "hypotheses": {
+    "H1_TIMEOUT_MOMENTUM": {
+      "question": "Does calling a timeout during opponent scoring surge reduce opponent subsequent scoring rate?",
+      "outcome_definition": "Opponent scoring rate in tries/min in subsequent 120s window",
+      "unit_of_observation": "Scoring run (>=3-0 or >=4-1 with >=90s remaining)",
+      "sample_size": 318,
+      "effect_size": -0.17999999999999994,
+      "effect_units": "tries/minute reduction",
+      "ci_95": [
+        -0.2758,
+        -0.0842
+      ],
+      "p_value": 0.0028,
+      "is_significant": true,
+      "causal_designation": "OBSERVATIONAL_ASSOCIATION"
+    },
+    "H2_FEMALE_ALLOWANCE": {
+      "question": "Do lineups with female classification allowance (+0.5) outperform all-male lineups of identical nominal class sum?",
+      "outcome_definition": "Net try differential per minute on court",
+      "unit_of_observation": "4v4 continuous stint",
+      "sample_size": 868,
+      "effect_size": 0.42,
+      "effect_units": "net tries/minute advantage",
+      "ci_95": [
+        0.1495,
+        0.6905
+      ],
+      "p_value": 0.0024,
+      "is_significant": true,
+      "causal_designation": "OBSERVATIONAL_ASSOCIATION"
+    },
+    "H3_LATE_TURNOVERS": {
+      "question": "Are turnovers in the final 60s of a period more damaging to win probability?",
+      "outcome_definition": "Delta Win Probability from modeled state transitions",
+      "unit_of_observation": "Individual turnover event",
+      "sample_size": 742,
+      "effect_multiplier": 1.83,
+      "effect_size_diff": -0.038000000000000006,
+      "ci_95": [
+        -0.0547,
+        -0.0213
+      ],
+      "p_value": 0.0001,
+      "is_significant": true,
+      "causal_designation": "MATHEMATICAL_STATE_DERIVATIVE"
+    },
+    "H4_ASSIST_BLOCKS": {
+      "question": "What is the measurable defensive impact of Assist Blocks (AB)?",
+      "audit_action": "WITHDREW uncontested tries claim; RELABELED to high-pointer try rate paired with high-AB screeners",
+      "outcome_definition": "Paired high-pointer tries per minute on court",
+      "unit_of_observation": "Historical box-score player pairs (Athens 2004, Beijing 2008)",
+      "sample_size": 1296,
+      "effect_size": 0.08999999999999997,
+      "effect_units": "tries/minute increase for paired high-pointer",
+      "ci_95": [
+        0.0155,
+        0.1645
+      ],
+      "p_value": 0.018,
+      "is_significant": true,
+      "causal_designation": "OBSERVATIONAL_ASSOCIATION"
+    }
+  }
+}

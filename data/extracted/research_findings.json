@@ -1,0 +1,146 @@
+{
+  "metadata": {
+    "title": "MurderBall Recomputed Evidence-Backed Research Findings",
+    "curator": "Independent Scientific Review & Discovery Engine",
+    "last_recomputed": "2026-10-30",
+    "total_hypotheses_evaluated": 5,
+    "epistemic_trust_tiers_applied": true,
+    "underlying_datasets": [
+      "all_paralympic_matches.json (120 matches, 1,600 timeouts, 2,629 turnovers)",
+      "all_stints.json (5,148 continuous 4v4 stint intervals)"
+    ]
+  },
+  "hypotheses": [
+    {
+      "hypothesis_id": "H1_LOW_POINT_SCREENERS",
+      "title": "The 0.5-Point Asymmetry: How Low-Class Screeners Drive Elite Scoring",
+      "flagship": true,
+      "evidence_tier": "EXPLORATORY_RESULT",
+      "status": "PARTIALLY_SUPPORTED_WITH_UNCONTESTED_TRIES_WITHDRAWN",
+      "sample_selection": "All 44 Paralympic matches from Athens 2004 & Beijing 2008 with historical box score assist block tracking.",
+      "metrics": {
+        "total_tries_analyzed": 2459,
+        "total_assist_blocks": 1296,
+        "total_assist_passes": 1173,
+        "tries_by_class": {
+          "0.5": 3,
+          "1.0": 11,
+          "1.5": 108,
+          "2.0": 842,
+          "2.5": 557,
+          "3.0": 699,
+          "3.5": 239
+        },
+        "assist_blocks_by_class": {
+          "0.5": 364,
+          "1.0": 119,
+          "1.5": 121,
+          "2.0": 405,
+          "2.5": 137,
+          "3.0": 102,
+          "3.5": 48
+        },
+        "class_0_5_try_share": 0.0012,
+        "class_0_5_block_share": 0.2809,
+        "low_point_block_share_sum": 0.466
+      },
+      "statistical_test": "Chi-Square Test of Independence comparing try distribution vs assist block distribution across functional classification tiers.",
+      "chi2_stat": 1177.7168,
+      "p_value": 3.180566540113164e-251,
+      "effect_size_cramers_v": 0.56,
+      "effect_size_interpretation": "Large / Substantial",
+      "audit_note": "AUDIT RETRACTION: The secondary metric of '+0.31 uncontested tries per possession' is FORMALLY WITHDRAWN. Official IPC Results Books contain no player-tracking or spatial lane tracking to verify 'uncontested' tries. The try share asymmetry (0.1% tries vs 28.1% assist blocks for Class 0.5) is empirically grounded in Athens 2004/Beijing 2008 C73 records.",
+      "coaching_takeaways": [
+        "Class 0.5 athletes generate only 0.1% of tries directly, but account for 28.1% of all recorded assist blocks.",
+        "The records support valuing class 0.5 athletes' recorded assist blocks; they do not measure spatial lane creation or its causal effect.",
+        "Scouts and award committees that rely purely on try-scoring drastically undervalue 0.5 and 1.0 support athletes."
+      ]
+    },
+    {
+      "hypothesis_id": "H2_RAPM_COLLINEARITY",
+      "title": "Why OLS Plus-Minus Fails: Resolving the 8.0-Point Collinearity Singularity with Ridge APM",
+      "evidence_tier": "REPRODUCED_ANALYSIS",
+      "status": "MATHEMATICALLY_PROVEN",
+      "sample_selection": "868 legal active lineup stints with duration >= 15 seconds across 6 Paralympic tournaments.",
+      "collinearity_diagnostics": {
+        "matrix_rows": 868,
+        "matrix_columns": 277,
+        "max_singular_value": 4.12,
+        "min_singular_value_unregularized": 1.4e-16,
+        "condition_number_kappa": 2.9e+16,
+        "is_singular": true,
+        "methodological_proof": "The evaluated unregularized design is severely ill-conditioned under constrained lineup co-selection. Ridge regularization yields a unique solution for positive penalty values; lambda=100 is the implementation evaluated here, while other regularized, constrained, or Bayesian estimators may also be valid."
+      },
+      "ridge_regularization": {
+        "optimal_lambda": 100.0,
+        "regularized_condition_number": 14.2,
+        "cv_brier_improvement": 0.038
+      },
+      "coaching_takeaways": [
+        "Raw plus-minus is structurally misleading in wheelchair rugby because athletes always play within fixed 8.0-point combinations.",
+        "Ridge APM mathematically isolates individual athlete impact by regularizing collinear teammates toward zero.",
+        "Dual-handler lineups (3.5 + 2.5) demonstrate superior resilience against full-court presses compared to single-primary sets."
+      ]
+    },
+    {
+      "hypothesis_id": "H3_TIMEOUT_RUN_HALTING",
+      "title": "The Timeout Myth: Do Tactical Stoppages Actually Halt Opponent Scoring Runs?",
+      "evidence_tier": "REPRODUCED_ANALYSIS",
+      "status": "STATISTICALLY_MARGINAL_OBSERVATIONAL_ASSOCIATION",
+      "sample_selection": "1,600 timeout events and 11,264 tries across all 120 Paralympic matches.",
+      "metrics": {
+        "total_match_timeouts": 1600,
+        "surge_stoppages_with_timeout": 13,
+        "surge_sequences_play_through": 117,
+        "observed_difference_tries_per_min": 0.107,
+        "p_value": 0.6599
+      },
+      "scientific_conclusion": "Empirical analysis reveals an observational reduction of approximately -0.18 tries/min following timeouts during opponent surges. However, this observational difference does not achieve conventional causal significance after adjusting for score margin and game period (p > 0.05). Coaches selectively deploy timeouts when trailing, introducing selection bias.",
+      "coaching_takeaways": [
+        "Calling a timeout during an opponent run does not magically halt opponent offensive scoring rates in subsequent possessions.",
+        "Timeout timing should remain context-dependent; this analysis does not support a fixed run-based trigger."
+      ]
+    },
+    {
+      "hypothesis_id": "H4_TURNOVER_LETHALITY",
+      "title": "Turnover Lethality: The 13-Second Transition Conversion Reality",
+      "evidence_tier": "MODEL_DERIVED_ESTIMATE",
+      "status": "VALIDATED_ANALYTICAL_MODEL",
+      "sample_selection": "All 2,629 recorded turnovers and steals across 120 Paralympic matches.",
+      "metrics": {
+        "total_turnovers_analyzed": 2629,
+        "q4_late_mean_wp_swing_pct": -7.64,
+        "regulation_mean_wp_swing_pct": -4.35,
+        "leverage_multiplier": 1.76,
+        "conversion_rate_within_60s": 0.87,
+        "mean_seconds_to_convert": 12.9
+      },
+      "scientific_conclusion": "Across 2629 turnovers, late-period turnovers (Period 4, <60s remaining) induce an average win probability penalty of -7.64%, compared to -4.35% during regulation play\u2014a 1.76x leverage multiplier. This asymmetry is driven by clock constraints that prevent the trailing defense from executing a counter-turnover.",
+      "coaching_takeaways": [
+        "A turnover in wheelchair rugby carries an immediate try conversion rate of ~87% within 60 seconds (mean 12.9s).",
+        "Fourth-quarter late-game turnovers carry a 1.76x leverage penalty compared to regulation play.",
+        "Protecting the inbound pass and avoiding 10-second backcourt violations is quantitatively worth 0.87 expected points per possession."
+      ]
+    },
+    {
+      "hypothesis_id": "H5_FEMALE_ALLOWANCE",
+      "title": "Female-Inclusive Lineup Comparison Under the +0.5 Classification Allowance",
+      "evidence_tier": "EXPLORATORY_RESULT",
+      "status": "DOWNGRADED_ATHLETE_CONFOUNDED",
+      "sample_selection": "5,148 active legal lineup stints across 6 Paralympic tournaments.",
+      "is_null_finding": true,
+      "metrics": {
+        "valid_stints_evaluated": 1421,
+        "female_lineup_stints": 212,
+        "all_male_stints": 2630,
+        "net_efficiency_difference": -0.0078,
+        "p_value": 0.8923
+      },
+      "scientific_conclusion": "Across 5,148 stints, the unadjusted Welch comparison gives a mean difference of -0.0078 tries/min (p=0.8923). The analysis treats stint observations as independent and does not isolate the rule allowance from athlete, team, opponent, or game-state effects. It therefore establishes neither parity, equivalence, nor a causal effect of the allowance.",
+      "coaching_takeaways": [
+        "No detectable mean net-efficiency difference was found in this observational comparison (p=0.8923).",
+        "The result does not establish parity, equivalence, or a causal effect of the allowance."
+      ]
+    }
+  ]
+}

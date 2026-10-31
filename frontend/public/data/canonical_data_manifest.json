@@ -1,0 +1,85 @@
+{
+  "metadata": {
+    "title": "MurderBall Canonical Data & Provenance Manifest",
+    "version": "v4.0.0-canonical-integrity",
+    "last_reconciled": "2026-10-30",
+    "governance": "AQX Sports Analytics Data Bowl 4.0 Independent Review Standard"
+  },
+  "canonical_counts": {
+    "paralympic_matches_reconciled": 120,
+    "world_championship_2026_matches": 46,
+    "expanded_invitational_matches": 37,
+    "total_official_tournament_matches": 166,
+    "total_platform_matches_cataloged": 203,
+    "total_continuous_stints": 5148,
+    "total_master_registry_athletes": 329,
+    "unique_paralympic_boxscore_athletes": 188,
+    "total_recorded_events": 26878,
+    "total_recorded_timeouts": 1600,
+    "total_recorded_turnovers": 2629
+  },
+  "count_discrepancy_resolutions": {
+    "header_181_matches_explanation": "The 181 figure in legacy headers was computed as 120 Paralympic matches + 37 Invitational matches + 24 WC 2026 group stage matches. The canonical count is 166 official international championship matches (120 Paralympic + 46 World Championship 2026) or 203 total matches when including the 37 invitational matches.",
+    "athletes_329_vs_204_explanation": "329 is the comprehensive count of registered international athletes in the IPC Master Registry (ipc_athlete_master_registry.json). 204 is the subset of unique athlete profiles appearing in Paralympic match box scores across Athens 2004 to Paris 2024.",
+    "stints_5148_vs_5123_explanation": "5,148 is the verified total continuous stint intervals in all_stints.json. The 5,123 count previously seen was caused by match PAR24_M20 in all_paralympic_matches.json holding an older 13-stint extract instead of its full 38 stints. PAR24_M20 has now been canonically synchronized, establishing 5,148 stints across both datasets."
+  },
+  "tournament_breakdown": {
+    "Athens 2004": {
+      "matches": 24,
+      "year": 2004,
+      "governing_body": "IPC",
+      "tier": "TIER_1_OFFICIAL_RESULTS_BOOK"
+    },
+    "Beijing 2008": {
+      "matches": 20,
+      "year": 2008,
+      "governing_body": "IPC",
+      "tier": "TIER_1_OFFICIAL_RESULTS_BOOK"
+    },
+    "London 2012": {
+      "matches": 20,
+      "year": 2012,
+      "governing_body": "IPC",
+      "tier": "TIER_1_OFFICIAL_RESULTS_BOOK"
+    },
+    "Rio 2016": {
+      "matches": 18,
+      "year": 2016,
+      "governing_body": "IPC",
+      "tier": "TIER_1_OFFICIAL_RESULTS_BOOK"
+    },
+    "Tokyo 2020": {
+      "matches": 18,
+      "year": 2020,
+      "governing_body": "IPC",
+      "tier": "TIER_1_OFFICIAL_RESULTS_BOOK"
+    },
+    "Paris 2024": {
+      "matches": 20,
+      "year": 2024,
+      "governing_body": "IPC",
+      "tier": "TIER_1_OFFICIAL_RESULTS_BOOK"
+    },
+    "2026 World Championship": {
+      "matches": 46,
+      "year": 2026,
+      "governing_body": "WWR",
+      "tier": "TIER_2_OFFICIAL_COMPETITION_DATA"
+    },
+    "Canada Cup / Lakeshore / Shibuya Invitationals": {
+      "matches": 37,
+      "year": 2024,
+      "governing_body": "Invitational",
+      "tier": "TIER_3_INVITATIONAL_RESULTS"
+    }
+  },
+  "epistemic_trust_tiers": {
+    "VERIFIED_OBSERVATION": "Directly extracted from and reconciled against official IPC results books or JWRF/WWR official publications.",
+    "REPRODUCED_ANALYSIS": "Derived mathematically and statistically from verified observations using fully executable, deterministic code.",
+    "VALIDATED_PREDICTION": "Predictive model forecast strictly evaluated against out-of-time, un-leaked historical competition outcomes.",
+    "MODEL_DERIVED_ESTIMATE": "Statistical output dependent on explicit model assumptions (e.g., win probability models, Elo updates).",
+    "EXPLORATORY_RESULT": "Statistical association that reveals interesting patterns but lacks definitive causal confirmation or exhibits confounding.",
+    "HYPOTHETICAL_SCENARIO": "Counterfactual tactical simulation or hypothetical decision that did not occur in recorded history.",
+    "UNSUPPORTED_OR_WITHDRAWN": "Claims lacking empirical measurement in official records (e.g., 'uncontested tries' without tracking data)."
+  }
+}

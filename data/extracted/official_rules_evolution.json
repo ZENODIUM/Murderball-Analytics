@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "title": "World Wheelchair Rugby (WWR / IWRF) International Rules & Classification Evolution Archive",
+    "version": "1.0.0",
+    "governing_body": "World Wheelchair Rugby (formerly International Wheelchair Rugby Federation)",
+    "coverage_years": "2000-2028",
+    "provenance": "WWR Official International Rules of Wheelchair Rugby (2000, 2008, 2012, 2017, 2021, 2024 editions)"
+  },
+  "eras": [
+    {
+      "era_id": "ERA_1_FOUNDATION",
+      "years": "2000-2008",
+      "label": "Foundation & Athens/Beijing Era",
+      "team_point_cap": 8.0,
+      "female_point_allowance": 0.0,
+      "shot_clock_seconds": 40,
+      "backcourt_seconds": 15,
+      "dribble_seconds": 10,
+      "assist_blocks_recorded": true,
+      "instant_replay": false,
+      "key_regulations": [
+        "Strict 8.0 classification point maximum for four players on court at all times.",
+        "Assist Blocks formally recorded in match statistics and official scorer summaries.",
+        "40-second shot clock formally codified for the Beijing 2008 Paralympics (reducing stalling tactics).",
+        "Backcourt advance requirement set at 15 seconds."
+      ]
+    },
+    {
+      "era_id": "ERA_2_MODERNIZATION",
+      "years": "2009-2016",
+      "label": "Modern Professionalization & London/Rio Era",
+      "team_point_cap": 8.0,
+      "female_point_allowance": 0.0,
+      "shot_clock_seconds": 40,
+      "backcourt_seconds": 12,
+      "dribble_seconds": 10,
+      "assist_blocks_recorded": false,
+      "instant_replay": false,
+      "key_regulations": [
+        "Backcourt advance clock shortened from 15s to 12s to accelerate pace of play.",
+        "Assist Blocks retired from official summary sheets; focus shifted to Try, Turnover, Steals, and Personal Fouls.",
+        "Strict chair bumper height and wing angle compliance checks instituted prior to each match."
+      ]
+    },
+    {
+      "era_id": "ERA_3_FEMALE_ALLOWANCE",
+      "years": "2017-2023",
+      "label": "Gender Equity & Tokyo 2020 Era",
+      "team_point_cap": 8.0,
+      "female_point_allowance": 0.5,
+      "shot_clock_seconds": 40,
+      "backcourt_seconds": 12,
+      "dribble_seconds": 10,
+      "assist_blocks_recorded": false,
+      "instant_replay": false,
+      "key_regulations": [
+        "Codification of Rule 51.b (+0.5 classification allowance for each female athlete on court).",
+        "A team playing 1 female athlete can field up to 8.5 points; 2 female athletes can field up to 9.0 points.",
+        "Sparked tactical revolution: enabled fielding pairs like Sabljak (2.5) + Batt (3.5) + high pointers with balanced defense.",
+        "Stricter enforcement of dangerous chair-to-body contact (spinning fouls)."
+      ]
+    },
+    {
+      "era_id": "ERA_4_CONTEMPORARY",
+      "years": "2024-2028",
+      "label": "Paris 2024 & LA28 Cycle",
+      "team_point_cap": 8.0,
+      "female_point_allowance": 0.5,
+      "shot_clock_seconds": 40,
+      "backcourt_seconds": 12,
+      "dribble_seconds": 10,
+      "assist_blocks_recorded": false,
+      "instant_replay": true,
+      "key_regulations": [
+        "Introduction of Instant Replay System (IRS) for critical end-of-period buzzer-beater try validation.",
+        "Refined wheelchair bumper overhang specifications to prevent dangerous interlocking chairs.",
+        "Standardized electronic scoresheet integration with real-time referee clock syncing."
+      ]
+    }
+  ],
+  "lineup_legality_rules": {
+    "description": "Mathematical formulation of legal lineup constraints across historical eras",
+    "formula": "sum(player_classes) <= base_cap + (female_count * female_allowance)",
+    "player_count_exact": 4,
+    "min_player_class": 0.5,
+    "max_player_class": 3.5,
+    "class_increments": [
+      0.5,
+      1.0,
+      1.5,
+      2.0,
+      2.5,
+      3.0,
+      3.5
+    ]
+  }
+}

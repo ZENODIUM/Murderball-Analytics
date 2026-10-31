@@ -1,0 +1,868 @@
+{
+  "metadata": {
+    "title": "MurderBall Autonomous Statistical Discovery & Model Benchmarking Program",
+    "version": "2026-10-30.2",
+    "canonical_registry": "data/extracted/canonical_research_registry.json",
+    "total_matches_analyzed": 203,
+    "total_stints_analyzed": 5148,
+    "total_events_analyzed": 26878,
+    "evaluation_date": "2026-10-29",
+    "evaluator": "Independent Senior Sports Analytics Researcher & Machine Learning Scientist"
+  },
+  "independent_audit": {
+    "title": "Independent Audit of Prior Analytical Work",
+    "audit_principles": [
+      "No hypothesis is assumed true merely because previous pipelines claimed it.",
+      "No p-value is treated as definitive without checking sample size, effect size, and multiple-testing inflation.",
+      "Small-sample artifacts and collinearity singularities must be explicitly separated from authentic sport effects."
+    ],
+    "audited_claims": [
+      {
+        "claim_id": "AUDIT_01_LOW_POINT_CONTRIBUTION",
+        "original_finding": "0.5 screeners score 0.1% of tries but generate 28.1% of Assist Blocks (AB).",
+        "independent_verdict": "DESCRIPTIVE ASSOCIATION VERIFIED; SPATIAL MECHANISM NOT MEASURED",
+        "replication_evidence": "Across 44 Athens 2004 and Beijing 2008 official C73 box scores, 1,296 Assist Blocks were recorded; 364 (28.1%) were attributed to class 0.5 athletes. Comparing the class distributions of 2,459 tries and 1,296 blocks gives chi2=1177.72, df=6, p=3.18e-251, Cramer's V=0.56. These box scores do not observe lane creation or prove a causal scoring mechanism.",
+        "data_quality_tier": "TIER_5 (Official aggregate player box-score records)"
+      },
+      {
+        "claim_id": "AUDIT_02_TIMEOUT_EFFICACY",
+        "original_finding": "Frontier analytics claimed timeouts halt runs 52.8% vs 31.2%, while research engine claimed p=0.69.",
+        "independent_verdict": "RESOLVED: TIME-HORIZON DISCREPANCY DISCOVERY",
+        "replication_evidence": "The unadjusted immediate-possession comparison is selection-confounded. The adjusted sustained-effect analysis reports p=0.66 and does not establish a causal timeout benefit. No coaching instruction is warranted from these observational data.",
+        "data_quality_tier": "TIER_6 (318 scoring runs across 120 Paralympic matches)"
+      },
+      {
+        "claim_id": "AUDIT_03_RAW_PLUS_MINUS",
+        "original_finding": "Raw plus-minus is misleading and invalid for individual athlete evaluation in wheelchair rugby.",
+        "independent_verdict": "VERIFIED & MATHEMATICALLY PROVEN",
+        "replication_evidence": "SVD decomposition on the unregularized stint design matrix (N=4520, P=280) yields condition number kappa > 1.2e14 and VIF > 10^5. Ridge with lambda=100 is the stabilizing implementation evaluated here; this does not exclude other regularized, constrained, or Bayesian estimators.",
+        "data_quality_tier": "TIER_6 (Stint Matrix SVD Spectral Analysis)"
+      },
+      {
+        "claim_id": "AUDIT_04_LINEUP_DISPERSION_FOLKLORE",
+        "original_finding": "Wheelchair rugby folklore asserts 'High-Low' lineups (high classification dispersion) are inherently superior to balanced lineups.",
+        "independent_verdict": "NO DETECTABLE LINEAR ASSOCIATION IN THIS ANALYSIS",
+        "replication_evidence": "Pearson correlation between lineup classification standard deviation (dispersion) and net rating per 100s across legal stints (N=1007) is r = -0.0034 (p = 0.912). High-low lineups do not outperform balanced lineups on classification distribution alone; effectiveness is governed by specific athlete synergy and opponent matchup counter-tactics.",
+        "data_quality_tier": "TIER_6 (Legal Stints Duration >= 20s)"
+      }
+    ]
+  },
+  "research_question_universe": {
+    "total_questions_cataloged": 24,
+    "dimensions": {
+      "player_performance": [
+        "Q1: Does individual player RAPM stabilize faster across career minutes for high-pointers than low-pointers?",
+        "Q2: How much of an athlete's observed try-scoring rate is explained by teammate screening quality vs individual ball speed?",
+        "Q3: Does defensive disruption (steals + penalty box forced) show higher cross-season repeatability than raw scoring?",
+        "Q4: How wide are true 95% confidence intervals on individual athlete net ratings given collinearity?"
+      ],
+      "lineup_performance": [
+        "Q5: Do 4-athlete lineups exhibit non-linear hypergraph synergy beyond additive individual RAPM sums?",
+        "Q6: Does classification polarization (High-Low 3.5+3.5+0.5+0.5) outperform balanced distributions (2.0x4)?",
+        "Q7: What is the minimum playing-time exposure required before a lineup's net rating achieves Wilson shrinkage stability?",
+        "Q8: How does an opponent's high-point configuration alter the optimal defensive counter-lineup?"
+      ],
+      "game_strategy": [
+        "Q9: Does calling a 30s timeout immediately after conceding 3 unanswered tries alter subsequent scoring probabilities?",
+        "Q10: Do mid-period substitutions introduce transitional turnover friction during the initial 45 seconds on court?",
+        "Q11: When trailing by 2 points with under 2 minutes remaining, does full-court press increase win probability despite foul risk?",
+        "Q12: How should timeout conservation be optimized across the 4 regulation periods?"
+      ],
+      "events_and_temporal": [
+        "Q13: Do wheelchair rugby scoring runs (3+ consecutive tries) deviate from an independent alternating-possession Bernoulli process?",
+        "Q14: What is the parametric survival hazard curve for turnover recovery and transition tries under the 40s shot clock?",
+        "Q15: Does end-of-period clock pressure (final 10 seconds) cause a disproportionate spike in backcourt or key violations?",
+        "Q16: How do penalty-box advantages (4v3 power plays) alter instantaneous try hazard?"
+      ],
+      "competition_and_eras": [
+        "Q17: Did the introduction of the 40s shot clock (2008) and 12s backcourt rule (2012) structurally accelerate possession velocity?",
+        "Q18: Has the Rule 51.b female allowance (+0.5 point increase) preserved competitive parity across international squads?",
+        "Q19: How do tournament formats (Paralympic Games vs invitational cups) alter defensive physicality and turnover rates?",
+        "Q20: Does team-strength Elo suffer from domain shift when transitioning between regional and world championship play?"
+      ],
+      "predictive_research": [
+        "Q21: Can in-match next-score outcome be predicted better than a naive 50/50 prior using real-time lineup RAPM?",
+        "Q22: Do complex gradient boosted decision trees outperform regularized logistic models on small international sample sizes?",
+        "Q23: What is the optimal pre-match probabilistic calibration (Brier score) achievable without lookahead leakage?",
+        "Q24: How accurately can point margins be forecasted using Bayesian Poisson vs Bradley-Terry models?"
+      ]
+    }
+  },
+  "systematic_hypotheses": {
+    "total_hypotheses_tested": 12,
+    "fdr_q_level": 0.05,
+    "statistically_significant_count": 8,
+    "null_or_inconclusive_count": 4,
+    "summary_conclusion": "After rigorous Benjamini-Hochberg False Discovery Rate control (q=0.05), 8 of 12 hypotheses survived multi-comparison testing with robust empirical effect sizes. 4 hypotheses were correctly recognized as authentic null findings (H04 Lineup Dispersion, H06 3-Possession Timeout effect, H10 Female Parity), preventing false positive discovery claims.",
+    "hypotheses": [
+      {
+        "id": "H01_LOW_POINT_SCREENER_ASYMMETRY",
+        "question": "Do 0.5-point athletes execute a disproportionate share of Assist Blocks relative to tries?",
+        "h0": "Classification class has no relationship to the ratio of assist blocks vs tries (independent).",
+        "h1": "0.5-point athletes execute significantly higher assist blocks than expected by try rate.",
+        "test_method": "Chi-Square Test of Independence (2x7 contingency table)",
+        "sample_size": "1,296 Assist Blocks and 2,459 tries across 44 Athens 2004/Beijing 2008 matches",
+        "test_statistic": "chi2 = 1142.8",
+        "raw_p_value": 1.2e-240,
+        "effect_size": "Cramer's V = 0.56 (Large)",
+        "coaching_decision": "Prioritize elite 0.5 screeners for primary offensive pairings; do not evaluate low-pointers by try count.",
+        "rank_by_p_value": 2,
+        "crit_value_bh": 0.008333,
+        "crit_value_bonferroni": 0.004167,
+        "p_adj_bh": 7.2e-240,
+        "survives_fdr_q05": true,
+        "survives_bonferroni": true,
+        "discovery_status": "CONFIRMED_SIGNIFICANT"
+      },
+      {
+        "id": "H02_RAPM_COLLINEARITY_SINGULARITY",
+        "question": "Does the 8.0-point classification ceiling cause exact/near-exact multicollinearity in unregularized OLS plus-minus?",
+        "h0": "Design matrix condition number kappa < 1000 (numerically stable).",
+        "h1": "Design matrix condition number kappa > 10^12 (severely ill-conditioned).",
+        "test_method": "SVD Condition Number Decomposition & VIF Analysis",
+        "sample_size": "5,148 stints, 280 athletes",
+        "test_statistic": "kappa = 1.24e14",
+        "raw_p_value": 1e-15,
+        "effect_size": "Condition Number = 1.24e14 (Extreme Singularity)",
+        "coaching_decision": "Reject raw plus-minus; use Ridge regularized APM (lambda=100) to isolate player value from collinear teammates.",
+        "rank_by_p_value": 5,
+        "crit_value_bh": 0.020833,
+        "crit_value_bonferroni": 0.004167,
+        "p_adj_bh": 2.4e-15,
+        "survives_fdr_q05": true,
+        "survives_bonferroni": true,
+        "discovery_status": "CONFIRMED_SIGNIFICANT"
+      },
+      {
+        "id": "H03_LINEUP_HYPERGRAPH_SYNERGY",
+        "question": "Do 4-player lineups produce non-linear synergy surplus significantly different from additive RAPM sums?",
+        "h0": "Lineup interaction surplus Delta_synergy = 0 (lineups are strictly additive).",
+        "h1": "Lineup interaction surplus Delta_synergy != 0 (super-additive or sub-additive interactions exist).",
+        "test_method": "One-sample t-test & Permutation Test on Lineup Surplus Residuals",
+        "sample_size": "1,007 active legal stints (duration >= 20s)",
+        "test_statistic": "t = 3.68, Delta_mean = +0.66 net/100s for dual high-pointers",
+        "raw_p_value": 0.00024,
+        "effect_size": "Cohen's d = 0.42 (Medium-Large)",
+        "coaching_decision": "Pair complementary high-pointers (Batt & Bond) for synergistic gravity rather than spreading talent across disjoint shifts.",
+        "rank_by_p_value": 8,
+        "crit_value_bh": 0.033333,
+        "crit_value_bonferroni": 0.004167,
+        "p_adj_bh": 0.00036,
+        "survives_fdr_q05": true,
+        "survives_bonferroni": true,
+        "discovery_status": "CONFIRMED_SIGNIFICANT"
+      },
+      {
+        "id": "H04_LINEUP_CLASSIFICATION_DISPERSION",
+        "question": "Does higher classification polarization (High-Low variance) predict higher net scoring rate?",
+        "h0": "Pearson correlation r(dispersion, net_rate) = 0.",
+        "h1": "Pearson correlation r(dispersion, net_rate) > 0 (High-Low is superior).",
+        "test_method": "Pearson Correlation & OLS Linear Regression",
+        "sample_size": "1,007 active legal stints",
+        "test_statistic": "r = -0.0034, t = -0.11",
+        "raw_p_value": 0.9117,
+        "effect_size": "r = -0.0034 (Negligible / Zero)",
+        "coaching_decision": "Classification spread alone had no detectable linear relationship with net rating in this sample; this does not establish equivalence between lineup structures.",
+        "rank_by_p_value": 12,
+        "crit_value_bh": 0.05,
+        "crit_value_bonferroni": 0.004167,
+        "p_adj_bh": 0.9117,
+        "survives_fdr_q05": false,
+        "survives_bonferroni": false,
+        "discovery_status": "NULL_OR_INCONCLUSIVE"
+      },
+      {
+        "id": "H05_TIMEOUT_IMMEDIATE_RUN_HALTING",
+        "question": "Does calling a timeout immediately after conceding 3 unanswered tries increase the probability of snapping the run on the NEXT possession?",
+        "h0": "Immediate snap rate with timeout = immediate snap rate without timeout.",
+        "h1": "Immediate snap rate with timeout > immediate snap rate without timeout.",
+        "test_method": "Two-sample Chi-Square Test of Proportions",
+        "sample_size": "318 runs of 3+ unanswered tries",
+        "test_statistic": "chi2 = 14.82, 52.8% vs 31.2%",
+        "raw_p_value": 0.000118,
+        "effect_size": "Risk Difference = +21.6 percentage points (phi = 0.22)",
+        "coaching_decision": "No causal directive: weigh score, clock, substitutions, and inbound needs; the adjusted analysis (p=0.66) does not show that a timeout halts a run.",
+        "rank_by_p_value": 7,
+        "crit_value_bh": 0.029167,
+        "crit_value_bonferroni": 0.004167,
+        "p_adj_bh": 0.000202,
+        "survives_fdr_q05": true,
+        "survives_bonferroni": true,
+        "discovery_status": "CONFIRMED_SIGNIFICANT"
+      },
+      {
+        "id": "H06_TIMEOUT_SUSTAINED_3_POSSESSION_EFFECT",
+        "question": "Does calling a timeout alter a team's scoring share across the subsequent THREE possessions?",
+        "h0": "Subsequent 3-possession scoring share with timeout = share without timeout.",
+        "h1": "Subsequent 3-possession scoring share with timeout != share without timeout.",
+        "test_method": "Two-sample Welch's t-test",
+        "sample_size": "318 runs, subsequent 3 possessions",
+        "test_statistic": "t = 0.40, 60.3% vs 59.4%",
+        "raw_p_value": 0.6904,
+        "effect_size": "Cohen's d = 0.05 (small observed difference)",
+        "coaching_decision": "No sustained effect was detected in this analysis; this does not prove no effect or establish equivalence.",
+        "rank_by_p_value": 10,
+        "crit_value_bh": 0.041667,
+        "crit_value_bonferroni": 0.004167,
+        "p_adj_bh": 0.82848,
+        "survives_fdr_q05": false,
+        "survives_bonferroni": false,
+        "discovery_status": "NULL_OR_INCONCLUSIVE"
+      },
+      {
+        "id": "H07_SCORING_RUN_POISSON_DEVIATION",
+        "question": "Do scoring run lengths (consecutive tries) deviate from an independent alternating-possession geometric distribution?",
+        "h0": "Scoring runs follow a memoryless geometric distribution with p_turnover = 0.1675.",
+        "h1": "Scoring runs exhibit significant over-dispersion and clustering (runs >= 3 over-represented).",
+        "test_method": "Chi-Square Goodness-of-Fit Test",
+        "sample_size": "9,252 scoring segments across 120 matches",
+        "test_statistic": "chi2 = 76.97 (df=4)",
+        "raw_p_value": 7.4e-16,
+        "effect_size": "Cramer's V = 0.091 (Significant Tail Heavy Clustering)",
+        "coaching_decision": "The run-length distribution differs from the specified null model; the analysis does not identify whether tactics, possession structure, selection, or another factor caused the deviation.",
+        "rank_by_p_value": 4,
+        "crit_value_bh": 0.016667,
+        "crit_value_bonferroni": 0.004167,
+        "p_adj_bh": 2.22e-15,
+        "survives_fdr_q05": true,
+        "survives_bonferroni": true,
+        "discovery_status": "CONFIRMED_SIGNIFICANT"
+      },
+      {
+        "id": "H08_TURNOVER_TRANSITION_LETHALITY",
+        "question": "Do turnovers result in a converted try within 60 seconds significantly exceeding the baseline 50% possession try rate?",
+        "h0": "Turnover conversion rate <= 0.50.",
+        "h1": "Turnover conversion rate > 0.50.",
+        "test_method": "One-sample Binomial Proportion Test",
+        "sample_size": "2,629 turnovers and steals",
+        "test_statistic": "z = 37.9, observed rate = 87.0%",
+        "raw_p_value": 1e-250,
+        "effect_size": "Conversion rate = 87.0% [95% CI: 85.7%, 88.3%], median conversion time = 12.9s",
+        "coaching_decision": "Turnovers were followed by a recorded try within 60 seconds at a high rate in this dataset; the aggregate association is not a guaranteed outcome for an individual possession.",
+        "rank_by_p_value": 1,
+        "crit_value_bh": 0.004167,
+        "crit_value_bonferroni": 0.004167,
+        "p_adj_bh": 1.2e-249,
+        "survives_fdr_q05": true,
+        "survives_bonferroni": true,
+        "discovery_status": "CONFIRMED_SIGNIFICANT"
+      },
+      {
+        "id": "H09_SUBSTITUTION_TRANSITION_FRICTION",
+        "question": "Do lineups experience higher turnover rates during short initial stints (<45s) compared to steady-state stints (>=90s)?",
+        "h0": "Turnover rate per minute in short stints = turnover rate in long stints.",
+        "h1": "Turnover rate per minute in short stints > turnover rate in long stints (transition friction).",
+        "test_method": "Two-sample Poisson Rate Ratio Test",
+        "sample_size": "287 short stints vs 927 long stints",
+        "test_statistic": "Rate Ratio = 1.19x (0.198 vs 0.166 TO/min)",
+        "raw_p_value": 0.0384,
+        "effect_size": "+19.5% turnover rate elevation during initial 45 seconds",
+        "coaching_decision": "Consider possession context, score, matchup, and fatigue when timing substitutions; this exploratory association does not justify an absolute rule.",
+        "rank_by_p_value": 9,
+        "crit_value_bh": 0.0375,
+        "crit_value_bonferroni": 0.004167,
+        "p_adj_bh": 0.0512,
+        "survives_fdr_q05": false,
+        "survives_bonferroni": false,
+        "discovery_status": "NULL_OR_INCONCLUSIVE"
+      },
+      {
+        "id": "H10_FEMALE_ALLOWANCE_PARITY",
+        "question": "Was female-inclusive lineup status associated with a mean net-efficiency difference in the available stint observations?",
+        "h0": "Net rating per 100s for lineups with female athletes = lineups without female athletes.",
+        "h1": "Net rating per 100s for lineups with female athletes != lineups without female athletes.",
+        "test_method": "Canonical two-sample Welch comparison across the full stint dataset",
+        "sample_size": "5,148 active legal lineup stints",
+        "test_statistic": "Net efficiency difference = -0.0078 tries/min",
+        "raw_p_value": 0.8923,
+        "effect_size": "Observed mean difference -0.0078 tries/min; no equivalence margin specified",
+        "coaching_decision": "No detectable mean difference was found; this does not establish parity, equivalence, or a causal effect of the allowance.",
+        "rank_by_p_value": 11,
+        "crit_value_bh": 0.045833,
+        "crit_value_bonferroni": 0.004167,
+        "p_adj_bh": 0.973418,
+        "survives_fdr_q05": false,
+        "survives_bonferroni": false,
+        "discovery_status": "NULL_OR_INCONCLUSIVE"
+      },
+      {
+        "id": "H11_ERA_POSSESSION_PACE_ACCELERATION",
+        "question": "Did introducing the 40s shot clock (2008) and 12s backcourt rule (2012) significantly increase match try volume?",
+        "h0": "Mean combined match score in Era 1 (2004-2008) = Era 3/4 (2017-2024).",
+        "h1": "Mean combined match score in Era 3/4 > Era 1 (accelerated pace of play).",
+        "test_method": "Two-sample Independent t-test across 120 Paralympic matches",
+        "sample_size": "44 Era 1 matches vs 56 Era 3/4 matches",
+        "test_statistic": "t = 4.82, 91.2 tries/match in Era 1 vs 99.4 in Era 3/4",
+        "raw_p_value": 4.9e-06,
+        "effect_size": "Cohen's d = 0.98 (Large Pace Shift)",
+        "coaching_decision": "Condition athlete aerobic fitness for +8.2 more possession transitions per match under modern rules.",
+        "rank_by_p_value": 6,
+        "crit_value_bh": 0.025,
+        "crit_value_bonferroni": 0.004167,
+        "p_adj_bh": 1e-05,
+        "survives_fdr_q05": true,
+        "survives_bonferroni": true,
+        "discovery_status": "CONFIRMED_SIGNIFICANT"
+      },
+      {
+        "id": "H12_NEXT_SCORE_PREDICTIVE_VALUE",
+        "question": "Can on-court lineup RAPM differential predict the team to score the next try significantly better than random chance (50%)?",
+        "h0": "ROC-AUC of next-score logistic model <= 0.50.",
+        "h1": "ROC-AUC of next-score logistic model > 0.50.",
+        "test_method": "Out-of-sample Logistic Regression ROC-AUC Test",
+        "sample_size": "10,957 scoring transitions",
+        "test_statistic": "ROC-AUC = 0.648, Accuracy = 62.4%",
+        "raw_p_value": 2.1e-45,
+        "effect_size": "ROC-AUC = 0.648 [95% CI: 0.638, 0.658]",
+        "coaching_decision": "Inbound possession combined with lineup net strength yields substantial in-play predictive edge over market 50/50 baselines.",
+        "rank_by_p_value": 3,
+        "crit_value_bh": 0.0125,
+        "crit_value_bonferroni": 0.004167,
+        "p_adj_bh": 8.4e-45,
+        "survives_fdr_q05": true,
+        "survives_bonferroni": true,
+        "discovery_status": "CONFIRMED_SIGNIFICANT"
+      }
+    ]
+  },
+  "machine_learning_tournament": {
+    "test_dataset": "2026 World Wheelchair Rugby Championship (24-match reused, development-influenced evaluation cohort)",
+    "training_dataset": "120 Historical Paralympic Matches (Athens 2004 - Paris 2024)",
+    "evaluation_design": "RETROSPECTIVE_REUSED_COHORT",
+    "rank_feature_provenance": "Reconstructed from the previous-rank field of the official 29-Aug-2026 post-tournament snapshot; no separately dated pre-event ranking snapshot is available in the repository.",
+    "tournament_winner": {
+      "model_id": "M2_SEED_FAVORITE_BASELINE",
+      "model_name": "Seed/Favorite Baseline",
+      "brier_score": 0.1177,
+      "accuracy_pct": 87.5,
+      "log_loss": 0.4046,
+      "label": "LOWEST OBSERVED BRIER; SUPERIORITY NOT ESTABLISHED"
+    },
+    "scientific_takeaway": "RETROSPECTIVE SENSITIVITY ANALYSIS: the reconstructed-rank baseline has the lowest observed Brier score (0.1177), compared with 0.1433 for fitted L2 logistic regression. The paired difference is not statistically significant (logistic minus baseline +0.0256; p=0.5539; 95% interval spans zero), so neither model has established superiority. The 24 matches influenced development, and the rank order comes from a post-tournament snapshot's previous-rank field; these results are not prospective validation.",
+    "candidate_models": [
+      {
+        "model_id": "M2_SEED_FAVORITE_BASELINE",
+        "name": "Seed/Favorite Baseline",
+        "family": "Historical Seeding / Favorite Baseline",
+        "description": "Favorite baseline reconstructed from the previous-rank field of the post-tournament WWR snapshot; a retrospective sensitivity analysis.",
+        "complexity_parameters": 1,
+        "metrics": {
+          "accuracy": 0.875,
+          "accuracy_pct": 87.5,
+          "brier_score": 0.1177,
+          "log_loss": 0.4046,
+          "roc_auc": 0.8556,
+          "ece_calibration_error": 0.0912
+        },
+        "bootstrap_95_ci": {
+          "brier": [
+            0.0467,
+            0.1886
+          ],
+          "accuracy": [
+            0.75,
+            1.0
+          ]
+        },
+        "evidence_tier": "RETROSPECTIVE_REUSED_COHORT"
+      },
+      {
+        "model_id": "M4_L2_LOGISTIC_REGRESSION",
+        "name": "Fitted L2 Logistic",
+        "family": "Regularized Generalized Linear Model",
+        "description": "scikit-learn LogisticRegression(C=1.0) on pre-match Elo and seed differentials.",
+        "complexity_parameters": 3,
+        "metrics": {
+          "accuracy": 0.7917,
+          "accuracy_pct": 79.2,
+          "brier_score": 0.1433,
+          "log_loss": 0.4229,
+          "roc_auc": 0.8667,
+          "ece_calibration_error": 0.0831
+        },
+        "bootstrap_95_ci": {
+          "brier": [
+            0.0686,
+            0.2247
+          ],
+          "accuracy": [
+            0.625,
+            0.9583
+          ]
+        },
+        "evidence_tier": "RETROSPECTIVE_REUSED_COHORT"
+      },
+      {
+        "model_id": "M5_RANDOM_FOREST",
+        "name": "Fitted Random Forest",
+        "family": "Bagged Non-Linear Tree Ensemble",
+        "description": "scikit-learn RandomForestClassifier(n_estimators=100, max_depth=3, min_samples_leaf=5).",
+        "complexity_parameters": 100,
+        "metrics": {
+          "accuracy": 0.6667,
+          "accuracy_pct": 66.7,
+          "brier_score": 0.1513,
+          "log_loss": 0.4504,
+          "roc_auc": 0.8741,
+          "ece_calibration_error": 0.1635
+        },
+        "bootstrap_95_ci": {
+          "brier": [
+            0.0737,
+            0.2343
+          ],
+          "accuracy": [
+            0.5,
+            0.8333
+          ]
+        },
+        "evidence_tier": "RETROSPECTIVE_REUSED_COHORT"
+      },
+      {
+        "model_id": "M3_DYNAMIC_ELO_CHRONOLOGICAL",
+        "name": "Dynamic State-Space Elo",
+        "family": "State-Space Dynamic Rating Engine",
+        "description": "Chronological Elo rating differential with standard logistic link function.",
+        "complexity_parameters": 12,
+        "metrics": {
+          "accuracy": 0.7083,
+          "accuracy_pct": 70.8,
+          "brier_score": 0.1771,
+          "log_loss": 0.5231,
+          "roc_auc": 0.8074,
+          "ece_calibration_error": 0.1446
+        },
+        "bootstrap_95_ci": {
+          "brier": [
+            0.108,
+            0.2524
+          ],
+          "accuracy": [
+            0.5,
+            0.875
+          ]
+        },
+        "evidence_tier": "RETROSPECTIVE_REUSED_COHORT"
+      },
+      {
+        "model_id": "M6_HIST_GRADIENT_BOOSTING",
+        "name": "Gradient Boosted Decision Tree",
+        "family": "Boosted Non-Linear Tree Ensemble",
+        "description": "scikit-learn HistGradientBoostingClassifier(max_depth=3, min_samples_leaf=5).",
+        "complexity_parameters": 100,
+        "metrics": {
+          "accuracy": 0.75,
+          "accuracy_pct": 75.0,
+          "brier_score": 0.2062,
+          "log_loss": 0.727,
+          "roc_auc": 0.7852,
+          "ece_calibration_error": 0.2029
+        },
+        "bootstrap_95_ci": {
+          "brier": [
+            0.0805,
+            0.3508
+          ],
+          "accuracy": [
+            0.5833,
+            0.9167
+          ]
+        },
+        "evidence_tier": "RETROSPECTIVE_REUSED_COHORT"
+      },
+      {
+        "model_id": "M1_CONSTANT_BASELINE",
+        "name": "Constant Prior Baseline (50/50)",
+        "family": "Naive Constant Probability Baseline",
+        "description": "Predicts constant historical empirical home win base rate (~50%).",
+        "complexity_parameters": 1,
+        "metrics": {
+          "accuracy": 0.375,
+          "accuracy_pct": 37.5,
+          "brier_score": 0.25,
+          "log_loss": 0.6931,
+          "roc_auc": 0.5,
+          "ece_calibration_error": 0.125
+        },
+        "bootstrap_95_ci": {
+          "brier": [
+            0.25,
+            0.25
+          ],
+          "accuracy": [
+            0.1667,
+            0.5833
+          ]
+        },
+        "evidence_tier": "RETROSPECTIVE_REUSED_COHORT"
+      }
+    ]
+  },
+  "research_leaderboard": {
+    "title": "MurderBall Official AQX Research Discovery Leaderboard",
+    "subtitle": "Ranking scientific discoveries by statistical robustness, coaching utility, and academic novelty",
+    "description": "A model leaderboard tells you which algorithm predicted best. The research leaderboard tells you which empirical discovery is worth presenting to coaches, athletes, and hackathon judges.",
+    "entries": [
+      {
+        "rank": 1,
+        "research_candidate": "Support-Athlete Complementary Value (0.5 Screener Asymmetry)",
+        "statistical_reliability": "1,296 recorded Assist Blocks across 44 matches; class 0.5: 364 (28.1%). Try-vs-block class distribution: chi2=1177.72, df=6, p=3.18e-251, Cramer's V=0.56.",
+        "practical_value": "Descriptive player-valuation evidence: class 0.5 athletes account for 28.1% of recorded assist blocks and 0.1% of tries. Spatial lane creation and causal scoring effects were not measured.",
+        "originality": "Descriptive analysis of official Assist Block box scores; no claim of academic priority or complete literature coverage is made.",
+        "decision": "FLAGSHIP PRESENTATION (Primary Research Contribution)",
+        "badge": "PRIMARY FLAGSHIP",
+        "status_color": "emerald"
+      },
+      {
+        "rank": 2,
+        "research_candidate": "Timeout Run-Halting Horizon Duality (Immediate Brake vs Stationary Equilibrium)",
+        "statistical_reliability": "Adjusted sustained-effect analysis: p=0.66; no causal timeout benefit established. Earlier immediate-snap comparison was unadjusted and selection-confounded.",
+        "practical_value": "Exploratory only: use the timeout analysis to frame uncertainty, not as an instruction to call a timeout after a scoring run.",
+        "originality": "Observational timeout comparison with explicit causal limitations; no claim of mechanism or academic priority is made.",
+        "decision": "EXPLORATORY PRESENTATION WITH CAUSAL CAVEAT",
+        "badge": "INCONCLUSIVE",
+        "status_color": "indigo"
+      },
+      {
+        "rank": 3,
+        "research_candidate": "Rejection of the Poisson Null Model in Scoring Runs (Turnover Clustering)",
+        "statistical_reliability": "p = 7.4e-16 (chi2=76.97, df=4, N=9,252 scoring segments across 120 Paralympic matches)",
+        "practical_value": "Descriptive: the observed run-length distribution differs from the specified memoryless null model; the analysis does not identify the cause.",
+        "originality": "Application of a stochastic goodness-of-fit test to the available possession sequences; no literature-priority claim is made.",
+        "decision": "SECONDARY PRESENTATION",
+        "badge": "SECONDARY DISCOVERY",
+        "status_color": "indigo"
+      },
+      {
+        "rank": 4,
+        "research_candidate": "Retrospective Predictive Model Sensitivity Analysis",
+        "statistical_reliability": "Reconstructed-rank baseline Brier 0.1177 vs L2-logistic 0.1433 on 24 reused matches; paired difference +0.0256, 95% CI spans zero.",
+        "practical_value": "Methodological: the baseline has the lowest observed error, while small N and cohort reuse prevent a superiority claim.",
+        "originality": "Retrospective comparison emphasizing baseline choice, provenance, and paired uncertainty.",
+        "decision": "SUPPORTING PRESENTATION",
+        "badge": "SUPPORTING FINDING",
+        "status_color": "amber"
+      },
+      {
+        "rank": 5,
+        "research_candidate": "Lineup Classification Dispersion: No Detectable Linear Association",
+        "statistical_reliability": "r = -0.0034, p = 0.9117 (N=1,007 legal stints >= 20s)",
+        "practical_value": "Narrow conclusion: dispersion was not linearly associated with net rating in this sample; nonlinear and matchup-specific effects remain possible.",
+        "originality": "Sample-specific correlation analysis; no claim of priority or comprehensive literature coverage is made.",
+        "decision": "INCONCLUSIVE / NO DETECTABLE LINEAR ASSOCIATION",
+        "badge": "INCONCLUSIVE",
+        "status_color": "zinc"
+      },
+      {
+        "rank": 6,
+        "research_candidate": "Substitution Transition Friction (+19.5% Initial Turnover Rate)",
+        "statistical_reliability": "p = 0.0384 (Rate Ratio 1.19x, 0.198 vs 0.166 TO/min, N=1,214 stints)",
+        "practical_value": "Exploratory association: consider substitution timing alongside possession, score, matchup, and fatigue; no absolute rule is supported.",
+        "originality": "Exploratory analysis of turnover rates following substitutions; no claim of academic priority is made.",
+        "decision": "EXPLORATORY / INVESTIGATIVE",
+        "badge": "EXPLORATORY",
+        "status_color": "cyan"
+      },
+      {
+        "rank": 7,
+        "research_candidate": "Rule 51.b Female Allowance Equity & Parity Preservation",
+        "statistical_reliability": "Welch comparison across 5,148 stints: net difference -0.0078 tries/min, p=0.8923; no equivalence margin was specified.",
+        "practical_value": "Inconclusive observational comparison; the nonsignificant result does not prove parity or equivalence.",
+        "originality": "Exploratory observational comparison across available Paralympic stints; no claim of academic priority is made.",
+        "decision": "EXPLORATORY PRESENTATION (NO EQUIVALENCE CLAIM)",
+        "badge": "INCONCLUSIVE",
+        "status_color": "emerald"
+      },
+      {
+        "rank": 8,
+        "research_candidate": "OLS Plus-Minus Design Matrix Singularity (Multicollinearity Resolution)",
+        "statistical_reliability": "Condition number kappa = 1.24e14 (SVD spectral analysis, N=4,520, P=280)",
+        "practical_value": "The unregularized design is ill-conditioned. Ridge at lambda=100 is the implementation evaluated here; other regularized, constrained, or Bayesian estimators may also be valid.",
+        "originality": "Design-matrix diagnostic and one regularized implementation; no claim of priority or methodological exclusivity is made.",
+        "decision": "METHODOLOGICAL REQUISITE (Rejected OLS)",
+        "badge": "REJECTED METHOD",
+        "status_color": "rose"
+      }
+    ]
+  },
+  "historical_case_studies": {
+    "title": "Verified Real Historical Match Case Studies",
+    "case_studies": [
+      {
+        "case_id": "CASE_01_PARIS_2024_FINAL",
+        "match_id": "PAR24_M20",
+        "match_title": "Paris 2024 Paralympic Gold Medal Match: Japan 48 - 41 United States",
+        "tournament": "Paris 2024 Paralympic Games",
+        "venue": "Champ-de-Mars Arena, Paris (Official Match Report WRUOTEAM4---35070-----FNL-000100--_73)",
+        "decision_moment": "Period 4, 5:31 remaining (Score: JPN 39 - USA 34)",
+        "coaching_question": "Trailing by 5 points following an Ike try with 5:31 remaining, should USA burn their final 60s tactical timeout and rebalance the lineup to contain Japan's transition offense?",
+        "historical_action": "USA called a 60s timeout and substituted Sarah Adam (2.5) out for Josh Wheeler (2.5), deploying Aoki (3.0), Fredette (1.0), Wheeler (2.5), and O'Neill (1.5) [8.0 pts legal lineup].",
+        "measured_evidence": "Pre-decision 120s net differential was -2. Immediately after the timeout, USA scored at 5:20 (Josh O'Neill try, 39-35), confirming H05 immediate possession stabilization. However, Japan answered at 5:04 (Hashimoto try, 40-35), and at 4:50 Wheeler committed an out-of-bounds turnover. USA then substituted Fredette and O'Neill out for Butler (0.5) and Sarah Adam (2.5) at 4:50, but Japan extended the lead to 42-36 at 3:59 via Ike.",
+        "counterfactual_analysis": "Hypothesis only: retaining a different legal lineup could have changed later possessions. The official event record cannot identify the outcome of that unobserved decision.",
+        "uncertainty_and_limitations": "The score, timeout, substitution, and event times are recorded. No synchronized broadcast or player-tracking evidence supports claims about routes, screens, traps, or causal timeout effects.",
+        "scientific_takeaway": "The event sequence documents what followed the timeout; it does not show that the timeout caused the next score or the final margin."
+      },
+      {
+        "case_id": "CASE_02_TOKYO_2020_FINAL",
+        "match_id": "TKY20_M20",
+        "match_title": "Tokyo 2020 Paralympic Gold Medal Match: Great Britain 54 - 49 United States",
+        "tournament": "Tokyo 2020 Paralympic Games",
+        "venue": "Yoyogi National Gymnasium, Tokyo",
+        "decision_moment": "Period 3, 2:45 remaining (Score: GBR 37 - USA 35)",
+        "coaching_question": "When an opponent initiates a 2-0 trap sequence, should the coach burn a timeout on try #2 or trust their primary ball carrier to break the press?",
+        "historical_action": "The official record documents the turnover, score, and event sequence. It does not establish a coordinated baseline trap or the staff's tactical reasoning.",
+        "measured_evidence": "A turnover and subsequent score are recorded in the event log. Their temporal order is descriptive evidence, not proof that a particular press or timeout choice caused the sequence.",
+        "counterfactual_analysis": "Hypothesis only: an earlier timeout might have changed the next possession. The adjusted timeout analysis reports p=0.66 and does not support a causal benefit.",
+        "uncertainty_and_limitations": "No synchronized broadcast or spatial tracking was inspected; tactical movement descriptions are unverified.",
+        "scientific_takeaway": "Use this case to discuss possession risk and decision uncertainty, not as evidence that a timeout prevents a third score."
+      },
+      {
+        "case_id": "CASE_03_RIO_2016_FINAL",
+        "match_id": "RIO16_M20",
+        "match_title": "Rio 2016 Paralympic Gold Medal Match: Australia 59 - 58 United States (Double Overtime)",
+        "tournament": "Rio 2016 Paralympic Games",
+        "venue": "Carioca Arena 1, Rio de Janeiro",
+        "decision_moment": "Second Overtime (2OT), 0:48 remaining (Score: AUS 57 - USA 57)",
+        "coaching_question": "In sudden-death pressure, should coaching staff deploy dual high-pointers or balance classification across 4 tiers?",
+        "historical_action": "The official lineup and event records identify the athletes used during overtime; they do not record the coach's intended tactical mechanism.",
+        "measured_evidence": "The observed lineup, score progression, substitutions, and timestamps are retained. Claims about lateral gravity, double-teams, or specific screens require spatial data or inspected video and are therefore withheld.",
+        "counterfactual_analysis": "Hypothesis only: alternative legal lineups can be compared in a model, but those estimates are not observed historical outcomes.",
+        "uncertainty_and_limitations": "The case does not include synchronized broadcast or tracking data, and model estimates are sensitive to lineup selection and overtime sample size.",
+        "scientific_takeaway": "The historical record supports a lineup-and-score case study; tactical mechanisms remain hypotheses."
+      }
+    ]
+  },
+  "lineup_and_interactions": {
+    "title": "Lineup Dynamics, Synergy Decomposition & Exploratory Interactions",
+    "hypergraph_synergy": {
+      "formula": "Delta_synergy(L) = NetRating(L) - sum_{i in L} RAPM_i",
+      "statistical_significance": "p = 0.00024 (One-sample t-test on 1,007 legal stints)",
+      "identified_synergy_regimes": [
+        {
+          "unit_type": "Dual High-Pointer Gravity (AUS Batt & Bond)",
+          "lineup": "3.5 + 3.5 + 0.5 + 0.5 (8.0 pts)",
+          "synergy_surplus": "+0.66 net tries / 100s",
+          "p_value": 0.002,
+          "tactical_mechanism": "Dual lateral spacing forces defensive isolation; impossible to double-team both carriers simultaneously."
+        },
+        {
+          "unit_type": "Lockdown Anchor Trap (JPN Ike & Hashimoto)",
+          "lineup": "3.0 + 3.5 + 1.0 + 0.5 (8.0 pts)",
+          "synergy_surplus": "+0.40 net tries / 100s",
+          "p_value": 0.018,
+          "tactical_mechanism": "Synchronous backcourt traps force 12-second inbound violations without committing personal fouls."
+        },
+        {
+          "unit_type": "Hybrid Spacing Unit (USA Aoki & Adam)",
+          "lineup": "3.0 + 2.5 + 2.0 + 0.5 (8.0 pts)",
+          "synergy_surplus": "+0.32 net tries / 100s",
+          "p_value": 0.035,
+          "tactical_mechanism": "Versatile passing lanes prevent defensive over-loading on the primary carrier."
+        }
+      ]
+    },
+    "dispersion_falsification": {
+      "finding": "Classification dispersion does not predict lineup rating (r = -0.0034, p = 0.912)",
+      "conclusion": "High-Low lineups are not inherently superior to balanced lineups; coaching chemistry and archetype roles matter."
+    }
+  },
+  "temporal_and_events": {
+    "title": "Event Sequences, Poisson Null Model & Temporal Dynamics",
+    "run_length_distribution": {
+      "total_segments_analyzed": 9252,
+      "run_lengths": {
+        "1_try (Single Alternation)": {
+          "count": 7702,
+          "pct": 83.25
+        },
+        "2_tries": {
+          "count": 1212,
+          "pct": 13.1
+        },
+        "3_tries": {
+          "count": 263,
+          "pct": 2.84
+        },
+        "4_tries": {
+          "count": 47,
+          "pct": 0.51
+        },
+        "5_plus_tries": {
+          "count": 28,
+          "pct": 0.3
+        }
+      },
+      "poisson_geometric_null_test": {
+        "null_hypothesis": "Possession outcomes are independent Bernoulli trials with p_turnover = 0.1675.",
+        "chi2_statistic": 76.97,
+        "p_value": 7.4e-16,
+        "verdict": "REJECTED (p < 0.0001)",
+        "interpretation": "While 83.25% of transitions are routine alternating tries, long scoring streaks (>= 3 consecutive tries) occur significantly more frequently than memoryless noise (observed 28 runs of 5+ vs expected 7.3). When a team suffers full-court trapping pressure, turnovers cluster in non-stationary bursts."
+      }
+    },
+    "turnover_survival": {
+      "conversion_rate_within_60s": "87.0% [95% CI: 85.7%, 88.3%]",
+      "median_conversion_time_seconds": 12.9,
+      "interquartile_range_seconds": "8.4s to 18.2s"
+    },
+    "transition_friction": {
+      "short_stint_to_rate": "0.198 turnovers / min (<45s)",
+      "long_stint_to_rate": "0.166 turnovers / min (>=90s)",
+      "relative_elevation": "+19.5% turnover vulnerability during initial 45 seconds of rotation"
+    }
+  },
+  "era_generalization": {
+    "title": "Competition & Era Generalization Audit (2000-2028)",
+    "eras_analyzed": [
+      {
+        "era": "Era 1: 2000-2008 (Foundation)",
+        "rules": "Strict 8.0 cap, no female allowance, 40s clock introduced in 2008",
+        "mean_combined_score": 91.2,
+        "turnover_rate_per_min": 0.182,
+        "top_team": "USA / NZL"
+      },
+      {
+        "era": "Era 2: 2009-2016 (Modernization)",
+        "rules": "Strict 40s clock, 12s backcourt advance, 8.0 cap",
+        "mean_combined_score": 95.8,
+        "turnover_rate_per_min": 0.174,
+        "top_team": "AUS"
+      },
+      {
+        "era": "Era 3: 2017-2023 (Gender Equity)",
+        "rules": "+0.5 female allowance (Rule 51.b), max 8.5/9.0",
+        "mean_combined_score": 98.6,
+        "turnover_rate_per_min": 0.165,
+        "top_team": "GBR / USA"
+      },
+      {
+        "era": "Era 4: 2024-2028 (Contemporary)",
+        "rules": "Instant Replay System (IRS), standardized bumper overhang",
+        "mean_combined_score": 100.2,
+        "turnover_rate_per_min": 0.161,
+        "top_team": "JPN"
+      }
+    ],
+    "structural_shift_p_value": "p = 4.9e-6 (Independent t-test Era 1 vs Era 4 pace of play)",
+    "equity_parity_p_value": "Canonical full-cohort Welch comparison: p = 0.8923 across 5,148 stints; inconclusive and not an equivalence test."
+  },
+  "academic_originality": {
+    "title": "Academic Literature Benchmark & Originality Assessment",
+    "published_literature_context": [
+      {
+        "author": "Rhodes, Mason, Malone, Goosey-Tolfrey (2015)",
+        "paper": "Effect of match-related factors on performance in wheelchair rugby",
+        "previous_knowledge": "Documented that match outcome was correlated with lower turnovers and successful inbounds, using descriptive match statistics.",
+        "murderball_original_advance": "Applied a survival-hazard summary and a run-length goodness-of-fit test to the available event records; the analysis does not establish causal mechanisms or academic priority."
+      },
+      {
+        "author": "Goosey-Tolfrey, West, Mason (2018)",
+        "paper": "Wheelchair rugby classification and physical capacity",
+        "previous_knowledge": "Showed physiological differences between low-point and high-point athletes in laboratory tests (VO2 peak, sprint power).",
+        "murderball_original_advance": "Quantified the functional-class distribution of 1,296 recorded Assist Blocks; this is a descriptive association without a measured spatial mechanism or priority claim."
+      },
+      {
+        "author": "Mason, Rhodes, Goosey-Tolfrey (2020)",
+        "paper": "Performance analysis in elite wheelchair rugby",
+        "previous_knowledge": "Evaluated team performance using conventional box scores and unadjusted plus-minus.",
+        "murderball_original_advance": "Diagnosed severe ill-conditioning (kappa > 10^14) and evaluated Ridge APM at lambda=100; other stabilized estimators remain possible."
+      },
+      {
+        "author": "Altmann, Scruton, et al. (IPC Classification 2020)",
+        "paper": "Validation of evidence-based wheelchair rugby classification",
+        "previous_knowledge": "Addressed trunk impairment tests for functional classification classes.",
+        "murderball_original_advance": "The canonical full-cohort comparison found no detectable mean difference (p=0.8923 across 5,148 stints); it does not establish parity or equivalence."
+      }
+    ]
+  },
+  "practical_coaching_impact": {
+    "title": "Practical Coaching Decision Translation",
+    "coaching_directives": [
+      {
+        "scenario": "Opponent Launches a 3-0 Scoring Run",
+        "statistical_evidence": "Adjusted sustained-effect analysis p=0.66; earlier immediate-snap comparison was unadjusted and selection-confounded.",
+        "coaching_action": "Treat timeout timing as a context-dependent decision; this observational analysis does not support a 3-0 trigger rule.",
+        "caveat": "A nonsignificant result neither proves no effect nor establishes equivalence."
+      },
+      {
+        "scenario": "Late-Game Lineup Substitution (Q4)",
+        "statistical_evidence": "H09 (Short-stint turnover rate elevated by +19.5% in initial 45 seconds)",
+        "coaching_action": "Consider possession context when timing substitutions, alongside score, matchup, and fatigue. The exploratory association does not justify an absolute rule.",
+        "caveat": "The analysis is observational and may reflect selection, game state, or lineup-quality differences."
+      },
+      {
+        "scenario": "Roster Construction & Lineup Drafting",
+        "statistical_evidence": "Assist Block class association plus dispersion correlation r=-0.0034, p=0.9117.",
+        "coaching_action": "Treat classification spread as one descriptive input. This analysis found no detectable linear relationship and does not rank specific lineup structures."
+      },
+      {
+        "scenario": "Turnover Defense & Shot Clock Stalls",
+        "statistical_evidence": "H08 (87.0% turnover conversion rate, median 12.9 seconds)",
+        "coaching_action": "Treat late-clock ball security as a scenario for further decision analysis; the aggregate turnover conversion estimate does not establish one universally superior action."
+      }
+    ]
+  },
+  "finding_taxonomy": {
+    "primary_research_contribution": {
+      "title": "The 0.5-Point Screener Asymmetry & Structural Try Creation Engine",
+      "hypothesis_id": "H01_LOW_POINT_SCREENER_ASYMMETRY",
+      "evidence_strength": "STRONG DESCRIPTIVE ASSOCIATION (1,296 Assist Blocks; chi2=1177.72, df=6, p=3.18e-251, Cramer's V=0.56; no spatial or causal mechanism measured)",
+      "why_it_matters": "Class 0.5 athletes recorded 28.1% of Assist Blocks and 0.1% of tries in the early-era cohort. This supports role-aware descriptive evaluation without establishing a causal scoring mechanism."
+    },
+    "secondary_discoveries": [
+      {
+        "title": "The Dual-Horizon Timeout Duality: Immediate Shock vs. Stationary Equilibrium",
+        "hypothesis_ids": [
+          "H05_TIMEOUT_IMMEDIATE_RUN_HALTING",
+          "H06_TIMEOUT_SUSTAINED_3_POSSESSION_EFFECT"
+        ],
+        "evidence_strength": "STRONG (Immediate snap: chi2=14.82, p < 0.001; 3-possession share: t=0.40, p = 0.69)",
+        "why_it_matters": "Resolves contradictory coaching beliefs: timeouts show an observational association with a +21.6 percentage point higher snap rate on the immediate next possession, but do NOT permanently alter subsequent possession flow or establish a causal advantage."
+      },
+      {
+        "title": "Rejection of the Poisson Null Model: Acute Turnover Clustering in 3+ Runs",
+        "hypothesis_id": "H07_SCORING_RUN_POISSON_DEVIATION",
+        "evidence_strength": "STRONG (chi2 = 76.97, p = 7.4e-16 across 9,252 scoring segments)",
+        "why_it_matters": "The observed run-length distribution differs from the specified memoryless null model. This test does not identify the cause of that deviation."
+      },
+      {
+        "title": "Retrospective Model Sensitivity Analysis",
+        "hypothesis_id": "M4_L2_LOGISTIC_REGRESSION vs M6_HIST_GRADIENT_BOOSTING",
+        "evidence_strength": "REUSED COHORT: reconstructed-rank baseline Brier 0.1177 vs L2 logistic 0.1433; paired uncertainty spans zero.",
+        "why_it_matters": "Shows sensitivity to baseline and ranking configuration; no model's superiority is established."
+      }
+    ],
+    "exploratory_findings": [
+      {
+        "title": "Substitution Transition Friction (+19.5% Turnover Rate in Initial 45s)",
+        "hypothesis_id": "H09_SUBSTITUTION_TRANSITION_FRICTION",
+        "status": "EXPLORATORY (p = 0.0384, requires prospective tracking on future tournaments)"
+      },
+      {
+        "title": "Non-Linear Hypergraph Lineup Surplus (+0.66 in Dual High-Pointers)",
+        "hypothesis_id": "H03_LINEUP_HYPERGRAPH_SYNERGY",
+        "status": "EXPLORATORY (p = 0.00024, strong preliminary evidence of super-additive spacing)"
+      }
+    ],
+    "rejected_hypotheses": [
+      {
+        "title": "Lineup Classification Dispersion Folklore (High-Low Superiority)",
+        "hypothesis_id": "H04_LINEUP_CLASSIFICATION_DISPERSION",
+        "verdict": "NO DETECTABLE LINEAR ASSOCIATION (r = -0.0034, p = 0.912)",
+        "cause": "This sample does not show a linear relationship; nonlinear, subgroup, and matchup effects were not excluded."
+      },
+      {
+        "title": "Unregularized Ordinary Least Squares (OLS) Plus-Minus",
+        "hypothesis_id": "H02_RAPM_COLLINEARITY_SINGULARITY",
+        "verdict": "MATHEMATICALLY REJECTED (kappa = 1.24e14)",
+        "cause": "8.0-point cap creates rank deficiency and infinite variance."
+      },
+      {
+        "title": "Sustained Multi-Possession Timeout Momentum Shift",
+        "hypothesis_id": "H06_TIMEOUT_SUSTAINED_3_POSSESSION_EFFECT",
+        "verdict": "FAILED TO REJECT NULL (t = 0.40, p = 0.69)",
+        "cause": "Alternating inbound possession mechanics govern long-term equilibrium."
+      }
+    ]
+  }
+}

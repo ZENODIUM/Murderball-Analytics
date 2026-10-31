@@ -1,0 +1,2087 @@
+{
+  "latest_ratings": {
+    "USA": 1761.2,
+    "JPN": 1747.4,
+    "GBR": 1687.4,
+    "AUS": 1650.8,
+    "CAN": 1561.4,
+    "NZL": 1473.7,
+    "DEN": 1437.3,
+    "SWE": 1429.2,
+    "FRA": 1429.2,
+    "BEL": 1380.1,
+    "BRA": 1369.8,
+    "CHN": 1305.9,
+    "GER": 1266.5
+  },
+  "match_ratings": {
+    "ATH04_M01": {
+      "team_a": "GBR",
+      "team_b": "BEL",
+      "pre_elo_a": 1500.0,
+      "pre_elo_b": 1500.0,
+      "elo_diff": 0.0
+    },
+    "ATH04_M02": {
+      "team_a": "CAN",
+      "team_b": "GER",
+      "pre_elo_a": 1500.0,
+      "pre_elo_b": 1500.0,
+      "elo_diff": 0.0
+    },
+    "ATH04_M03": {
+      "team_a": "USA",
+      "team_b": "JPN",
+      "pre_elo_a": 1500.0,
+      "pre_elo_b": 1500.0,
+      "elo_diff": 0.0
+    },
+    "ATH04_M04": {
+      "team_a": "AUS",
+      "team_b": "NZL",
+      "pre_elo_a": 1500.0,
+      "pre_elo_b": 1500.0,
+      "elo_diff": 0.0
+    },
+    "ATH04_M05": {
+      "team_a": "GER",
+      "team_b": "BEL",
+      "pre_elo_a": 1477.8,
+      "pre_elo_b": 1471.3,
+      "elo_diff": 6.5
+    },
+    "ATH04_M06": {
+      "team_a": "CAN",
+      "team_b": "GBR",
+      "pre_elo_a": 1522.2,
+      "pre_elo_b": 1528.7,
+      "elo_diff": -6.5
+    },
+    "ATH04_M07": {
+      "team_a": "AUS",
+      "team_b": "JPN",
+      "pre_elo_a": 1461.6,
+      "pre_elo_b": 1455.6,
+      "elo_diff": 6.0
+    },
+    "ATH04_M08": {
+      "team_a": "USA",
+      "team_b": "NZL",
+      "pre_elo_a": 1544.4,
+      "pre_elo_b": 1538.4,
+      "elo_diff": 6.0
+    },
+    "ATH04_M09": {
+      "team_a": "GBR",
+      "team_b": "GER",
+      "pre_elo_a": 1545.9,
+      "pre_elo_b": 1443.8,
+      "elo_diff": 102.0
+    },
+    "ATH04_M10": {
+      "team_a": "CAN",
+      "team_b": "BEL",
+      "pre_elo_a": 1505.0,
+      "pre_elo_b": 1505.3,
+      "elo_diff": -0.3
+    },
+    "ATH04_M11": {
+      "team_a": "NZL",
+      "team_b": "JPN",
+      "pre_elo_a": 1516.6,
+      "pre_elo_b": 1444.8,
+      "elo_diff": 71.9
+    },
+    "ATH04_M12": {
+      "team_a": "USA",
+      "team_b": "AUS",
+      "pre_elo_a": 1566.1,
+      "pre_elo_b": 1472.5,
+      "elo_diff": 93.6
+    },
+    "ATH04_M13": {
+      "team_a": "USA",
+      "team_b": "GER",
+      "pre_elo_a": 1594.2,
+      "pre_elo_b": 1416.7,
+      "elo_diff": 177.5
+    },
+    "ATH04_M14": {
+      "team_a": "GBR",
+      "team_b": "JPN",
+      "pre_elo_a": 1573.0,
+      "pre_elo_b": 1413.1,
+      "elo_diff": 159.9
+    },
+    "ATH04_M15": {
+      "team_a": "NZL",
+      "team_b": "BEL",
+      "pre_elo_a": 1548.3,
+      "pre_elo_b": 1479.5,
+      "elo_diff": 68.7
+    },
+    "ATH04_M16": {
+      "team_a": "CAN",
+      "team_b": "AUS",
+      "pre_elo_a": 1530.8,
+      "pre_elo_b": 1444.4,
+      "elo_diff": 86.4
+    },
+    "ATH04_M17": {
+      "team_a": "BEL",
+      "team_b": "JPN",
+      "pre_elo_a": 1453.6,
+      "pre_elo_b": 1394.5,
+      "elo_diff": 59.1
+    },
+    "ATH04_M18": {
+      "team_a": "AUS",
+      "team_b": "GER",
+      "pre_elo_a": 1428.3,
+      "pre_elo_b": 1396.6,
+      "elo_diff": 31.7
+    },
+    "ATH04_M19": {
+      "team_a": "USA",
+      "team_b": "CAN",
+      "pre_elo_a": 1614.3,
+      "pre_elo_b": 1546.9,
+      "elo_diff": 67.4
+    },
+    "ATH04_M20": {
+      "team_a": "GBR",
+      "team_b": "NZL",
+      "pre_elo_a": 1591.7,
+      "pre_elo_b": 1574.2,
+      "elo_diff": 17.5
+    },
+    "ATH04_M21": {
+      "team_a": "GER",
+      "team_b": "JPN",
+      "pre_elo_a": 1373.5,
+      "pre_elo_b": 1385.5,
+      "elo_diff": -12.0
+    },
+    "ATH04_M22": {
+      "team_a": "BEL",
+      "team_b": "AUS",
+      "pre_elo_a": 1462.6,
+      "pre_elo_b": 1451.3,
+      "elo_diff": 11.2
+    },
+    "ATH04_M23": {
+      "team_a": "GBR",
+      "team_b": "USA",
+      "pre_elo_a": 1564.4,
+      "pre_elo_b": 1582.7,
+      "elo_diff": -18.2
+    },
+    "ATH04_M24": {
+      "team_a": "CAN",
+      "team_b": "NZL",
+      "pre_elo_a": 1578.6,
+      "pre_elo_b": 1601.5,
+      "elo_diff": -22.9
+    },
+    "BEI08_M01": {
+      "team_a": "USA",
+      "team_b": "CHN",
+      "pre_elo_a": 1606.9,
+      "pre_elo_b": 1500.0,
+      "elo_diff": 106.9
+    },
+    "BEI08_M02": {
+      "team_a": "CAN",
+      "team_b": "JPN",
+      "pre_elo_a": 1562.3,
+      "pre_elo_b": 1373.9,
+      "elo_diff": 188.4
+    },
+    "BEI08_M03": {
+      "team_a": "AUS",
+      "team_b": "GER",
+      "pre_elo_a": 1474.3,
+      "pre_elo_b": 1385.0,
+      "elo_diff": 89.3
+    },
+    "BEI08_M04": {
+      "team_a": "GBR",
+      "team_b": "NZL",
+      "pre_elo_a": 1540.2,
+      "pre_elo_b": 1617.7,
+      "elo_diff": -77.5
+    },
+    "BEI08_M05": {
+      "team_a": "CAN",
+      "team_b": "CHN",
+      "pre_elo_a": 1578.7,
+      "pre_elo_b": 1461.6,
+      "elo_diff": 117.1
+    },
+    "BEI08_M06": {
+      "team_a": "USA",
+      "team_b": "JPN",
+      "pre_elo_a": 1645.2,
+      "pre_elo_b": 1357.6,
+      "elo_diff": 287.6
+    },
+    "BEI08_M07": {
+      "team_a": "AUS",
+      "team_b": "NZL",
+      "pre_elo_a": 1502.9,
+      "pre_elo_b": 1603.7,
+      "elo_diff": -100.8
+    },
+    "BEI08_M08": {
+      "team_a": "GBR",
+      "team_b": "GER",
+      "pre_elo_a": 1554.2,
+      "pre_elo_b": 1356.4,
+      "elo_diff": 197.8
+    },
+    "BEI08_M09": {
+      "team_a": "JPN",
+      "team_b": "CHN",
+      "pre_elo_a": 1348.1,
+      "pre_elo_b": 1425.8,
+      "elo_diff": -77.6
+    },
+    "BEI08_M10": {
+      "team_a": "USA",
+      "team_b": "CAN",
+      "pre_elo_a": 1654.7,
+      "pre_elo_b": 1614.5,
+      "elo_diff": 40.1
+    },
+    "BEI08_M11": {
+      "team_a": "AUS",
+      "team_b": "GBR",
+      "pre_elo_a": 1517.8,
+      "pre_elo_b": 1565.7,
+      "elo_diff": -47.9
+    },
+    "BEI08_M12": {
+      "team_a": "NZL",
+      "team_b": "GER",
+      "pre_elo_a": 1588.8,
+      "pre_elo_b": 1345.0,
+      "elo_diff": 243.8
+    },
+    "BEI08_M13": {
+      "team_a": "JPN",
+      "team_b": "GER",
+      "pre_elo_a": 1406.6,
+      "pre_elo_b": 1331.9,
+      "elo_diff": 74.7
+    },
+    "BEI08_M14": {
+      "team_a": "NZL",
+      "team_b": "CHN",
+      "pre_elo_a": 1601.9,
+      "pre_elo_b": 1367.3,
+      "elo_diff": 234.6
+    },
+    "BEI08_M15": {
+      "team_a": "USA",
+      "team_b": "GBR",
+      "pre_elo_a": 1679.6,
+      "pre_elo_b": 1529.5,
+      "elo_diff": 150.1
+    },
+    "BEI08_M16": {
+      "team_a": "AUS",
+      "team_b": "CAN",
+      "pre_elo_a": 1554.0,
+      "pre_elo_b": 1589.6,
+      "elo_diff": -35.6
+    },
+    "BEI08_M17": {
+      "team_a": "JPN",
+      "team_b": "CHN",
+      "pre_elo_a": 1392.7,
+      "pre_elo_b": 1351.6,
+      "elo_diff": 41.1
+    },
+    "BEI08_M18": {
+      "team_a": "GER",
+      "team_b": "NZL",
+      "pre_elo_a": 1345.8,
+      "pre_elo_b": 1617.6,
+      "elo_diff": -271.8
+    },
+    "BEI08_M19": {
+      "team_a": "GBR",
+      "team_b": "CAN",
+      "pre_elo_a": 1517.2,
+      "pre_elo_b": 1577.2,
+      "elo_diff": -60.0
+    },
+    "BEI08_M20": {
+      "team_a": "USA",
+      "team_b": "AUS",
+      "pre_elo_a": 1691.9,
+      "pre_elo_b": 1566.5,
+      "elo_diff": 125.4
+    },
+    "LON12_M01": {
+      "team_a": "USA",
+      "team_b": "GBR",
+      "pre_elo_a": 1714.7,
+      "pre_elo_b": 1492.1,
+      "elo_diff": 222.6
+    },
+    "LON12_M02": {
+      "team_a": "SWE",
+      "team_b": "BEL",
+      "pre_elo_a": 1500.0,
+      "pre_elo_b": 1439.5,
+      "elo_diff": 60.5
+    },
+    "LON12_M03": {
+      "team_a": "AUS",
+      "team_b": "CAN",
+      "pre_elo_a": 1543.7,
+      "pre_elo_b": 1602.3,
+      "elo_diff": -58.7
+    },
+    "LON12_M04": {
+      "team_a": "JPN",
+      "team_b": "FRA",
+      "pre_elo_a": 1438.4,
+      "pre_elo_b": 1500.0,
+      "elo_diff": -61.6
+    },
+    "LON12_M05": {
+      "team_a": "SWE",
+      "team_b": "AUS",
+      "pre_elo_a": 1530.9,
+      "pre_elo_b": 1592.9,
+      "elo_diff": -62.0
+    },
+    "LON12_M06": {
+      "team_a": "CAN",
+      "team_b": "BEL",
+      "pre_elo_a": 1553.1,
+      "pre_elo_b": 1408.6,
+      "elo_diff": 144.5
+    },
+    "LON12_M07": {
+      "team_a": "GBR",
+      "team_b": "FRA",
+      "pre_elo_a": 1475.9,
+      "pre_elo_b": 1455.4,
+      "elo_diff": 20.4
+    },
+    "LON12_M08": {
+      "team_a": "JPN",
+      "team_b": "USA",
+      "pre_elo_a": 1482.9,
+      "pre_elo_b": 1730.9,
+      "elo_diff": -248.0
+    },
+    "LON12_M09": {
+      "team_a": "AUS",
+      "team_b": "BEL",
+      "pre_elo_a": 1626.7,
+      "pre_elo_b": 1388.6,
+      "elo_diff": 238.1
+    },
+    "LON12_M10": {
+      "team_a": "CAN",
+      "team_b": "SWE",
+      "pre_elo_a": 1573.1,
+      "pre_elo_b": 1497.1,
+      "elo_diff": 76.0
+    },
+    "LON12_M11": {
+      "team_a": "GBR",
+      "team_b": "JPN",
+      "pre_elo_a": 1506.9,
+      "pre_elo_b": 1467.2,
+      "elo_diff": 39.8
+    },
+    "LON12_M12": {
+      "team_a": "USA",
+      "team_b": "FRA",
+      "pre_elo_a": 1746.6,
+      "pre_elo_b": 1424.4,
+      "elo_diff": 322.2
+    },
+    "LON12_M13": {
+      "team_a": "GBR",
+      "team_b": "BEL",
+      "pre_elo_a": 1460.4,
+      "pre_elo_b": 1372.4,
+      "elo_diff": 87.9
+    },
+    "LON12_M14": {
+      "team_a": "SWE",
+      "team_b": "FRA",
+      "pre_elo_a": 1488.7,
+      "pre_elo_b": 1412.0,
+      "elo_diff": 76.7
+    },
+    "LON12_M15": {
+      "team_a": "USA",
+      "team_b": "CAN",
+      "pre_elo_a": 1759.1,
+      "pre_elo_b": 1581.5,
+      "elo_diff": 177.6
+    },
+    "LON12_M16": {
+      "team_a": "AUS",
+      "team_b": "JPN",
+      "pre_elo_a": 1642.9,
+      "pre_elo_b": 1513.7,
+      "elo_diff": 129.2
+    },
+    "LON12_M17": {
+      "team_a": "BEL",
+      "team_b": "FRA",
+      "pre_elo_a": 1351.7,
+      "pre_elo_b": 1383.0,
+      "elo_diff": -31.3
+    },
+    "LON12_M18": {
+      "team_a": "GBR",
+      "team_b": "SWE",
+      "pre_elo_a": 1481.1,
+      "pre_elo_b": 1517.7,
+      "elo_diff": -36.6
+    },
+    "LON12_M19": {
+      "team_a": "USA",
+      "team_b": "JPN",
+      "pre_elo_a": 1741.4,
+      "pre_elo_b": 1487.3,
+      "elo_diff": 254.0
+    },
+    "LON12_M20": {
+      "team_a": "CAN",
+      "team_b": "AUS",
+      "pre_elo_a": 1599.3,
+      "pre_elo_b": 1669.3,
+      "elo_diff": -70.0
+    },
+    "RIO16_M01": {
+      "team_a": "AUS",
+      "team_b": "GBR",
+      "pre_elo_a": 1703.7,
+      "pre_elo_b": 1527.2,
+      "elo_diff": 176.5
+    },
+    "RIO16_M02": {
+      "team_a": "USA",
+      "team_b": "FRA",
+      "pre_elo_a": 1754.3,
+      "pre_elo_b": 1354.5,
+      "elo_diff": 399.8
+    },
+    "RIO16_M03": {
+      "team_a": "JPN",
+      "team_b": "SWE",
+      "pre_elo_a": 1474.4,
+      "pre_elo_b": 1471.6,
+      "elo_diff": 2.8
+    },
+    "RIO16_M04": {
+      "team_a": "CAN",
+      "team_b": "BRA",
+      "pre_elo_a": 1564.8,
+      "pre_elo_b": 1500.0,
+      "elo_diff": 64.8
+    },
+    "RIO16_M05": {
+      "team_a": "SWE",
+      "team_b": "USA",
+      "pre_elo_a": 1446.1,
+      "pre_elo_b": 1760.0,
+      "elo_diff": -313.9
+    },
+    "RIO16_M06": {
+      "team_a": "GBR",
+      "team_b": "CAN",
+      "pre_elo_a": 1518.6,
+      "pre_elo_b": 1599.2,
+      "elo_diff": -80.6
+    },
+    "RIO16_M07": {
+      "team_a": "JPN",
+      "team_b": "FRA",
+      "pre_elo_a": 1499.9,
+      "pre_elo_b": 1348.8,
+      "elo_diff": 151.1
+    },
+    "RIO16_M08": {
+      "team_a": "AUS",
+      "team_b": "BRA",
+      "pre_elo_a": 1712.4,
+      "pre_elo_b": 1465.7,
+      "elo_diff": 246.7
+    },
+    "RIO16_M09": {
+      "team_a": "FRA",
+      "team_b": "SWE",
+      "pre_elo_a": 1333.0,
+      "pre_elo_b": 1436.6,
+      "elo_diff": -103.6
+    },
+    "RIO16_M10": {
+      "team_a": "BRA",
+      "team_b": "GBR",
+      "pre_elo_a": 1447.0,
+      "pre_elo_b": 1510.3,
+      "elo_diff": -63.3
+    },
+    "RIO16_M11": {
+      "team_a": "USA",
+      "team_b": "JPN",
+      "pre_elo_a": 1769.4,
+      "pre_elo_b": 1515.8,
+      "elo_diff": 253.7
+    },
+    "RIO16_M12": {
+      "team_a": "CAN",
+      "team_b": "AUS",
+      "pre_elo_a": 1607.4,
+      "pre_elo_b": 1731.0,
+      "elo_diff": -123.6
+    },
+    "RIO16_M13": {
+      "team_a": "BRA",
+      "team_b": "FRA",
+      "pre_elo_a": 1408.2,
+      "pre_elo_b": 1309.1,
+      "elo_diff": 99.1
+    },
+    "RIO16_M14": {
+      "team_a": "GBR",
+      "team_b": "SWE",
+      "pre_elo_a": 1549.1,
+      "pre_elo_b": 1460.4,
+      "elo_diff": 88.7
+    },
+    "RIO16_M15": {
+      "team_a": "AUS",
+      "team_b": "JPN",
+      "pre_elo_a": 1738.0,
+      "pre_elo_b": 1512.0,
+      "elo_diff": 226.0
+    },
+    "RIO16_M16": {
+      "team_a": "USA",
+      "team_b": "CAN",
+      "pre_elo_a": 1773.2,
+      "pre_elo_b": 1600.5,
+      "elo_diff": 172.7
+    },
+    "RIO16_M17": {
+      "team_a": "JPN",
+      "team_b": "CAN",
+      "pre_elo_a": 1499.9,
+      "pre_elo_b": 1586.1,
+      "elo_diff": -86.2
+    },
+    "RIO16_M18": {
+      "team_a": "AUS",
+      "team_b": "USA",
+      "pre_elo_a": 1750.0,
+      "pre_elo_b": 1787.5,
+      "elo_diff": -37.5
+    },
+    "TKY20_M01": {
+      "team_a": "USA",
+      "team_b": "NZL",
+      "pre_elo_a": 1775.0,
+      "pre_elo_b": 1624.4,
+      "elo_diff": 150.6
+    },
+    "TKY20_M02": {
+      "team_a": "AUS",
+      "team_b": "DEN",
+      "pre_elo_a": 1762.5,
+      "pre_elo_b": 1500.0,
+      "elo_diff": 262.5
+    },
+    "TKY20_M03": {
+      "team_a": "GBR",
+      "team_b": "CAN",
+      "pre_elo_a": 1580.4,
+      "pre_elo_b": 1563.4,
+      "elo_diff": 17.0
+    },
+    "TKY20_M04": {
+      "team_a": "JPN",
+      "team_b": "FRA",
+      "pre_elo_a": 1522.7,
+      "pre_elo_b": 1347.5,
+      "elo_diff": 175.2
+    },
+    "TKY20_M05": {
+      "team_a": "CAN",
+      "team_b": "USA",
+      "pre_elo_a": 1542.5,
+      "pre_elo_b": 1804.9,
+      "elo_diff": -262.4
+    },
+    "TKY20_M06": {
+      "team_a": "JPN",
+      "team_b": "DEN",
+      "pre_elo_a": 1531.4,
+      "pre_elo_b": 1520.6,
+      "elo_diff": 10.7
+    },
+    "TKY20_M07": {
+      "team_a": "FRA",
+      "team_b": "AUS",
+      "pre_elo_a": 1338.8,
+      "pre_elo_b": 1741.9,
+      "elo_diff": -403.1
+    },
+    "TKY20_M08": {
+      "team_a": "GBR",
+      "team_b": "NZL",
+      "pre_elo_a": 1601.3,
+      "pre_elo_b": 1594.6,
+      "elo_diff": 6.7
+    },
+    "TKY20_M09": {
+      "team_a": "DEN",
+      "team_b": "FRA",
+      "pre_elo_a": 1485.1,
+      "pre_elo_b": 1336.1,
+      "elo_diff": 149.0
+    },
+    "TKY20_M10": {
+      "team_a": "AUS",
+      "team_b": "JPN",
+      "pre_elo_a": 1744.6,
+      "pre_elo_b": 1566.9,
+      "elo_diff": 177.7
+    },
+    "TKY20_M11": {
+      "team_a": "USA",
+      "team_b": "GBR",
+      "pre_elo_a": 1813.2,
+      "pre_elo_b": 1651.0,
+      "elo_diff": 162.2
+    },
+    "TKY20_M12": {
+      "team_a": "NZL",
+      "team_b": "CAN",
+      "pre_elo_a": 1544.9,
+      "pre_elo_b": 1534.1,
+      "elo_diff": 10.7
+    },
+    "TKY20_M13": {
+      "team_a": "DEN",
+      "team_b": "NZL",
+      "pre_elo_a": 1458.6,
+      "pre_elo_b": 1498.9,
+      "elo_diff": -40.3
+    },
+    "TKY20_M14": {
+      "team_a": "USA",
+      "team_b": "AUS",
+      "pre_elo_a": 1822.4,
+      "pre_elo_b": 1703.4,
+      "elo_diff": 119.1
+    },
+    "TKY20_M15": {
+      "team_a": "JPN",
+      "team_b": "GBR",
+      "pre_elo_a": 1608.1,
+      "pre_elo_b": 1641.8,
+      "elo_diff": -33.7
+    },
+    "TKY20_M16": {
+      "team_a": "FRA",
+      "team_b": "CAN",
+      "pre_elo_a": 1362.6,
+      "pre_elo_b": 1580.1,
+      "elo_diff": -217.5
+    },
+    "TKY20_M17": {
+      "team_a": "AUS",
+      "team_b": "JPN",
+      "pre_elo_a": 1682.2,
+      "pre_elo_b": 1580.4,
+      "elo_diff": 101.8
+    },
+    "TKY20_M18": {
+      "team_a": "USA",
+      "team_b": "GBR",
+      "pre_elo_a": 1843.6,
+      "pre_elo_b": 1669.5,
+      "elo_diff": 174.1
+    },
+    "PAR24_M01": {
+      "team_a": "AUS",
+      "team_b": "GBR",
+      "pre_elo_a": 1634.8,
+      "pre_elo_b": 1715.0,
+      "elo_diff": -80.2
+    },
+    "PAR24_M02": {
+      "team_a": "USA",
+      "team_b": "CAN",
+      "pre_elo_a": 1798.0,
+      "pre_elo_b": 1594.3,
+      "elo_diff": 203.7
+    },
+    "PAR24_M03": {
+      "team_a": "FRA",
+      "team_b": "DEN",
+      "pre_elo_a": 1348.4,
+      "pre_elo_b": 1483.8,
+      "elo_diff": -135.5
+    },
+    "PAR24_M04": {
+      "team_a": "JPN",
+      "team_b": "GER",
+      "pre_elo_a": 1627.8,
+      "pre_elo_b": 1339.0,
+      "elo_diff": 288.8
+    },
+    "PAR24_M05": {
+      "team_a": "GBR",
+      "team_b": "DEN",
+      "pre_elo_a": 1731.6,
+      "pre_elo_b": 1458.1,
+      "elo_diff": 273.4
+    },
+    "PAR24_M06": {
+      "team_a": "USA",
+      "team_b": "JPN",
+      "pre_elo_a": 1807.6,
+      "pre_elo_b": 1639.0,
+      "elo_diff": 168.7
+    },
+    "PAR24_M07": {
+      "team_a": "GER",
+      "team_b": "CAN",
+      "pre_elo_a": 1327.8,
+      "pre_elo_b": 1584.7,
+      "elo_diff": -257.0
+    },
+    "PAR24_M08": {
+      "team_a": "AUS",
+      "team_b": "FRA",
+      "pre_elo_a": 1618.3,
+      "pre_elo_b": 1374.1,
+      "elo_diff": 244.2
+    },
+    "PAR24_M09": {
+      "team_a": "GER",
+      "team_b": "USA",
+      "pre_elo_a": 1316.7,
+      "pre_elo_b": 1772.8,
+      "elo_diff": -456.1
+    },
+    "PAR24_M10": {
+      "team_a": "DEN",
+      "team_b": "AUS",
+      "pre_elo_a": 1452.8,
+      "pre_elo_b": 1624.5,
+      "elo_diff": -171.7
+    },
+    "PAR24_M11": {
+      "team_a": "CAN",
+      "team_b": "JPN",
+      "pre_elo_a": 1595.8,
+      "pre_elo_b": 1673.8,
+      "elo_diff": -78.0
+    },
+    "PAR24_M12": {
+      "team_a": "GBR",
+      "team_b": "FRA",
+      "pre_elo_a": 1736.9,
+      "pre_elo_b": 1367.8,
+      "elo_diff": 369.1
+    },
+    "PAR24_M13": {
+      "team_a": "CAN",
+      "team_b": "DEN",
+      "pre_elo_a": 1576.4,
+      "pre_elo_b": 1439.8,
+      "elo_diff": 136.6
+    },
+    "PAR24_M14": {
+      "team_a": "FRA",
+      "team_b": "GER",
+      "pre_elo_a": 1365.8,
+      "pre_elo_b": 1312.4,
+      "elo_diff": 53.4
+    },
+    "PAR24_M15": {
+      "team_a": "JPN",
+      "team_b": "AUS",
+      "pre_elo_a": 1693.2,
+      "pre_elo_b": 1637.5,
+      "elo_diff": 55.7
+    },
+    "PAR24_M16": {
+      "team_a": "GBR",
+      "team_b": "USA",
+      "pre_elo_a": 1739.0,
+      "pre_elo_b": 1777.1,
+      "elo_diff": -38.1
+    },
+    "PAR24_M17": {
+      "team_a": "DEN",
+      "team_b": "GER",
+      "pre_elo_a": 1417.2,
+      "pre_elo_b": 1286.7,
+      "elo_diff": 130.6
+    },
+    "PAR24_M18": {
+      "team_a": "CAN",
+      "team_b": "FRA",
+      "pre_elo_a": 1599.0,
+      "pre_elo_b": 1391.6,
+      "elo_diff": 207.5
+    },
+    "PAR24_M19": {
+      "team_a": "AUS",
+      "team_b": "GBR",
+      "pre_elo_a": 1628.4,
+      "pre_elo_b": 1709.8,
+      "elo_diff": -81.5
+    },
+    "PAR24_M20": {
+      "team_a": "JPN",
+      "team_b": "USA",
+      "pre_elo_a": 1702.3,
+      "pre_elo_b": 1806.2,
+      "elo_diff": -103.9
+    }
+  },
+  "rating_history": {
+    "GBR": [
+      {
+        "match_id": "ATH04_M01",
+        "year": 2004,
+        "post_rating": 1528.7
+      },
+      {
+        "match_id": "ATH04_M06",
+        "year": 2004,
+        "post_rating": 1545.9
+      },
+      {
+        "match_id": "ATH04_M09",
+        "year": 2004,
+        "post_rating": 1573.0
+      },
+      {
+        "match_id": "ATH04_M14",
+        "year": 2004,
+        "post_rating": 1591.7
+      },
+      {
+        "match_id": "ATH04_M20",
+        "year": 2004,
+        "post_rating": 1564.4
+      },
+      {
+        "match_id": "ATH04_M23",
+        "year": 2004,
+        "post_rating": 1540.2
+      },
+      {
+        "match_id": "BEI08_M04",
+        "year": 2008,
+        "post_rating": 1554.2
+      },
+      {
+        "match_id": "BEI08_M08",
+        "year": 2008,
+        "post_rating": 1565.7
+      },
+      {
+        "match_id": "BEI08_M11",
+        "year": 2008,
+        "post_rating": 1529.5
+      },
+      {
+        "match_id": "BEI08_M15",
+        "year": 2008,
+        "post_rating": 1517.2
+      },
+      {
+        "match_id": "BEI08_M19",
+        "year": 2008,
+        "post_rating": 1492.1
+      },
+      {
+        "match_id": "LON12_M01",
+        "year": 2012,
+        "post_rating": 1475.9
+      },
+      {
+        "match_id": "LON12_M07",
+        "year": 2012,
+        "post_rating": 1506.9
+      },
+      {
+        "match_id": "LON12_M11",
+        "year": 2012,
+        "post_rating": 1460.4
+      },
+      {
+        "match_id": "LON12_M13",
+        "year": 2012,
+        "post_rating": 1481.1
+      },
+      {
+        "match_id": "LON12_M18",
+        "year": 2012,
+        "post_rating": 1527.2
+      },
+      {
+        "match_id": "RIO16_M01",
+        "year": 2016,
+        "post_rating": 1518.6
+      },
+      {
+        "match_id": "RIO16_M06",
+        "year": 2016,
+        "post_rating": 1510.3
+      },
+      {
+        "match_id": "RIO16_M10",
+        "year": 2016,
+        "post_rating": 1549.1
+      },
+      {
+        "match_id": "RIO16_M14",
+        "year": 2016,
+        "post_rating": 1580.4
+      },
+      {
+        "match_id": "TKY20_M03",
+        "year": 2020,
+        "post_rating": 1601.3
+      },
+      {
+        "match_id": "TKY20_M08",
+        "year": 2020,
+        "post_rating": 1651.0
+      },
+      {
+        "match_id": "TKY20_M11",
+        "year": 2020,
+        "post_rating": 1641.8
+      },
+      {
+        "match_id": "TKY20_M15",
+        "year": 2020,
+        "post_rating": 1669.5
+      },
+      {
+        "match_id": "TKY20_M18",
+        "year": 2020,
+        "post_rating": 1715.0
+      },
+      {
+        "match_id": "PAR24_M01",
+        "year": 2024,
+        "post_rating": 1731.6
+      },
+      {
+        "match_id": "PAR24_M05",
+        "year": 2024,
+        "post_rating": 1736.9
+      },
+      {
+        "match_id": "PAR24_M12",
+        "year": 2024,
+        "post_rating": 1739.0
+      },
+      {
+        "match_id": "PAR24_M16",
+        "year": 2024,
+        "post_rating": 1709.8
+      },
+      {
+        "match_id": "PAR24_M19",
+        "year": 2024,
+        "post_rating": 1687.4
+      }
+    ],
+    "BEL": [
+      {
+        "match_id": "ATH04_M01",
+        "year": 2004,
+        "post_rating": 1471.3
+      },
+      {
+        "match_id": "ATH04_M05",
+        "year": 2004,
+        "post_rating": 1505.3
+      },
+      {
+        "match_id": "ATH04_M10",
+        "year": 2004,
+        "post_rating": 1479.5
+      },
+      {
+        "match_id": "ATH04_M15",
+        "year": 2004,
+        "post_rating": 1453.6
+      },
+      {
+        "match_id": "ATH04_M17",
+        "year": 2004,
+        "post_rating": 1462.6
+      },
+      {
+        "match_id": "ATH04_M22",
+        "year": 2004,
+        "post_rating": 1439.5
+      },
+      {
+        "match_id": "LON12_M02",
+        "year": 2012,
+        "post_rating": 1408.6
+      },
+      {
+        "match_id": "LON12_M06",
+        "year": 2012,
+        "post_rating": 1388.6
+      },
+      {
+        "match_id": "LON12_M09",
+        "year": 2012,
+        "post_rating": 1372.4
+      },
+      {
+        "match_id": "LON12_M13",
+        "year": 2012,
+        "post_rating": 1351.7
+      },
+      {
+        "match_id": "LON12_M17",
+        "year": 2012,
+        "post_rating": 1380.1
+      }
+    ],
+    "CAN": [
+      {
+        "match_id": "ATH04_M02",
+        "year": 2004,
+        "post_rating": 1522.2
+      },
+      {
+        "match_id": "ATH04_M06",
+        "year": 2004,
+        "post_rating": 1505.0
+      },
+      {
+        "match_id": "ATH04_M10",
+        "year": 2004,
+        "post_rating": 1530.8
+      },
+      {
+        "match_id": "ATH04_M16",
+        "year": 2004,
+        "post_rating": 1546.9
+      },
+      {
+        "match_id": "ATH04_M19",
+        "year": 2004,
+        "post_rating": 1578.6
+      },
+      {
+        "match_id": "ATH04_M24",
+        "year": 2004,
+        "post_rating": 1562.3
+      },
+      {
+        "match_id": "BEI08_M02",
+        "year": 2008,
+        "post_rating": 1578.7
+      },
+      {
+        "match_id": "BEI08_M05",
+        "year": 2008,
+        "post_rating": 1614.5
+      },
+      {
+        "match_id": "BEI08_M10",
+        "year": 2008,
+        "post_rating": 1589.6
+      },
+      {
+        "match_id": "BEI08_M16",
+        "year": 2008,
+        "post_rating": 1577.2
+      },
+      {
+        "match_id": "BEI08_M19",
+        "year": 2008,
+        "post_rating": 1602.3
+      },
+      {
+        "match_id": "LON12_M03",
+        "year": 2012,
+        "post_rating": 1553.1
+      },
+      {
+        "match_id": "LON12_M06",
+        "year": 2012,
+        "post_rating": 1573.1
+      },
+      {
+        "match_id": "LON12_M10",
+        "year": 2012,
+        "post_rating": 1581.5
+      },
+      {
+        "match_id": "LON12_M15",
+        "year": 2012,
+        "post_rating": 1599.3
+      },
+      {
+        "match_id": "LON12_M20",
+        "year": 2012,
+        "post_rating": 1564.8
+      },
+      {
+        "match_id": "RIO16_M04",
+        "year": 2016,
+        "post_rating": 1599.2
+      },
+      {
+        "match_id": "RIO16_M06",
+        "year": 2016,
+        "post_rating": 1607.4
+      },
+      {
+        "match_id": "RIO16_M12",
+        "year": 2016,
+        "post_rating": 1600.5
+      },
+      {
+        "match_id": "RIO16_M16",
+        "year": 2016,
+        "post_rating": 1586.1
+      },
+      {
+        "match_id": "RIO16_M17",
+        "year": 2016,
+        "post_rating": 1563.4
+      },
+      {
+        "match_id": "TKY20_M03",
+        "year": 2020,
+        "post_rating": 1542.5
+      },
+      {
+        "match_id": "TKY20_M05",
+        "year": 2020,
+        "post_rating": 1534.1
+      },
+      {
+        "match_id": "TKY20_M12",
+        "year": 2020,
+        "post_rating": 1580.1
+      },
+      {
+        "match_id": "TKY20_M16",
+        "year": 2020,
+        "post_rating": 1594.3
+      },
+      {
+        "match_id": "PAR24_M02",
+        "year": 2024,
+        "post_rating": 1584.7
+      },
+      {
+        "match_id": "PAR24_M07",
+        "year": 2024,
+        "post_rating": 1595.8
+      },
+      {
+        "match_id": "PAR24_M11",
+        "year": 2024,
+        "post_rating": 1576.4
+      },
+      {
+        "match_id": "PAR24_M13",
+        "year": 2024,
+        "post_rating": 1599.0
+      },
+      {
+        "match_id": "PAR24_M18",
+        "year": 2024,
+        "post_rating": 1561.4
+      }
+    ],
+    "GER": [
+      {
+        "match_id": "ATH04_M02",
+        "year": 2004,
+        "post_rating": 1477.8
+      },
+      {
+        "match_id": "ATH04_M05",
+        "year": 2004,
+        "post_rating": 1443.8
+      },
+      {
+        "match_id": "ATH04_M09",
+        "year": 2004,
+        "post_rating": 1416.7
+      },
+      {
+        "match_id": "ATH04_M13",
+        "year": 2004,
+        "post_rating": 1396.6
+      },
+      {
+        "match_id": "ATH04_M18",
+        "year": 2004,
+        "post_rating": 1373.5
+      },
+      {
+        "match_id": "ATH04_M21",
+        "year": 2004,
+        "post_rating": 1385.0
+      },
+      {
+        "match_id": "BEI08_M03",
+        "year": 2008,
+        "post_rating": 1356.4
+      },
+      {
+        "match_id": "BEI08_M08",
+        "year": 2008,
+        "post_rating": 1345.0
+      },
+      {
+        "match_id": "BEI08_M12",
+        "year": 2008,
+        "post_rating": 1331.9
+      },
+      {
+        "match_id": "BEI08_M13",
+        "year": 2008,
+        "post_rating": 1345.8
+      },
+      {
+        "match_id": "BEI08_M18",
+        "year": 2008,
+        "post_rating": 1339.0
+      },
+      {
+        "match_id": "PAR24_M04",
+        "year": 2024,
+        "post_rating": 1327.8
+      },
+      {
+        "match_id": "PAR24_M07",
+        "year": 2024,
+        "post_rating": 1316.7
+      },
+      {
+        "match_id": "PAR24_M09",
+        "year": 2024,
+        "post_rating": 1312.4
+      },
+      {
+        "match_id": "PAR24_M14",
+        "year": 2024,
+        "post_rating": 1286.7
+      },
+      {
+        "match_id": "PAR24_M17",
+        "year": 2024,
+        "post_rating": 1266.5
+      }
+    ],
+    "USA": [
+      {
+        "match_id": "ATH04_M03",
+        "year": 2004,
+        "post_rating": 1544.4
+      },
+      {
+        "match_id": "ATH04_M08",
+        "year": 2004,
+        "post_rating": 1566.1
+      },
+      {
+        "match_id": "ATH04_M12",
+        "year": 2004,
+        "post_rating": 1594.2
+      },
+      {
+        "match_id": "ATH04_M13",
+        "year": 2004,
+        "post_rating": 1614.3
+      },
+      {
+        "match_id": "ATH04_M19",
+        "year": 2004,
+        "post_rating": 1582.7
+      },
+      {
+        "match_id": "ATH04_M23",
+        "year": 2004,
+        "post_rating": 1606.9
+      },
+      {
+        "match_id": "BEI08_M01",
+        "year": 2008,
+        "post_rating": 1645.2
+      },
+      {
+        "match_id": "BEI08_M06",
+        "year": 2008,
+        "post_rating": 1654.7
+      },
+      {
+        "match_id": "BEI08_M10",
+        "year": 2008,
+        "post_rating": 1679.6
+      },
+      {
+        "match_id": "BEI08_M15",
+        "year": 2008,
+        "post_rating": 1691.9
+      },
+      {
+        "match_id": "BEI08_M20",
+        "year": 2008,
+        "post_rating": 1714.7
+      },
+      {
+        "match_id": "LON12_M01",
+        "year": 2012,
+        "post_rating": 1730.9
+      },
+      {
+        "match_id": "LON12_M08",
+        "year": 2012,
+        "post_rating": 1746.6
+      },
+      {
+        "match_id": "LON12_M12",
+        "year": 2012,
+        "post_rating": 1759.1
+      },
+      {
+        "match_id": "LON12_M15",
+        "year": 2012,
+        "post_rating": 1741.4
+      },
+      {
+        "match_id": "LON12_M19",
+        "year": 2012,
+        "post_rating": 1754.3
+      },
+      {
+        "match_id": "RIO16_M02",
+        "year": 2016,
+        "post_rating": 1760.0
+      },
+      {
+        "match_id": "RIO16_M05",
+        "year": 2016,
+        "post_rating": 1769.4
+      },
+      {
+        "match_id": "RIO16_M11",
+        "year": 2016,
+        "post_rating": 1773.2
+      },
+      {
+        "match_id": "RIO16_M16",
+        "year": 2016,
+        "post_rating": 1787.5
+      },
+      {
+        "match_id": "RIO16_M18",
+        "year": 2016,
+        "post_rating": 1775.0
+      },
+      {
+        "match_id": "TKY20_M01",
+        "year": 2020,
+        "post_rating": 1804.9
+      },
+      {
+        "match_id": "TKY20_M05",
+        "year": 2020,
+        "post_rating": 1813.2
+      },
+      {
+        "match_id": "TKY20_M11",
+        "year": 2020,
+        "post_rating": 1822.4
+      },
+      {
+        "match_id": "TKY20_M14",
+        "year": 2020,
+        "post_rating": 1843.6
+      },
+      {
+        "match_id": "TKY20_M18",
+        "year": 2020,
+        "post_rating": 1798.0
+      },
+      {
+        "match_id": "PAR24_M02",
+        "year": 2024,
+        "post_rating": 1807.6
+      },
+      {
+        "match_id": "PAR24_M06",
+        "year": 2024,
+        "post_rating": 1772.8
+      },
+      {
+        "match_id": "PAR24_M09",
+        "year": 2024,
+        "post_rating": 1777.1
+      },
+      {
+        "match_id": "PAR24_M16",
+        "year": 2024,
+        "post_rating": 1806.2
+      },
+      {
+        "match_id": "PAR24_M20",
+        "year": 2024,
+        "post_rating": 1761.2
+      }
+    ],
+    "JPN": [
+      {
+        "match_id": "ATH04_M03",
+        "year": 2004,
+        "post_rating": 1455.6
+      },
+      {
+        "match_id": "ATH04_M07",
+        "year": 2004,
+        "post_rating": 1444.8
+      },
+      {
+        "match_id": "ATH04_M11",
+        "year": 2004,
+        "post_rating": 1413.1
+      },
+      {
+        "match_id": "ATH04_M14",
+        "year": 2004,
+        "post_rating": 1394.5
+      },
+      {
+        "match_id": "ATH04_M17",
+        "year": 2004,
+        "post_rating": 1385.5
+      },
+      {
+        "match_id": "ATH04_M21",
+        "year": 2004,
+        "post_rating": 1373.9
+      },
+      {
+        "match_id": "BEI08_M02",
+        "year": 2008,
+        "post_rating": 1357.6
+      },
+      {
+        "match_id": "BEI08_M06",
+        "year": 2008,
+        "post_rating": 1348.1
+      },
+      {
+        "match_id": "BEI08_M09",
+        "year": 2008,
+        "post_rating": 1406.6
+      },
+      {
+        "match_id": "BEI08_M13",
+        "year": 2008,
+        "post_rating": 1392.7
+      },
+      {
+        "match_id": "BEI08_M17",
+        "year": 2008,
+        "post_rating": 1438.4
+      },
+      {
+        "match_id": "LON12_M04",
+        "year": 2012,
+        "post_rating": 1482.9
+      },
+      {
+        "match_id": "LON12_M08",
+        "year": 2012,
+        "post_rating": 1467.2
+      },
+      {
+        "match_id": "LON12_M11",
+        "year": 2012,
+        "post_rating": 1513.7
+      },
+      {
+        "match_id": "LON12_M16",
+        "year": 2012,
+        "post_rating": 1487.3
+      },
+      {
+        "match_id": "LON12_M19",
+        "year": 2012,
+        "post_rating": 1474.4
+      },
+      {
+        "match_id": "RIO16_M03",
+        "year": 2016,
+        "post_rating": 1499.9
+      },
+      {
+        "match_id": "RIO16_M07",
+        "year": 2016,
+        "post_rating": 1515.8
+      },
+      {
+        "match_id": "RIO16_M11",
+        "year": 2016,
+        "post_rating": 1512.0
+      },
+      {
+        "match_id": "RIO16_M15",
+        "year": 2016,
+        "post_rating": 1499.9
+      },
+      {
+        "match_id": "RIO16_M17",
+        "year": 2016,
+        "post_rating": 1522.7
+      },
+      {
+        "match_id": "TKY20_M04",
+        "year": 2020,
+        "post_rating": 1531.4
+      },
+      {
+        "match_id": "TKY20_M06",
+        "year": 2020,
+        "post_rating": 1566.9
+      },
+      {
+        "match_id": "TKY20_M10",
+        "year": 2020,
+        "post_rating": 1608.1
+      },
+      {
+        "match_id": "TKY20_M15",
+        "year": 2020,
+        "post_rating": 1580.4
+      },
+      {
+        "match_id": "TKY20_M17",
+        "year": 2020,
+        "post_rating": 1627.8
+      },
+      {
+        "match_id": "PAR24_M04",
+        "year": 2024,
+        "post_rating": 1639.0
+      },
+      {
+        "match_id": "PAR24_M06",
+        "year": 2024,
+        "post_rating": 1673.8
+      },
+      {
+        "match_id": "PAR24_M11",
+        "year": 2024,
+        "post_rating": 1693.2
+      },
+      {
+        "match_id": "PAR24_M15",
+        "year": 2024,
+        "post_rating": 1702.3
+      },
+      {
+        "match_id": "PAR24_M20",
+        "year": 2024,
+        "post_rating": 1747.4
+      }
+    ],
+    "AUS": [
+      {
+        "match_id": "ATH04_M04",
+        "year": 2004,
+        "post_rating": 1461.6
+      },
+      {
+        "match_id": "ATH04_M07",
+        "year": 2004,
+        "post_rating": 1472.5
+      },
+      {
+        "match_id": "ATH04_M12",
+        "year": 2004,
+        "post_rating": 1444.4
+      },
+      {
+        "match_id": "ATH04_M16",
+        "year": 2004,
+        "post_rating": 1428.3
+      },
+      {
+        "match_id": "ATH04_M18",
+        "year": 2004,
+        "post_rating": 1451.3
+      },
+      {
+        "match_id": "ATH04_M22",
+        "year": 2004,
+        "post_rating": 1474.3
+      },
+      {
+        "match_id": "BEI08_M03",
+        "year": 2008,
+        "post_rating": 1502.9
+      },
+      {
+        "match_id": "BEI08_M07",
+        "year": 2008,
+        "post_rating": 1517.8
+      },
+      {
+        "match_id": "BEI08_M11",
+        "year": 2008,
+        "post_rating": 1554.0
+      },
+      {
+        "match_id": "BEI08_M16",
+        "year": 2008,
+        "post_rating": 1566.5
+      },
+      {
+        "match_id": "BEI08_M20",
+        "year": 2008,
+        "post_rating": 1543.7
+      },
+      {
+        "match_id": "LON12_M03",
+        "year": 2012,
+        "post_rating": 1592.9
+      },
+      {
+        "match_id": "LON12_M05",
+        "year": 2012,
+        "post_rating": 1626.7
+      },
+      {
+        "match_id": "LON12_M09",
+        "year": 2012,
+        "post_rating": 1642.9
+      },
+      {
+        "match_id": "LON12_M16",
+        "year": 2012,
+        "post_rating": 1669.3
+      },
+      {
+        "match_id": "LON12_M20",
+        "year": 2012,
+        "post_rating": 1703.7
+      },
+      {
+        "match_id": "RIO16_M01",
+        "year": 2016,
+        "post_rating": 1712.4
+      },
+      {
+        "match_id": "RIO16_M08",
+        "year": 2016,
+        "post_rating": 1731.0
+      },
+      {
+        "match_id": "RIO16_M12",
+        "year": 2016,
+        "post_rating": 1738.0
+      },
+      {
+        "match_id": "RIO16_M15",
+        "year": 2016,
+        "post_rating": 1750.0
+      },
+      {
+        "match_id": "RIO16_M18",
+        "year": 2016,
+        "post_rating": 1762.5
+      },
+      {
+        "match_id": "TKY20_M02",
+        "year": 2020,
+        "post_rating": 1741.9
+      },
+      {
+        "match_id": "TKY20_M07",
+        "year": 2020,
+        "post_rating": 1744.6
+      },
+      {
+        "match_id": "TKY20_M10",
+        "year": 2020,
+        "post_rating": 1703.4
+      },
+      {
+        "match_id": "TKY20_M14",
+        "year": 2020,
+        "post_rating": 1682.2
+      },
+      {
+        "match_id": "TKY20_M17",
+        "year": 2020,
+        "post_rating": 1634.8
+      },
+      {
+        "match_id": "PAR24_M01",
+        "year": 2024,
+        "post_rating": 1618.3
+      },
+      {
+        "match_id": "PAR24_M08",
+        "year": 2024,
+        "post_rating": 1624.5
+      },
+      {
+        "match_id": "PAR24_M10",
+        "year": 2024,
+        "post_rating": 1637.5
+      },
+      {
+        "match_id": "PAR24_M15",
+        "year": 2024,
+        "post_rating": 1628.4
+      },
+      {
+        "match_id": "PAR24_M19",
+        "year": 2024,
+        "post_rating": 1650.8
+      }
+    ],
+    "NZL": [
+      {
+        "match_id": "ATH04_M04",
+        "year": 2004,
+        "post_rating": 1538.4
+      },
+      {
+        "match_id": "ATH04_M08",
+        "year": 2004,
+        "post_rating": 1516.6
+      },
+      {
+        "match_id": "ATH04_M11",
+        "year": 2004,
+        "post_rating": 1548.3
+      },
+      {
+        "match_id": "ATH04_M15",
+        "year": 2004,
+        "post_rating": 1574.2
+      },
+      {
+        "match_id": "ATH04_M20",
+        "year": 2004,
+        "post_rating": 1601.5
+      },
+      {
+        "match_id": "ATH04_M24",
+        "year": 2004,
+        "post_rating": 1617.7
+      },
+      {
+        "match_id": "BEI08_M04",
+        "year": 2008,
+        "post_rating": 1603.7
+      },
+      {
+        "match_id": "BEI08_M07",
+        "year": 2008,
+        "post_rating": 1588.8
+      },
+      {
+        "match_id": "BEI08_M12",
+        "year": 2008,
+        "post_rating": 1601.9
+      },
+      {
+        "match_id": "BEI08_M14",
+        "year": 2008,
+        "post_rating": 1617.6
+      },
+      {
+        "match_id": "BEI08_M18",
+        "year": 2008,
+        "post_rating": 1624.4
+      },
+      {
+        "match_id": "TKY20_M01",
+        "year": 2020,
+        "post_rating": 1594.6
+      },
+      {
+        "match_id": "TKY20_M08",
+        "year": 2020,
+        "post_rating": 1544.9
+      },
+      {
+        "match_id": "TKY20_M12",
+        "year": 2020,
+        "post_rating": 1498.9
+      },
+      {
+        "match_id": "TKY20_M13",
+        "year": 2020,
+        "post_rating": 1473.7
+      }
+    ],
+    "CHN": [
+      {
+        "match_id": "BEI08_M01",
+        "year": 2008,
+        "post_rating": 1461.6
+      },
+      {
+        "match_id": "BEI08_M05",
+        "year": 2008,
+        "post_rating": 1425.8
+      },
+      {
+        "match_id": "BEI08_M09",
+        "year": 2008,
+        "post_rating": 1367.3
+      },
+      {
+        "match_id": "BEI08_M14",
+        "year": 2008,
+        "post_rating": 1351.6
+      },
+      {
+        "match_id": "BEI08_M17",
+        "year": 2008,
+        "post_rating": 1305.9
+      }
+    ],
+    "SWE": [
+      {
+        "match_id": "LON12_M02",
+        "year": 2012,
+        "post_rating": 1530.9
+      },
+      {
+        "match_id": "LON12_M05",
+        "year": 2012,
+        "post_rating": 1497.1
+      },
+      {
+        "match_id": "LON12_M10",
+        "year": 2012,
+        "post_rating": 1488.7
+      },
+      {
+        "match_id": "LON12_M14",
+        "year": 2012,
+        "post_rating": 1517.7
+      },
+      {
+        "match_id": "LON12_M18",
+        "year": 2012,
+        "post_rating": 1471.6
+      },
+      {
+        "match_id": "RIO16_M03",
+        "year": 2016,
+        "post_rating": 1446.1
+      },
+      {
+        "match_id": "RIO16_M05",
+        "year": 2016,
+        "post_rating": 1436.6
+      },
+      {
+        "match_id": "RIO16_M09",
+        "year": 2016,
+        "post_rating": 1460.4
+      },
+      {
+        "match_id": "RIO16_M14",
+        "year": 2016,
+        "post_rating": 1429.2
+      }
+    ],
+    "FRA": [
+      {
+        "match_id": "LON12_M04",
+        "year": 2012,
+        "post_rating": 1455.4
+      },
+      {
+        "match_id": "LON12_M07",
+        "year": 2012,
+        "post_rating": 1424.4
+      },
+      {
+        "match_id": "LON12_M12",
+        "year": 2012,
+        "post_rating": 1412.0
+      },
+      {
+        "match_id": "LON12_M14",
+        "year": 2012,
+        "post_rating": 1383.0
+      },
+      {
+        "match_id": "LON12_M17",
+        "year": 2012,
+        "post_rating": 1354.5
+      },
+      {
+        "match_id": "RIO16_M02",
+        "year": 2016,
+        "post_rating": 1348.8
+      },
+      {
+        "match_id": "RIO16_M07",
+        "year": 2016,
+        "post_rating": 1333.0
+      },
+      {
+        "match_id": "RIO16_M09",
+        "year": 2016,
+        "post_rating": 1309.1
+      },
+      {
+        "match_id": "RIO16_M13",
+        "year": 2016,
+        "post_rating": 1347.5
+      },
+      {
+        "match_id": "TKY20_M04",
+        "year": 2020,
+        "post_rating": 1338.8
+      },
+      {
+        "match_id": "TKY20_M07",
+        "year": 2020,
+        "post_rating": 1336.1
+      },
+      {
+        "match_id": "TKY20_M09",
+        "year": 2020,
+        "post_rating": 1362.6
+      },
+      {
+        "match_id": "TKY20_M16",
+        "year": 2020,
+        "post_rating": 1348.4
+      },
+      {
+        "match_id": "PAR24_M03",
+        "year": 2024,
+        "post_rating": 1374.1
+      },
+      {
+        "match_id": "PAR24_M08",
+        "year": 2024,
+        "post_rating": 1367.8
+      },
+      {
+        "match_id": "PAR24_M12",
+        "year": 2024,
+        "post_rating": 1365.8
+      },
+      {
+        "match_id": "PAR24_M14",
+        "year": 2024,
+        "post_rating": 1391.6
+      },
+      {
+        "match_id": "PAR24_M18",
+        "year": 2024,
+        "post_rating": 1429.2
+      }
+    ],
+    "BRA": [
+      {
+        "match_id": "RIO16_M04",
+        "year": 2016,
+        "post_rating": 1465.7
+      },
+      {
+        "match_id": "RIO16_M08",
+        "year": 2016,
+        "post_rating": 1447.0
+      },
+      {
+        "match_id": "RIO16_M10",
+        "year": 2016,
+        "post_rating": 1408.2
+      },
+      {
+        "match_id": "RIO16_M13",
+        "year": 2016,
+        "post_rating": 1369.8
+      }
+    ],
+    "DEN": [
+      {
+        "match_id": "TKY20_M02",
+        "year": 2020,
+        "post_rating": 1520.6
+      },
+      {
+        "match_id": "TKY20_M06",
+        "year": 2020,
+        "post_rating": 1485.1
+      },
+      {
+        "match_id": "TKY20_M09",
+        "year": 2020,
+        "post_rating": 1458.6
+      },
+      {
+        "match_id": "TKY20_M13",
+        "year": 2020,
+        "post_rating": 1483.8
+      },
+      {
+        "match_id": "PAR24_M03",
+        "year": 2024,
+        "post_rating": 1458.1
+      },
+      {
+        "match_id": "PAR24_M05",
+        "year": 2024,
+        "post_rating": 1452.8
+      },
+      {
+        "match_id": "PAR24_M10",
+        "year": 2024,
+        "post_rating": 1439.8
+      },
+      {
+        "match_id": "PAR24_M13",
+        "year": 2024,
+        "post_rating": 1417.2
+      },
+      {
+        "match_id": "PAR24_M17",
+        "year": 2024,
+        "post_rating": 1437.3
+      }
+    ]
+  }
+}

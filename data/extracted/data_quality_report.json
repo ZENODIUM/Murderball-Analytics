@@ -1,0 +1,85 @@
+{
+  "pipeline_version": "1.0.0",
+  "total_documents_processed": 10,
+  "detailed_paralympic_tournaments": 6,
+  "world_championships_summary_tournaments": 4,
+  "paralympic_matches_expected": 120,
+  "paralympic_matches_extracted": 120,
+  "paralympic_extraction_rate": 1.0,
+  "score_reconciled_count": 120,
+  "score_reconciliation_rate": 1.0,
+  "minutes_reconciled_count": 26,
+  "minutes_reconciliation_rate": 0.217,
+  "total_play_by_play_events": 26876,
+  "total_scoring_events": 11264,
+  "total_lineup_stints_reconstructed": 5148,
+  "total_championship_summary_matches": 112,
+  "tournaments": {
+    "Paris 2024": {
+      "year": 2024,
+      "expected_matches": 20,
+      "parsed_matches": 20,
+      "score_reconciled": 20,
+      "score_reconciliation_rate": 1.0,
+      "minutes_reconciled": 0,
+      "minutes_reconciliation_rate": 0.0,
+      "total_events": 3649,
+      "total_stints": 848
+    },
+    "Tokyo 2020": {
+      "year": 2020,
+      "expected_matches": 18,
+      "parsed_matches": 18,
+      "score_reconciled": 18,
+      "score_reconciliation_rate": 1.0,
+      "minutes_reconciled": 0,
+      "minutes_reconciliation_rate": 0.0,
+      "total_events": 3331,
+      "total_stints": 702
+    },
+    "Rio 2016": {
+      "year": 2016,
+      "expected_matches": 18,
+      "parsed_matches": 18,
+      "score_reconciled": 18,
+      "score_reconciliation_rate": 1.0,
+      "minutes_reconciled": 12,
+      "minutes_reconciliation_rate": 0.667,
+      "total_events": 3796,
+      "total_stints": 76
+    },
+    "London 2012": {
+      "year": 2012,
+      "expected_matches": 20,
+      "parsed_matches": 20,
+      "score_reconciled": 20,
+      "score_reconciliation_rate": 1.0,
+      "minutes_reconciled": 14,
+      "minutes_reconciliation_rate": 0.7,
+      "total_events": 3899,
+      "total_stints": 1036
+    },
+    "Beijing 2008": {
+      "year": 2008,
+      "expected_matches": 20,
+      "parsed_matches": 20,
+      "score_reconciled": 20,
+      "score_reconciliation_rate": 1.0,
+      "minutes_reconciled": 0,
+      "minutes_reconciliation_rate": 0.0,
+      "total_events": 4833,
+      "total_stints": 1643
+    },
+    "Athens 2004": {
+      "year": 2004,
+      "expected_matches": 24,
+      "parsed_matches": 24,
+      "score_reconciled": 24,
+      "score_reconciliation_rate": 1.0,
+      "minutes_reconciled": 0,
+      "minutes_reconciliation_rate": 0.0,
+      "total_events": 7368,
+      "total_stints": 843
+    }
+  }
+}

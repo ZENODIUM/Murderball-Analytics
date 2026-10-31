@@ -1,0 +1,72 @@
+{
+  "registry_version": "2026-10-30.2",
+  "status": "AUTHORITATIVE",
+  "assist_blocks": {
+    "dataset": "Athens 2004 and Beijing 2008 official C73 player box scores",
+    "matches": 44,
+    "event_definition": "AB (Assist Block) as recorded in the official box score",
+    "total": 1296,
+    "class_0_5": 364,
+    "class_0_5_share": 0.2809,
+    "tries_total": 2459,
+    "class_0_5_tries": 3,
+    "test": "Pearson chi-square test comparing functional-class distributions of tries and Assist Blocks",
+    "chi2": 1177.7168,
+    "df": 6,
+    "p_value": 3.180566540113164e-251,
+    "cramers_v": 0.56,
+    "claim_type": "DESCRIPTIVE_ASSOCIATION",
+    "interpretation": "Class 0.5 athletes account for 364 of 1,296 recorded Assist Blocks (28.1%). The source does not measure spatial lane creation or prove a causal scoring mechanism."
+  },
+  "timeouts": {
+    "dataset": "120 Paralympic matches; observational scoring-run analysis",
+    "adjusted_p_value": 0.66,
+    "claim_type": "INCONCLUSIVE_OBSERVATIONAL",
+    "interpretation": "The adjusted analysis does not establish that calling a timeout after a scoring run causes improved outcomes. No fixed 3-0 timeout trigger is supported."
+  },
+  "female_allowance": {
+    "dataset": "5,148 active legal lineup stints across six Paralympic tournaments",
+    "comparison": "Female-inclusive lineup observations versus all-male lineup observations",
+    "net_efficiency_difference_tries_per_min": -0.0078,
+    "welch_p_value": 0.8923,
+    "claim_type": "INCONCLUSIVE_OBSERVATIONAL",
+    "interpretation": "No detectable mean difference was found in this analysis. The result does not establish parity, equivalence, or a causal effect of the allowance."
+  },
+  "model_evaluation": {
+    "cohort": "24 reused 2026 World Championship matches that influenced development",
+    "evaluation_design": "RETROSPECTIVE_REUSED_COHORT",
+    "rank_feature_provenance": "Previous-rank field in the official 29-Aug-2026 post-tournament WWR snapshot; no separately dated pre-event snapshot is present in the repository",
+    "reconstructed_rank_order": {
+      "JPN": 1,
+      "AUS": 2,
+      "USA": 3,
+      "GBR": 4,
+      "FRA": 5,
+      "CAN": 6,
+      "BRA": 7,
+      "DEN": 8,
+      "GER": 9,
+      "NZL": 10,
+      "COL": 11,
+      "NED": 12
+    },
+    "seed_baseline_brier": 0.1177,
+    "l2_logistic_brier": 0.1433,
+    "paired_difference_logistic_minus_seed": 0.0256,
+    "superiority_established": false,
+    "interpretation": "The reconstructed-rank baseline has the lowest observed Brier score. Paired uncertainty spans zero, so neither model has established superiority. This is not prospective validation."
+  },
+  "historical_narrative_policy": {
+    "observed": ["official scores", "period scores", "lineups", "substitutions", "event timestamps"],
+    "hypothesis_only_without_video_or_tracking": ["passes", "screens", "traps", "presses", "movement routes", "spatial formations", "coaching intent"]
+  },
+  "deprecated_claims": [
+    "2,505 Assist Blocks",
+    "class 0.5 athletes created 28.1% of scoring lanes",
+    "24 Unseen Test Matches",
+    "untouched holdout",
+    "prospective superiority",
+    "Fitted L2 Logistic (Champion)",
+    "call a timeout after a 3-0 run"
+  ]
+}

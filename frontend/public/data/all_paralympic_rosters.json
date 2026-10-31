@@ -1,0 +1,6184 @@
+{
+  "Paris 2024": {
+    "AUS": {
+      "team_code": "AUS",
+      "team_name": "Australia",
+      "coach": "DUBBERLEY Brad",
+      "assistant_coach": "LEES Jason",
+      "uniform_1": {
+        "top": "Green",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "Gold/Yellow",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "SABLJAK Ella",
+          "raw_name": "SABLJAK Ella",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "F",
+          "dob": "17 OCT 1991",
+          "club": "Queensland Cyclones (AUS)"
+        },
+        {
+          "bib": 2,
+          "name": "MILLER Emilie",
+          "raw_name": "MILLER Emilie",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "F",
+          "dob": "9 MAR 1995",
+          "club": "NSW Gladiators (AUS)"
+        },
+        {
+          "bib": 3,
+          "name": "BATT Ryley",
+          "raw_name": "BATT Ryley",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "22 MAY 1989",
+          "club": "NSW Gladiators (AUS)"
+        },
+        {
+          "bib": 4,
+          "name": "HOWE Jake",
+          "raw_name": "HOWE Jake",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "4 JUN 1991",
+          "club": "WA Enforcers (AUS)"
+        },
+        {
+          "bib": 5,
+          "name": "McQUILLAN James",
+          "raw_name": "McQUILLAN James",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "28 AUG 1993",
+          "club": "Victoria Thunder (AUS)"
+        },
+        {
+          "bib": 8,
+          "name": "FAWCETT Ben",
+          "raw_name": "FAWCETT Ben",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "31 DEC 1990",
+          "club": "Victoria Thunder (AUS)"
+        },
+        {
+          "bib": 10,
+          "name": "BOND Chris",
+          "raw_name": "BOND Chris (C)",
+          "is_captain": true,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "28 MAY 1986",
+          "club": "Queensland Cyclones (AUS)"
+        },
+        {
+          "bib": 11,
+          "name": "VERNON Beau",
+          "raw_name": "VERNON Beau",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "5 DEC 1988",
+          "club": "Queensland Cyclones (AUS)"
+        },
+        {
+          "bib": 12,
+          "name": "GRAHAM Shae",
+          "raw_name": "GRAHAM Shae",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "F",
+          "dob": "16 DEC 1986",
+          "club": "Victoria Thunder (AUS)"
+        },
+        {
+          "bib": 14,
+          "name": "EDMONDSON Andrew",
+          "raw_name": "EDMONDSON Andrew",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "24 JUN 1990",
+          "club": "NSW Gladiators (AUS)"
+        },
+        {
+          "bib": 15,
+          "name": "FOXLEY CONOLLY Brayden",
+          "raw_name": "FOXLEY CONOLLY Brayden",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "24 AUG 2004",
+          "club": "Queensland Cyclones (AUS)"
+        },
+        {
+          "bib": 21,
+          "name": "NICHOLSON Josh",
+          "raw_name": "NICHOLSON Josh",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "30 MAY 1995",
+          "club": "Queensland Cyclones (AUS)"
+        }
+      ],
+      "player_count": 12
+    },
+    "CAN": {
+      "team_code": "CAN",
+      "team_name": "Canada",
+      "coach": "COTE Patrick",
+      "assistant_coach": "HICKLING Garett",
+      "uniform_1": {
+        "top": "Red",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "Black",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "KANDA KOVAC Rio",
+          "raw_name": "KANDA KOVAC Rio",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "12 NOV 2002",
+          "club": "London Annihilator (CAN)"
+        },
+        {
+          "bib": 2,
+          "name": "MURAO Travis",
+          "raw_name": "MURAO Travis",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "12 JAN 1983",
+          "club": "Ontario Thunder (CAN)"
+        },
+        {
+          "bib": 7,
+          "name": "GREEN Byron",
+          "raw_name": "GREEN Byron",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "26 APR 1984",
+          "club": ""
+        },
+        {
+          "bib": 8,
+          "name": "WHITEHEAD Mike",
+          "raw_name": "WHITEHEAD Mike",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "25 NOV 1975",
+          "club": "Ontario Thunder (CAN)"
+        },
+        {
+          "bib": 9,
+          "name": "CALDWELL Cody",
+          "raw_name": "CALDWELL Cody",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "22 MAY 1988",
+          "club": "London Annihilators (CAN)"
+        },
+        {
+          "bib": 10,
+          "name": "HIRSCHFIELD Trevor",
+          "raw_name": "HIRSCHFIELD Trevor (C)",
+          "is_captain": true,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "21 DEC 1983",
+          "club": ""
+        },
+        {
+          "bib": 12,
+          "name": "DAGENAIS Patrice",
+          "raw_name": "DAGENAIS Patrice (C)",
+          "is_captain": true,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "4 OCT 1984",
+          "club": "Ottawa Stingers (CAN)"
+        },
+        {
+          "bib": 21,
+          "name": "LETOURNEAU Anthony",
+          "raw_name": "LETOURNEAU Anthony",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "1 MAR 1996",
+          "club": "Montreal Machine (CAN)"
+        },
+        {
+          "bib": 30,
+          "name": "EWERT Joel",
+          "raw_name": "EWERT Joel",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "18 DEC 1999",
+          "club": ""
+        },
+        {
+          "bib": 31,
+          "name": "DEBLY Matthew Anthony",
+          "raw_name": "DEBLY Matthew Anthony",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "4 NOV 1994",
+          "club": "Ontario Thunder (CAN)"
+        },
+        {
+          "bib": 33,
+          "name": "MADELL Zachary",
+          "raw_name": "MADELL Zachary",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "28 MAR 1994",
+          "club": "Alberta Roughnecks (CAN)"
+        },
+        {
+          "bib": 41,
+          "name": "FURTADO RODRIGUES Eric",
+          "raw_name": "FURTADO RODRIGUES Eric",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "7 MAY 1979",
+          "club": "Toronto Titans (CAN)"
+        }
+      ],
+      "player_count": 12
+    },
+    "DEN": {
+      "team_code": "DEN",
+      "team_name": "Denmark",
+      "coach": "REGIER Jason (USA)",
+      "assistant_coach": "JOHANSSON Thor",
+      "uniform_1": {
+        "top": "Red",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "PAGH Thomas",
+          "raw_name": "PAGH Thomas",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "22 MAR 1972",
+          "club": "FHI Falcons (DEN)"
+        },
+        {
+          "bib": 2,
+          "name": "ELMHOLT Morten",
+          "raw_name": "ELMHOLT Morten",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "11 JAN 1988",
+          "club": "Arhus Burnout (DEN)"
+        },
+        {
+          "bib": 3,
+          "name": "JORGENSEN Leon",
+          "raw_name": "JORGENSEN Leon (C)",
+          "is_captain": true,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "6 FEB 1985",
+          "club": "FHI Falcons (DEN)"
+        },
+        {
+          "bib": 4,
+          "name": "MORTENSEN Jakob",
+          "raw_name": "MORTENSEN Jakob",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "20 NOV 1996",
+          "club": "Arhus Burnout (DEN)"
+        },
+        {
+          "bib": 5,
+          "name": "MOMME NIELSEN Kaare",
+          "raw_name": "MOMME NIELSEN Kaare",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "28 MAR 1992",
+          "club": "Arhus Burnout (DEN)"
+        },
+        {
+          "bib": 6,
+          "name": "SKOUBO Sofie",
+          "raw_name": "SKOUBO Sofie",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "F",
+          "dob": "31 JUL 1994",
+          "club": "Arhus Burnout (DEN)"
+        },
+        {
+          "bib": 7,
+          "name": "BUSK JENSEN Kurt",
+          "raw_name": "BUSK JENSEN Kurt",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "20 FEB 1967",
+          "club": "FHI Falcons (DEN)"
+        },
+        {
+          "bib": 8,
+          "name": "KRUEGER Jesper",
+          "raw_name": "KRUEGER Jesper",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "15 JUL 1989",
+          "club": "Arhus Burnout (DEN)"
+        },
+        {
+          "bib": 9,
+          "name": "BAK ERIKSEN Kristian",
+          "raw_name": "BAK ERIKSEN Kristian",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "14 MAY 1991",
+          "club": "FHI Falcons (DEN)"
+        },
+        {
+          "bib": 10,
+          "name": "FREDERIKSEN Sebastian",
+          "raw_name": "FREDERIKSEN Sebastian",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "2 FEB 1994",
+          "club": "FHI Falcons (DEN)"
+        },
+        {
+          "bib": 11,
+          "name": "PETERS Mark",
+          "raw_name": "PETERS Mark",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "20 DEC 1982",
+          "club": "FHI Falcons (DEN)"
+        },
+        {
+          "bib": 12,
+          "name": "SCHOTTEL Mikkel",
+          "raw_name": "SCHOTTEL Mikkel",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "25 OCT 1992",
+          "club": "FHI Falcons (DEN)"
+        }
+      ],
+      "player_count": 12
+    },
+    "FRA": {
+      "team_code": "FRA",
+      "team_name": "France",
+      "coach": "VANACKER Bob (BEL)",
+      "assistant_coach": "FRISHBERG Justin (GBR)",
+      "uniform_1": {
+        "top": "Blue",
+        "bottom": "Blue"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Blue"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "VALENTIM Nicolas",
+          "raw_name": "VALENTIM Nicolas",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "8 JAN 1994",
+          "club": "ASM (FRA)"
+        },
+        {
+          "bib": 3,
+          "name": "NANKIN Cedric",
+          "raw_name": "NANKIN Cedric (C)",
+          "is_captain": true,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "9 JUL 1984",
+          "club": "CAPSAAA PARIS (FRA)"
+        },
+        {
+          "bib": 4,
+          "name": "CHALMIN Adrien",
+          "raw_name": "CHALMIN Adrien",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "21 JUL 1986",
+          "club": "ASM (FRA)"
+        },
+        {
+          "bib": 5,
+          "name": "JARLAN Rodolphe",
+          "raw_name": "JARLAN Rodolphe",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "8 SEP 1988",
+          "club": "STADE TOULOUSAIN (FRA)"
+        },
+        {
+          "bib": 7,
+          "name": "THIRIET Matthieu",
+          "raw_name": "THIRIET Matthieu",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "7 JUL 1989",
+          "club": "STADE TOULOUSAIN (FRA)"
+        },
+        {
+          "bib": 9,
+          "name": "SALLEM Ryadh",
+          "raw_name": "SALLEM Ryadh",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "6 SEP 1970",
+          "club": "CAPSAAA PARIS (FRA)"
+        },
+        {
+          "bib": 10,
+          "name": "MAUREL Brice",
+          "raw_name": "MAUREL Brice",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "23 FEB 1988",
+          "club": "MONTPELLIER HR (FRA)"
+        },
+        {
+          "bib": 14,
+          "name": "DUCRET Jordan",
+          "raw_name": "DUCRET Jordan",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "8 NOV 1995",
+          "club": "ATLANTIQUE RUGBY F (FRA)"
+        },
+        {
+          "bib": 20,
+          "name": "BARFETY Tristan",
+          "raw_name": "BARFETY Tristan",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "21 APR 1984",
+          "club": "STADE TOULOUSAIN (FRA)"
+        },
+        {
+          "bib": 21,
+          "name": "HIVERNAT Jonathan",
+          "raw_name": "HIVERNAT Jonathan (C)",
+          "is_captain": true,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "21 JAN 1991",
+          "club": "STADE TOULOUSAIN (FRA)"
+        },
+        {
+          "bib": 33,
+          "name": "VERDIN Sebastien",
+          "raw_name": "VERDIN Sebastien",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "17 AUG 1991",
+          "club": "CS NUITON (FRA)"
+        },
+        {
+          "bib": 44,
+          "name": "le GUEN Corentin",
+          "raw_name": "le GUEN Corentin",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "10 FEB 1994",
+          "club": "CS NUITON (FRA)"
+        }
+      ],
+      "player_count": 12
+    },
+    "GBR": {
+      "team_code": "GBR",
+      "team_name": "Great Britain",
+      "coach": "SHAW Paul",
+      "assistant_coach": "SCATURRO Adam (USA)",
+      "uniform_1": {
+        "top": "Legend:",
+        "bottom": "C"
+      },
+      "uniform_2": {
+        "top": "Dark Blue",
+        "bottom": "Dark Blue"
+      },
+      "players": [
+        {
+          "bib": 2,
+          "name": "COGGAN Jonathan",
+          "raw_name": "COGGAN Jonathan",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "25 APR 1983",
+          "club": "London WRC (GBR)"
+        },
+        {
+          "bib": 3,
+          "name": "ROBINSON Stuart",
+          "raw_name": "ROBINSON Stuart",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "15 APR 1982",
+          "club": "West Coast WRC (GBR)"
+        },
+        {
+          "bib": 4,
+          "name": "WALKER Gavin",
+          "raw_name": "WALKER Gavin (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "13 OCT 1983",
+          "club": "Leicester Tigers WRC (GBR)"
+        },
+        {
+          "bib": 5,
+          "name": "SMITH Jack",
+          "raw_name": "SMITH Jack",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "19 JUN 1991",
+          "club": "North East Bulls WRC (GBR)"
+        },
+        {
+          "bib": 6,
+          "name": "ROSS Dave",
+          "raw_name": "ROSS Dave",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "2 NOV 1994",
+          "club": "London WRC (GBR)"
+        },
+        {
+          "bib": 8,
+          "name": "CUMMINS Nick",
+          "raw_name": "CUMMINS Nick",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "4 AUG 1985",
+          "club": "Leicester Tigers WRC (GBR)"
+        },
+        {
+          "bib": 9,
+          "name": "MANGION Ollie",
+          "raw_name": "MANGION Ollie",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "9 OCT 1995",
+          "club": "London WRC (GBR)"
+        },
+        {
+          "bib": 10,
+          "name": "WALKER Tyler",
+          "raw_name": "WALKER Tyler",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "11 OCT 2003",
+          "club": "Cheltenham Tigers (GBR)"
+        },
+        {
+          "bib": 11,
+          "name": "FLYNN Kieran",
+          "raw_name": "FLYNN Kieran",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "26 APR 1992",
+          "club": "Leicester Tigers WRC (GBR)"
+        },
+        {
+          "bib": 12,
+          "name": "STEAD Jamie",
+          "raw_name": "STEAD Jamie",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "22 SEP 1993",
+          "club": "Leicester Tigers WRC (GBR)"
+        },
+        {
+          "bib": 13,
+          "name": "PHIPPS Aaron",
+          "raw_name": "PHIPPS Aaron",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "7 APR 1983",
+          "club": "London WRC (GBR)"
+        },
+        {
+          "bib": 14,
+          "name": "KELLETT Daniel",
+          "raw_name": "KELLETT Daniel",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "8 APR 1992",
+          "club": "West Coast WRC (GBR)"
+        }
+      ],
+      "player_count": 12
+    },
+    "GER": {
+      "team_code": "GER",
+      "team_name": "Germany",
+      "coach": "WERNER Christoph",
+      "assistant_coach": null,
+      "uniform_1": {
+        "top": "Black",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "Sand-colored",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "HERBST Marco",
+          "raw_name": "HERBST Marco (C)",
+          "is_captain": true,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "20 FEB 1989",
+          "club": "Vfl Grasdorf (GER)"
+        },
+        {
+          "bib": 5,
+          "name": "WILKE Josco",
+          "raw_name": "WILKE Josco",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "4 AUG 2001",
+          "club": "LBRS (GER)"
+        },
+        {
+          "bib": 6,
+          "name": "RIEDEL Christian",
+          "raw_name": "RIEDEL Christian",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "2 OCT 1970",
+          "club": "RSC Frankfurt (GER)"
+        },
+        {
+          "bib": 7,
+          "name": "KRIPKE Britta",
+          "raw_name": "KRIPKE Britta",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "F",
+          "dob": "3 JUL 1977",
+          "club": "Alstersport e.V. (GER)"
+        },
+        {
+          "bib": 8,
+          "name": "WECKE Steffen",
+          "raw_name": "WECKE Steffen",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "6 AUG 1984",
+          "club": "SV Eiche 05 Biederitz (GER)"
+        },
+        {
+          "bib": 10,
+          "name": "VOLTER Michael",
+          "raw_name": "VOLTER Michael",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "19 JUN 1991",
+          "club": "RSG Frankfurt (GER)"
+        },
+        {
+          "bib": 12,
+          "name": "SAUERBIER Jens",
+          "raw_name": "SAUERBIER Jens",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "20 MAR 1987",
+          "club": "SV Eiche 05 Biederitz (GER)"
+        },
+        {
+          "bib": 20,
+          "name": "STOLZ Maximilian",
+          "raw_name": "STOLZ Maximilian",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "3 JAN 1997",
+          "club": "RSG Koblenz (GER)"
+        },
+        {
+          "bib": 21,
+          "name": "BONGARD Florian",
+          "raw_name": "BONGARD Florian",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "30 DEC 1993",
+          "club": "RSG Koblenz (GER)"
+        },
+        {
+          "bib": 24,
+          "name": "MOSEL Mascha",
+          "raw_name": "MOSEL Mascha",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "F",
+          "dob": "12 JUN 2003",
+          "club": "TSV Achim (GER)"
+        },
+        {
+          "bib": 25,
+          "name": "BRUECKNER Moritz",
+          "raw_name": "BRUECKNER Moritz",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "14 NOV 1998",
+          "club": "SF Illerrieden Donauhaie (GER)"
+        },
+        {
+          "bib": 53,
+          "name": "HEINRICH Justus",
+          "raw_name": "HEINRICH Justus",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "10 JUN 1999",
+          "club": "RSB Thuringer Bulls (GER)"
+        }
+      ],
+      "player_count": 12
+    },
+    "JPN": {
+      "team_code": "JPN",
+      "team_name": "Japan",
+      "coach": "KISHI Kotaro",
+      "assistant_coach": null,
+      "uniform_1": {
+        "top": "Red",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "WAKAYAMA Hidefumi",
+          "raw_name": "WAKAYAMA Hidefumi",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "3 JAN 1985",
+          "club": "Okinawa Hurricanes (JPN)"
+        },
+        {
+          "bib": 2,
+          "name": "HASEGAWA Yuki",
+          "raw_name": "HASEGAWA Yuki",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "5 OCT 1992",
+          "club": "Blitz (JPN)"
+        },
+        {
+          "bib": 3,
+          "name": "KURAHASHI Kae",
+          "raw_name": "KURAHASHI Kae",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "F",
+          "dob": "15 SEP 1990",
+          "club": "Axe (JPN)"
+        },
+        {
+          "bib": 4,
+          "name": "HAGA Masayuki",
+          "raw_name": "HAGA Masayuki",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "12 NOV 1984",
+          "club": "Axe (JPN)"
+        },
+        {
+          "bib": 7,
+          "name": "IKEZAKI Daisuke",
+          "raw_name": "IKEZAKI Daisuke",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "23 JAN 1978",
+          "club": "Blitz (JPN)"
+        },
+        {
+          "bib": 11,
+          "name": "KUSABA Ryuji",
+          "raw_name": "KUSABA Ryuji",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "10 DEC 2000",
+          "club": "Fukuoka Dandelion (JPN)"
+        },
+        {
+          "bib": 13,
+          "name": "SHIMAKAWA Shinichi",
+          "raw_name": "SHIMAKAWA Shinichi",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "29 JAN 1975",
+          "club": "Blitz (JPN)"
+        },
+        {
+          "bib": 14,
+          "name": "NAKAMACHI Shunya",
+          "raw_name": "NAKAMACHI Shunya",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "30 AUG 1994",
+          "club": "Tohoku Stormers (JPN)"
+        },
+        {
+          "bib": 21,
+          "name": "IKE Yukinobu",
+          "raw_name": "IKE Yukinobu (C)",
+          "is_captain": true,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "21 JUL 1980",
+          "club": "Freedom (JPN)"
+        },
+        {
+          "bib": 22,
+          "name": "NORIMATSU Seiya",
+          "raw_name": "NORIMATSU Seiya",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "2 APR 1990",
+          "club": "Fukuoka Dandelion (JPN)"
+        },
+        {
+          "bib": 23,
+          "name": "OGAWA Hitoshi",
+          "raw_name": "OGAWA Hitoshi",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "2 JUN 1994",
+          "club": "Blitz (JPN)"
+        },
+        {
+          "bib": 32,
+          "name": "HASHIMOTO Katsuya",
+          "raw_name": "HASHIMOTO Katsuya",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "9 MAY 2002",
+          "club": "Tohoku Stormers (JPN)"
+        }
+      ],
+      "player_count": 12
+    },
+    "USA": {
+      "team_code": "USA",
+      "team_name": "United States",
+      "coach": "DELAGRAVE Joe",
+      "assistant_coach": "KLONOWSKI Mike",
+      "uniform_1": {
+        "top": "Navy Blue",
+        "bottom": "Navy Blue"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Navy Blue"
+      },
+      "players": [
+        {
+          "bib": 2,
+          "name": "MELTON Chuck",
+          "raw_name": "MELTON Chuck",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "20 AUG 1978",
+          "club": "Wounded Warrior Ability R (USA)"
+        },
+        {
+          "bib": 5,
+          "name": "AOKI Chuck",
+          "raw_name": "AOKI Chuck (C)",
+          "is_captain": true,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "7 MAR 1991",
+          "club": "University of Michigan (USA)"
+        },
+        {
+          "bib": 6,
+          "name": "BUTLER Jeff",
+          "raw_name": "BUTLER Jeff",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "12 JUN 1990",
+          "club": ""
+        },
+        {
+          "bib": 8,
+          "name": "ADAM Sarah",
+          "raw_name": "ADAM Sarah",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "F",
+          "dob": "17 DEC 1990",
+          "club": "St. Louis Rugby Club (USA)"
+        },
+        {
+          "bib": 9,
+          "name": "NEWBY Eric",
+          "raw_name": "NEWBY Eric (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "8 APR 1988",
+          "club": "St. Louis Rugby Club (USA)"
+        },
+        {
+          "bib": 10,
+          "name": "WHEELER Josh",
+          "raw_name": "WHEELER Josh",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "14 APR 1980",
+          "club": "University of Arizona (USA)"
+        },
+        {
+          "bib": 11,
+          "name": "FREDETTE Lee",
+          "raw_name": "FREDETTE Lee",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "11 NOV 1982",
+          "club": "University of Arizona (USA)"
+        },
+        {
+          "bib": 15,
+          "name": "O'NEILL Josh",
+          "raw_name": "O'NEILL Josh",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "18 JAN 1988",
+          "club": "St. Louis Rugby Club (USA)"
+        },
+        {
+          "bib": 21,
+          "name": "BRACKETT Clayton",
+          "raw_name": "BRACKETT Clayton",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "15 JAN 1993",
+          "club": "Lakeshore Demolition (USA)"
+        },
+        {
+          "bib": 23,
+          "name": "HUDSPETH Brad",
+          "raw_name": "HUDSPETH Brad",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "25 FEB 1989",
+          "club": "St. Louis Rugby Club (USA)"
+        },
+        {
+          "bib": 44,
+          "name": "REDINGTON Zion",
+          "raw_name": "REDINGTON Zion",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "3 JUN 2006",
+          "club": "Lakeshore Demolition (USA)"
+        },
+        {
+          "bib": 55,
+          "name": "SYMONS Mason",
+          "raw_name": "SYMONS Mason",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "9 FEB 1989",
+          "club": "Oscar Mike Militia (USA)"
+        }
+      ],
+      "player_count": 12
+    }
+  },
+  "Tokyo 2020": {
+    "AUS": {
+      "team_code": "AUS",
+      "team_name": "Australia",
+      "coach": "DUBBERLEY Brad",
+      "assistant_coach": "QUINN Lewis",
+      "uniform_1": {
+        "top": "Green",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "Gold",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 3,
+          "name": "BATT Ryley",
+          "raw_name": "BATT Ryley (C)",
+          "is_captain": true,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "22 MAY 1989",
+          "club": "NSW Gladiators (AUS)"
+        },
+        {
+          "bib": 4,
+          "name": "HOWE Jake",
+          "raw_name": "HOWE Jake",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "4 JUN 1991",
+          "club": "West Coast Enforcers (AUS)"
+        },
+        {
+          "bib": 6,
+          "name": "OZANNE Michael",
+          "raw_name": "OZANNE Michael",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "28 APR 1987",
+          "club": "QLD Cyclones (AUS)"
+        },
+        {
+          "bib": 7,
+          "name": "LEES Jason",
+          "raw_name": "LEES Jason",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "1 MAR 1977",
+          "club": "Victoria Thunder (AUS)"
+        },
+        {
+          "bib": 8,
+          "name": "FAWCETT Ben",
+          "raw_name": "FAWCETT Ben",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "31 DEC 1990",
+          "club": "Victoria Thunder (AUS)"
+        },
+        {
+          "bib": 9,
+          "name": "VORIS Richard",
+          "raw_name": "VORIS Richard",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "14 MAY 1991",
+          "club": "NSW Gladiators (AUS)"
+        },
+        {
+          "bib": 10,
+          "name": "BOND Chris",
+          "raw_name": "BOND Chris",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "28 MAY 1986",
+          "club": "QLD Cyclones (AUS)"
+        },
+        {
+          "bib": 12,
+          "name": "GRAHAM Shae",
+          "raw_name": "GRAHAM Shae",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "F",
+          "dob": "16 DEC 1986",
+          "club": "Victoria Thunder (AUS)"
+        },
+        {
+          "bib": 14,
+          "name": "EDMONDSON Andrew",
+          "raw_name": "EDMONDSON Andrew",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "24 JUN 1990",
+          "club": "NSW Gladiators (AUS)"
+        },
+        {
+          "bib": 15,
+          "name": "HARRISON Andrew",
+          "raw_name": "HARRISON Andrew",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "7 JUN 1987",
+          "club": "Victoria Thunder (AUS)"
+        },
+        {
+          "bib": 23,
+          "name": "WARN Jayden",
+          "raw_name": "WARN Jayden",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "23 MAY 1994",
+          "club": "Victoria Thunder (AUS)"
+        },
+        {
+          "bib": 24,
+          "name": "HOSE Josh",
+          "raw_name": "HOSE Josh",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "1 DEC 1986",
+          "club": "Victoria Thunder (AUS)"
+        }
+      ],
+      "player_count": 12
+    },
+    "CAN": {
+      "team_code": "CAN",
+      "team_name": "Canada",
+      "coach": "COTE Patrick",
+      "assistant_coach": "WILLSIE David",
+      "uniform_1": {
+        "top": "Red",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "Black",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 2,
+          "name": "MURAO Travis",
+          "raw_name": "MURAO Travis",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "12 JAN 1983",
+          "club": "National Team (CAN)"
+        },
+        {
+          "bib": 7,
+          "name": "GREEN Byron",
+          "raw_name": "GREEN Byron",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "26 APR 1984",
+          "club": "National Team (CAN)"
+        },
+        {
+          "bib": 8,
+          "name": "WHITEHEAD Michael",
+          "raw_name": "WHITEHEAD Michael",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "25 NOV 1975",
+          "club": "National Team (CAN)"
+        },
+        {
+          "bib": 9,
+          "name": "CALDWELL Cody",
+          "raw_name": "CALDWELL Cody",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "22 MAY 1988",
+          "club": "National Team (CAN)"
+        },
+        {
+          "bib": 10,
+          "name": "HIRSCHFIELD Trevor",
+          "raw_name": "HIRSCHFIELD Trevor (C)",
+          "is_captain": true,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "21 DEC 1983",
+          "club": "National Team (CAN)"
+        },
+        {
+          "bib": 11,
+          "name": "LAVOIE Fabien",
+          "raw_name": "LAVOIE Fabien",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "2 JUL 1981",
+          "club": "National Team (CAN)"
+        },
+        {
+          "bib": 12,
+          "name": "DAGENAIS Patrice",
+          "raw_name": "DAGENAIS Patrice (C)",
+          "is_captain": true,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "4 OCT 1984",
+          "club": "National Team (CAN)"
+        },
+        {
+          "bib": 15,
+          "name": "SIMARD Patrice",
+          "raw_name": "SIMARD Patrice",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "19 JAN 1979",
+          "club": "National Team (CAN)"
+        },
+        {
+          "bib": 21,
+          "name": "LETOURNEAU Anthony",
+          "raw_name": "LETOURNEAU Anthony",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "1 MAR 1996",
+          "club": "National Team (CAN)"
+        },
+        {
+          "bib": 25,
+          "name": "SMITH Shayne",
+          "raw_name": "SMITH Shayne",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "25 JUL 1988",
+          "club": "National Team (CAN)"
+        },
+        {
+          "bib": 33,
+          "name": "MADELL Zak",
+          "raw_name": "MADELL Zak",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "28 MAR 1994",
+          "club": "National Team (CAN)"
+        },
+        {
+          "bib": 41,
+          "name": "RODRIGUES Eric",
+          "raw_name": "RODRIGUES Eric",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "7 MAY 1979",
+          "club": "National Team (CAN)"
+        }
+      ],
+      "player_count": 12
+    },
+    "DEN": {
+      "team_code": "DEN",
+      "team_name": "Denmark",
+      "coach": "REGIER Jason (USA)",
+      "assistant_coach": "ROENN JOHANSSON Thor",
+      "uniform_1": {
+        "top": "Red",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "PAGH Thomas",
+          "raw_name": "PAGH Thomas",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "22 MAR 1972",
+          "club": "FHI Falcons (DEN)"
+        },
+        {
+          "bib": 2,
+          "name": "ELMHOLT Morten",
+          "raw_name": "ELMHOLT Morten",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "11 JAN 1988",
+          "club": "\u00c5rhus Burnouts (DEN)"
+        },
+        {
+          "bib": 3,
+          "name": "JOERGENSEN Leon",
+          "raw_name": "JOERGENSEN Leon (C)",
+          "is_captain": true,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "6 FEB 1985",
+          "club": "FHI Falcons (DEN)"
+        },
+        {
+          "bib": 4,
+          "name": "MORTENSEN Jakob",
+          "raw_name": "MORTENSEN Jakob",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "20 NOV 1996",
+          "club": "\u00c5rhus Burnouts (DEN)"
+        },
+        {
+          "bib": 5,
+          "name": "MOMME Kaare",
+          "raw_name": "MOMME Kaare",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "28 MAR 1992",
+          "club": "\u00c5rhus Burnouts (DEN)"
+        },
+        {
+          "bib": 6,
+          "name": "SKOUBO Sofie Sejer",
+          "raw_name": "SKOUBO Sofie Sejer (C)",
+          "is_captain": true,
+          "sport_class": 0.5,
+          "gender": "F",
+          "dob": "31 JUL 1994",
+          "club": "\u00c5rhus Burnouts (DEN)"
+        },
+        {
+          "bib": 7,
+          "name": "BUSK Kurt",
+          "raw_name": "BUSK Kurt",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "20 FEB 1967",
+          "club": "FHI Falcons (DEN)"
+        },
+        {
+          "bib": 8,
+          "name": "KRUGER Jesper Ring",
+          "raw_name": "KRUGER Jesper Ring",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "15 JUL 1989",
+          "club": "\u00c5rhus Burnouts (DEN)"
+        },
+        {
+          "bib": 9,
+          "name": "ERIKSEN Kristian Bak",
+          "raw_name": "ERIKSEN Kristian Bak",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "14 MAY 1991",
+          "club": "FHI Falcons (DEN)"
+        },
+        {
+          "bib": 10,
+          "name": "FREDERIKSEN Sebastian",
+          "raw_name": "FREDERIKSEN Sebastian",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "2 FEB 1994",
+          "club": "FHI Falcons (DEN)"
+        },
+        {
+          "bib": 11,
+          "name": "PETERS Mark Ingemann",
+          "raw_name": "PETERS Mark Ingemann",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "20 DEC 1982",
+          "club": "FHI Falcons (DEN)"
+        },
+        {
+          "bib": 12,
+          "name": "SCHOETTEL Mikkel",
+          "raw_name": "SCHOETTEL Mikkel",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "25 OCT 1992",
+          "club": "\u00c5rhus Burnouts (DEN)"
+        }
+      ],
+      "player_count": 12
+    },
+    "FRA": {
+      "team_code": "FRA",
+      "team_name": "France",
+      "coach": "CUSIN Olivier",
+      "assistant_coach": "VANACKER Bob (BEL)",
+      "uniform_1": {
+        "top": "Blue",
+        "bottom": "Blue"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Blue"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "VALENTIM Nicolas",
+          "raw_name": "VALENTIM Nicolas",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "8 JAN 1994",
+          "club": "ASM Clermont Ferrand (FRA)"
+        },
+        {
+          "bib": 3,
+          "name": "NANKIN Cedric",
+          "raw_name": "NANKIN Cedric",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "9 JUL 1984",
+          "club": "Capsaaa (FRA)"
+        },
+        {
+          "bib": 4,
+          "name": "CHALMIN Adrien",
+          "raw_name": "CHALMIN Adrien",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "21 JUL 1986",
+          "club": "ASM Clermont Ferrand (FRA)"
+        },
+        {
+          "bib": 5,
+          "name": "JARLAN Rodolphe",
+          "raw_name": "JARLAN Rodolphe",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "8 SEP 1988",
+          "club": "Stade Toulousain (FRA)"
+        },
+        {
+          "bib": 6,
+          "name": "COROMPT Christophe",
+          "raw_name": "COROMPT Christophe",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "4 JUL 1973",
+          "club": "Bourgoin Jallieu (FRA)"
+        },
+        {
+          "bib": 7,
+          "name": "THIRIET Matthieu",
+          "raw_name": "THIRIET Matthieu",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "7 JUL 1989",
+          "club": "Stade Toulousain (FRA)"
+        },
+        {
+          "bib": 10,
+          "name": "MAUREL Brice",
+          "raw_name": "MAUREL Brice",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "23 FEB 1988",
+          "club": "Montpellier (FRA)"
+        },
+        {
+          "bib": 13,
+          "name": "SALEGUI Christophe",
+          "raw_name": "SALEGUI Christophe",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "2 JAN 1986",
+          "club": "Drop De Beton (FRA)"
+        },
+        {
+          "bib": 14,
+          "name": "DUCRET Jordan",
+          "raw_name": "DUCRET Jordan",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "8 NOV 1995",
+          "club": "Carquefou (FRA)"
+        },
+        {
+          "bib": 21,
+          "name": "HIVERNAT Jonathan",
+          "raw_name": "HIVERNAT Jonathan (C)",
+          "is_captain": true,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "21 JAN 1991",
+          "club": "Stade Toulousain (FRA)"
+        },
+        {
+          "bib": 33,
+          "name": "VERDIN Sebastien",
+          "raw_name": "VERDIN Sebastien",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "17 AUG 1991",
+          "club": "Nuits Saint Georges (FRA)"
+        },
+        {
+          "bib": 44,
+          "name": "le GUEN Corentin",
+          "raw_name": "le GUEN Corentin",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "10 FEB 1994",
+          "club": "Nuits Saint Georges (FRA)"
+        }
+      ],
+      "player_count": 12
+    },
+    "GBR": {
+      "team_code": "GBR",
+      "team_name": "Great Britain",
+      "coach": "SHAW Paul",
+      "assistant_coach": "MATTHEWS Darren",
+      "uniform_1": {
+        "top": "White",
+        "bottom": "Navy"
+      },
+      "uniform_2": {
+        "top": "Blue",
+        "bottom": "Navy"
+      },
+      "players": [
+        {
+          "bib": 2,
+          "name": "COGGAN Jonathan",
+          "raw_name": "COGGAN Jonathan",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "25 APR 1983",
+          "club": "London WRC (GBR)"
+        },
+        {
+          "bib": 3,
+          "name": "ROBINSON Stuart",
+          "raw_name": "ROBINSON Stuart",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "15 APR 1982",
+          "club": "West Coast WRC (GBR)"
+        },
+        {
+          "bib": 4,
+          "name": "WALKER Gavin",
+          "raw_name": "WALKER Gavin (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "13 OCT 1983",
+          "club": "Leicester Tigers WRC (GBR)"
+        },
+        {
+          "bib": 5,
+          "name": "SMITH Jack",
+          "raw_name": "SMITH Jack",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "19 JUN 1991",
+          "club": "Leicester Tigers WRC (GBR)"
+        },
+        {
+          "bib": 7,
+          "name": "GRIMES Kylie",
+          "raw_name": "GRIMES Kylie",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "F",
+          "dob": "7 DEC 1987",
+          "club": "London WRC (GBR)"
+        },
+        {
+          "bib": 8,
+          "name": "CUMMINS Nicholas",
+          "raw_name": "CUMMINS Nicholas",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "4 AUG 1985",
+          "club": "Leicester Tigers WRC (GBR)"
+        },
+        {
+          "bib": 9,
+          "name": "ROBERTS Jim",
+          "raw_name": "ROBERTS Jim",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "3 SEP 1987",
+          "club": "London WRC (GBR)"
+        },
+        {
+          "bib": 10,
+          "name": "BHUTA Ayaz",
+          "raw_name": "BHUTA Ayaz",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "17 APR 1989",
+          "club": "West Coast WRC (GBR)"
+        },
+        {
+          "bib": 12,
+          "name": "STEAD Jamie",
+          "raw_name": "STEAD Jamie",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "22 SEP 1993",
+          "club": "Leicester Tigers WRC (GBR)"
+        },
+        {
+          "bib": 13,
+          "name": "PHIPPS Aaron",
+          "raw_name": "PHIPPS Aaron",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "7 APR 1983",
+          "club": "London WRC (GBR)"
+        },
+        {
+          "bib": 22,
+          "name": "RYAN Chris",
+          "raw_name": "RYAN Chris (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "11 JUL 1991",
+          "club": "London WRC (GBR)"
+        },
+        {
+          "bib": 24,
+          "name": "COWLING Ryan",
+          "raw_name": "COWLING Ryan",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "5 FEB 1976",
+          "club": "West Coast WRC (GBR)"
+        }
+      ],
+      "player_count": 12
+    },
+    "JPN": {
+      "team_code": "JPN",
+      "team_name": "Japan",
+      "coach": "ORR Kevin (USA)",
+      "assistant_coach": "NIKAIDO Noriko",
+      "uniform_1": {
+        "top": "Red",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "WAKAYAMA Hidefumi",
+          "raw_name": "WAKAYAMA Hidefumi",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "3 JAN 1985",
+          "club": "Okinawa Hurricanes (JPN)"
+        },
+        {
+          "bib": 2,
+          "name": "HASEGAWA Yuki",
+          "raw_name": "HASEGAWA Yuki",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "5 OCT 1992",
+          "club": "Blitz (JPN)"
+        },
+        {
+          "bib": 3,
+          "name": "KURAHASHI Kae",
+          "raw_name": "KURAHASHI Kae",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "F",
+          "dob": "15 SEP 1990",
+          "club": "Axe (JPN)"
+        },
+        {
+          "bib": 4,
+          "name": "HAGA Masayuki",
+          "raw_name": "HAGA Masayuki (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "12 NOV 1984",
+          "club": "Axe (JPN)"
+        },
+        {
+          "bib": 7,
+          "name": "IKEZAKI Daisuke",
+          "raw_name": "IKEZAKI Daisuke",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "23 JAN 1978",
+          "club": "Tokyo Suns (JPN)"
+        },
+        {
+          "bib": 9,
+          "name": "IMAI Tomoaki",
+          "raw_name": "IMAI Tomoaki",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "12 MAR 1983",
+          "club": "Tokyo Suns (JPN)"
+        },
+        {
+          "bib": 13,
+          "name": "SHIMAKAWA Shinichi",
+          "raw_name": "SHIMAKAWA Shinichi",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "29 JAN 1975",
+          "club": "Blitz (JPN)"
+        },
+        {
+          "bib": 14,
+          "name": "NAKAMACHI Shunya",
+          "raw_name": "NAKAMACHI Shunya",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "30 AUG 1994",
+          "club": "Tohoku Stormers (JPN)"
+        },
+        {
+          "bib": 21,
+          "name": "IKE Yukinobu",
+          "raw_name": "IKE Yukinobu (C)",
+          "is_captain": true,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "21 JUL 1980",
+          "club": "Freedom (JPN)"
+        },
+        {
+          "bib": 22,
+          "name": "NORIMATSU Seiya",
+          "raw_name": "NORIMATSU Seiya",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "2 APR 1990",
+          "club": "Fukuoka Dandelion (JPN)"
+        },
+        {
+          "bib": 23,
+          "name": "OGAWA Hitoshi",
+          "raw_name": "OGAWA Hitoshi",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "2 JUN 1994",
+          "club": "Blitz (JPN)"
+        },
+        {
+          "bib": 32,
+          "name": "HASHIMOTO Katsuya",
+          "raw_name": "HASHIMOTO Katsuya",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "9 MAY 2002",
+          "club": "Tohoku Stormers (JPN)"
+        }
+      ],
+      "player_count": 12
+    },
+    "NZL": {
+      "team_code": "NZL",
+      "team_name": "New Zealand",
+      "coach": "MITCHELL Greg",
+      "assistant_coach": "WHITE Graeme",
+      "uniform_1": {
+        "top": "Black",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "Grey",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 2,
+          "name": "LYNCH Gareth",
+          "raw_name": "LYNCH Gareth",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "5 NOV 1996",
+          "club": "New Zealand Wheel Blacks (NZL)"
+        },
+        {
+          "bib": 6,
+          "name": "BARTON-COOTES Hayden",
+          "raw_name": "BARTON-COOTES Hayden",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "6 APR 1994",
+          "club": "New Zealand Wheel Blacks (NZL)"
+        },
+        {
+          "bib": 8,
+          "name": "TODD Mike",
+          "raw_name": "TODD Mike",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "25 JUN 1977",
+          "club": "New Zealand Wheel Blacks (NZL)"
+        },
+        {
+          "bib": 9,
+          "name": "ROLTON Gavin",
+          "raw_name": "ROLTON Gavin",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "5 MAR 1983",
+          "club": "New Zealand Wheel Blacks (NZL)"
+        },
+        {
+          "bib": 10,
+          "name": "HEWITT Robert",
+          "raw_name": "HEWITT Robert",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "10 AUG 1984",
+          "club": "New Zealand Wheel Blacks (NZL)"
+        },
+        {
+          "bib": 14,
+          "name": "EVERSON Cody",
+          "raw_name": "EVERSON Cody (C)",
+          "is_captain": true,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "20 AUG 1995",
+          "club": "New Zealand Wheel Blacks (NZL)"
+        },
+        {
+          "bib": 15,
+          "name": "LEFONO Tainafi",
+          "raw_name": "LEFONO Tainafi",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "28 NOV 1985",
+          "club": "New Zealand Wheel Blacks (NZL)"
+        },
+        {
+          "bib": 23,
+          "name": "KONEFERENISI Barney",
+          "raw_name": "KONEFERENISI Barney",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "9 MAR 1994",
+          "club": "New Zealand Wheel Blacks (NZL)"
+        }
+      ],
+      "player_count": 8
+    },
+    "USA": {
+      "team_code": "USA",
+      "team_name": "United States",
+      "coach": "GUMBERT James",
+      "assistant_coach": "TUCKER Sue",
+      "uniform_1": {
+        "top": "White",
+        "bottom": "White"
+      },
+      "uniform_2": {
+        "top": "Navy",
+        "bottom": "Navy"
+      },
+      "players": [
+        {
+          "bib": 2,
+          "name": "MELTON Charles",
+          "raw_name": "MELTON Charles (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "20 AUG 1978",
+          "club": "St. Louis Rams (USA)"
+        },
+        {
+          "bib": 3,
+          "name": "JACKSON Joe",
+          "raw_name": "JACKSON Joe",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "6 SEP 1989",
+          "club": "Phoenix Heat (USA)"
+        },
+        {
+          "bib": 4,
+          "name": "SCATURRO Adam",
+          "raw_name": "SCATURRO Adam",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "4 DEC 1978",
+          "club": "Denver Harlequins (USA)"
+        },
+        {
+          "bib": 5,
+          "name": "AOKI Charles",
+          "raw_name": "AOKI Charles",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "7 MAR 1991",
+          "club": "Denver Harlequins (USA)"
+        },
+        {
+          "bib": 6,
+          "name": "BUTLER Jeff",
+          "raw_name": "BUTLER Jeff",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "12 JUN 1990",
+          "club": "Texas Stampede (USA)"
+        },
+        {
+          "bib": 9,
+          "name": "NEWBY Eric",
+          "raw_name": "NEWBY Eric",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "8 APR 1988",
+          "club": "Denver Harlequins (USA)"
+        },
+        {
+          "bib": 10,
+          "name": "WHEELER Joshua",
+          "raw_name": "WHEELER Joshua",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "14 APR 1980",
+          "club": "UofA Wildcats (USA)"
+        },
+        {
+          "bib": 11,
+          "name": "FREDETTE Lee",
+          "raw_name": "FREDETTE Lee",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "11 NOV 1982",
+          "club": "UofA Wildcats (USA)"
+        },
+        {
+          "bib": 12,
+          "name": "COHN Chad",
+          "raw_name": "COHN Chad",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "12 AUG 1983",
+          "club": "UofA Wildcats (USA)"
+        },
+        {
+          "bib": 14,
+          "name": "DELAGRAVE Joseph",
+          "raw_name": "DELAGRAVE Joseph (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "21 MAR 1985",
+          "club": "Texas Stampede (USA)"
+        },
+        {
+          "bib": 22,
+          "name": "PUDERBAUGH Kory",
+          "raw_name": "PUDERBAUGH Kory",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "2 APR 1996",
+          "club": "Boise Bombers (USA)"
+        },
+        {
+          "bib": 33,
+          "name": "HENNAGIR Ray",
+          "raw_name": "HENNAGIR Ray",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "25 JUL 1986",
+          "club": "Texas Stampede (USA)"
+        }
+      ],
+      "player_count": 12
+    }
+  },
+  "Rio 2016": {
+    "AUS": {
+      "team_code": "AUS",
+      "team_name": "Australia",
+      "coach": "DUBBERLEY Brad",
+      "assistant_coach": "SMITH Greg",
+      "uniform_1": {
+        "top": "Green",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "Gold",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 2,
+          "name": "ERDEM Nazim",
+          "raw_name": "ERDEM Nazim",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "1 AUG 1970",
+          "club": "Victoria (AUS)"
+        },
+        {
+          "bib": 3,
+          "name": "BATT Ryley",
+          "raw_name": "BATT Ryley",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "22 MAY 1989",
+          "club": "New South Wales (AUS)"
+        },
+        {
+          "bib": 4,
+          "name": "HOSE Joshua",
+          "raw_name": "HOSE Joshua",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "1 DEC 1986",
+          "club": "Victoria (AUS)"
+        },
+        {
+          "bib": 7,
+          "name": "LEES Jason",
+          "raw_name": "LEES Jason",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "1 MAR 1977",
+          "club": "Victoria (AUS)"
+        },
+        {
+          "bib": 8,
+          "name": "FAWCETT Ben",
+          "raw_name": "FAWCETT Ben",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "31 DEC 1990",
+          "club": "Victoria (AUS)"
+        },
+        {
+          "bib": 10,
+          "name": "BOND Chris",
+          "raw_name": "BOND Chris",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "28 MAY 1986",
+          "club": "Queensland (AUS)"
+        },
+        {
+          "bib": 11,
+          "name": "SCOTT Ryan",
+          "raw_name": "SCOTT Ryan (C)",
+          "is_captain": true,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "3 MAR 1982",
+          "club": "Queensland (AUS)"
+        },
+        {
+          "bib": 13,
+          "name": "CARR Cameron",
+          "raw_name": "CARR Cameron",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "13 AUG 1977",
+          "club": "Victoria (AUS)"
+        },
+        {
+          "bib": 14,
+          "name": "EDMONDSON Andrew",
+          "raw_name": "EDMONDSON Andrew",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "24 JUN 1990",
+          "club": "New South Wales (AUS)"
+        },
+        {
+          "bib": 15,
+          "name": "HARRISON Andrew",
+          "raw_name": "HARRISON Andrew",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "7 JUN 1987",
+          "club": "Victoria (AUS)"
+        },
+        {
+          "bib": 22,
+          "name": "LEWIS Matt",
+          "raw_name": "LEWIS Matt",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "8 JAN 1987",
+          "club": "Victoria (AUS)"
+        },
+        {
+          "bib": 23,
+          "name": "WARN Jayden",
+          "raw_name": "WARN Jayden",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "23 MAY 1994",
+          "club": "Victoria (AUS)"
+        }
+      ],
+      "player_count": 12
+    },
+    "BRA": {
+      "team_code": "BRA",
+      "team_name": "Brazil",
+      "coach": "GOUVEIA Rafael",
+      "assistant_coach": "PENA Luis",
+      "uniform_1": {
+        "top": "Green",
+        "bottom": "Green"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "White"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "WIRZMA JUNIOR",
+          "raw_name": "WIRZMA JUNIOR",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "7 JUN 1987",
+          "club": "Gladiadores (BRA)"
+        },
+        {
+          "bib": 2,
+          "name": "JUNQUEIRA Lucas",
+          "raw_name": "JUNQUEIRA Lucas",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "9 DEC 1987",
+          "club": "Adeacamp (BRA)"
+        },
+        {
+          "bib": 3,
+          "name": "CAMARGO Guilherme",
+          "raw_name": "CAMARGO Guilherme",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "22 FEB 1990",
+          "club": "Minas Quad (BRA)"
+        },
+        {
+          "bib": 4,
+          "name": "GUENTHER Jose Raul",
+          "raw_name": "GUENTHER Jose Raul",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "18 MAR 1991",
+          "club": "Gigantes (BRA)"
+        },
+        {
+          "bib": 5,
+          "name": "TANIGUCHI Alexandre",
+          "raw_name": "TANIGUCHI Alexandre (C)",
+          "is_captain": true,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "21 NOV 1985",
+          "club": "Adeacamp (BRA)"
+        },
+        {
+          "bib": 6,
+          "name": "HIGINO",
+          "raw_name": "HIGINO (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "25 NOV 1984",
+          "club": "BSB (BRA)"
+        },
+        {
+          "bib": 7,
+          "name": "DAMACENO Bruno",
+          "raw_name": "DAMACENO Bruno",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "22 AUG 1987",
+          "club": "Adeacamp (BRA)"
+        },
+        {
+          "bib": 8,
+          "name": "HOFFMANN Rafael",
+          "raw_name": "HOFFMANN Rafael",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "29 MAR 1984",
+          "club": "Gladiadores (BRA)"
+        },
+        {
+          "bib": 9,
+          "name": "ABREU Davi",
+          "raw_name": "ABREU Davi",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "17 APR 1989",
+          "club": "Minas Quad (BRA)"
+        },
+        {
+          "bib": 10,
+          "name": "KAISS Anderson",
+          "raw_name": "KAISS Anderson",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "21 JUN 1985",
+          "club": "Gladiadores (BRA)"
+        },
+        {
+          "bib": 11,
+          "name": "BRAZ Julio",
+          "raw_name": "BRAZ Julio",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "29 APR 1991",
+          "club": "Minas Quad (BRA)"
+        },
+        {
+          "bib": 12,
+          "name": "GIURIATO Alexandre",
+          "raw_name": "GIURIATO Alexandre",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "21 JAN 1982",
+          "club": "Gigantes (BRA)"
+        }
+      ],
+      "player_count": 12
+    },
+    "CAN": {
+      "team_code": "CAN",
+      "team_name": "Canada",
+      "coach": "ORR Kevin",
+      "assistant_coach": "COTE Patrick",
+      "uniform_1": {
+        "top": "Black",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "Red",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "BILETSKI Miranda",
+          "raw_name": "BILETSKI Miranda",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "",
+          "club": "W"
+        },
+        {
+          "bib": 2,
+          "name": "MURAO Travis",
+          "raw_name": "MURAO Travis",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "12 JAN 1983",
+          "club": "Vancouver (CAN)"
+        },
+        {
+          "bib": 6,
+          "name": "CHAN Ian",
+          "raw_name": "CHAN Ian",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "8 MAY 1977",
+          "club": "Vancouver (CAN)"
+        },
+        {
+          "bib": 7,
+          "name": "GREEN Byron",
+          "raw_name": "GREEN Byron",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "26 APR 1984",
+          "club": "Vancouver (CAN)"
+        },
+        {
+          "bib": 8,
+          "name": "WHITEHEAD Michael",
+          "raw_name": "WHITEHEAD Michael",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "25 NOV 1975",
+          "club": "London (CAN)"
+        },
+        {
+          "bib": 9,
+          "name": "CALDWELL Cody",
+          "raw_name": "CALDWELL Cody",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "22 MAY 1988",
+          "club": "London (CAN)"
+        },
+        {
+          "bib": 10,
+          "name": "HIRSCHFIELD Trevor",
+          "raw_name": "HIRSCHFIELD Trevor (C)",
+          "is_captain": true,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "21 DEC 1983",
+          "club": "Vancouver (CAN)"
+        },
+        {
+          "bib": 11,
+          "name": "LAVOIE Fabien",
+          "raw_name": "LAVOIE Fabien",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "2 JUL 1981",
+          "club": "Quebec (CAN)"
+        },
+        {
+          "bib": 12,
+          "name": "DAGENAIS Patrice",
+          "raw_name": "DAGENAIS Patrice (C)",
+          "is_captain": true,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "4 OCT 1984",
+          "club": "Ottawa (CAN)"
+        },
+        {
+          "bib": 14,
+          "name": "WILLSIE David",
+          "raw_name": "WILLSIE David",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "23 MAR 1968",
+          "club": "London (CAN)"
+        },
+        {
+          "bib": 15,
+          "name": "SIMARD Patrice",
+          "raw_name": "SIMARD Patrice",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "19 JAN 1979",
+          "club": "Quebec (CAN)"
+        },
+        {
+          "bib": 33,
+          "name": "MADELL Zak",
+          "raw_name": "MADELL Zak",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "28 MAR 1994",
+          "club": "Calgary (CAN)"
+        }
+      ],
+      "player_count": 12
+    },
+    "FRA": {
+      "team_code": "FRA",
+      "team_name": "France",
+      "coach": "CUSIN Olivier",
+      "assistant_coach": "DUBORD Cedric",
+      "uniform_1": {
+        "top": "Blue",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "LHUISSIER Sebastien",
+          "raw_name": "LHUISSIER Sebastien",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "20 DEC 1976",
+          "club": "Atlantique Rugby Fauteuil (FRA)"
+        },
+        {
+          "bib": 3,
+          "name": "NANKIN Cedric",
+          "raw_name": "NANKIN Cedric",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "9 JUL 1984",
+          "club": "CAP Sport Art Aventure Am (FRA)"
+        },
+        {
+          "bib": 4,
+          "name": "CHALMIN Adrien",
+          "raw_name": "CHALMIN Adrien",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "21 JUL 1986",
+          "club": "Ass. Sport Monferrandaise (FRA)"
+        },
+        {
+          "bib": 5,
+          "name": "JARLAN Rodolphe",
+          "raw_name": "JARLAN Rodolphe",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "8 SEP 1988",
+          "club": "Stade Toulousain RugbyHan (FRA)"
+        },
+        {
+          "bib": 6,
+          "name": "le GUEN Corentin",
+          "raw_name": "le GUEN Corentin",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "10 FEB 1994",
+          "club": "Club Sportif Nuiton (FRA)"
+        },
+        {
+          "bib": 7,
+          "name": "NEUMAN Pablo",
+          "raw_name": "NEUMAN Pablo",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "24 AUG 1980",
+          "club": "Stade Toulousain RugbyHan (FRA)"
+        },
+        {
+          "bib": 8,
+          "name": "COROMPT Christophe",
+          "raw_name": "COROMPT Christophe",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "4 JUL 1973",
+          "club": "Club Sportif Bourgoin Jal (FRA)"
+        },
+        {
+          "bib": 9,
+          "name": "SALLEM Riadh",
+          "raw_name": "SALLEM Riadh",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "6 SEP 1970",
+          "club": "CAP Sport Art Aventure Am (FRA)"
+        },
+        {
+          "bib": 10,
+          "name": "BENTO ANASTACIO Alexandre",
+          "raw_name": "BENTO ANASTACIO Alexandre",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "28 FEB 1985",
+          "club": "Ass. Sport Monferrandaise (FRA)"
+        },
+        {
+          "bib": 11,
+          "name": "HIVERNAT Jonathan",
+          "raw_name": "HIVERNAT Jonathan (C)",
+          "is_captain": true,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "21 JAN 1991",
+          "club": "Stade Toulousain RugbyHan (FRA)"
+        },
+        {
+          "bib": 12,
+          "name": "RIOUX Nicolas",
+          "raw_name": "RIOUX Nicolas",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "26 DEC 1981",
+          "club": "Atlantique Rugby Fauteuil (FRA)"
+        },
+        {
+          "bib": 13,
+          "name": "SALEGUI Christophe",
+          "raw_name": "SALEGUI Christophe",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "2 JAN 1986",
+          "club": "Stade Toulousain RugbyHan (FRA)"
+        }
+      ],
+      "player_count": 12
+    },
+    "GBR": {
+      "team_code": "GBR",
+      "team_name": "Great Britain",
+      "coach": "SHAW Paul",
+      "assistant_coach": "FRISHBERG Justin",
+      "uniform_1": {
+        "top": "Red",
+        "bottom": "Navy Blue"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Navy Blue"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "SEHMI Mandip",
+          "raw_name": "SEHMI Mandip",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "13 DEC 1980",
+          "club": "London Wheelchair Rugby (ENG)"
+        },
+        {
+          "bib": 2,
+          "name": "COGGAN Jonathan",
+          "raw_name": "COGGAN Jonathan",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "25 APR 1983",
+          "club": "London Wheelchair Rugby (ENG)"
+        },
+        {
+          "bib": 4,
+          "name": "WALKER Gavin",
+          "raw_name": "WALKER Gavin",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "13 OCT 1983",
+          "club": "Marauders (ENG)"
+        },
+        {
+          "bib": 5,
+          "name": "HUSSAIN Bulbul",
+          "raw_name": "HUSSAIN Bulbul",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "3 JAN 1972",
+          "club": "London Wheelchair Rugby (ENG)"
+        },
+        {
+          "bib": 7,
+          "name": "KERR Mike",
+          "raw_name": "KERR Mike",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "13 OCT 1982",
+          "club": "West Coast Crash (ENG)"
+        },
+        {
+          "bib": 9,
+          "name": "ROBERTS Jim",
+          "raw_name": "ROBERTS Jim",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "3 SEP 1987",
+          "club": "London Wheelchair Rugby (ENG)"
+        },
+        {
+          "bib": 10,
+          "name": "BHUTA Ayaz",
+          "raw_name": "BHUTA Ayaz",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "17 APR 1989",
+          "club": "West Coach Crash (ENG)"
+        },
+        {
+          "bib": 11,
+          "name": "ASH Alan",
+          "raw_name": "ASH Alan",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "27 JAN 1973",
+          "club": "West Coast Crash (ENG)"
+        },
+        {
+          "bib": 12,
+          "name": "STEAD Jamie",
+          "raw_name": "STEAD Jamie",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "22 SEP 1993",
+          "club": "Leicester Tigers (ENG)"
+        },
+        {
+          "bib": 22,
+          "name": "RYAN Chris",
+          "raw_name": "RYAN Chris (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "11 JUL 1991",
+          "club": "London Wheelchair Rugby (ENG)"
+        },
+        {
+          "bib": 23,
+          "name": "BATEY Coral",
+          "raw_name": "BATEY Coral",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "",
+          "club": "W"
+        },
+        {
+          "bib": 24,
+          "name": "COWLING Ryan",
+          "raw_name": "COWLING Ryan",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "5 FEB 1976",
+          "club": "West Coach Crash (ENG)"
+        }
+      ],
+      "player_count": 12
+    },
+    "JPN": {
+      "team_code": "JPN",
+      "team_name": "Japan",
+      "coach": "OGINO Koichi",
+      "assistant_coach": "MISAKA Hiroyuki",
+      "uniform_1": {
+        "top": "Black",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "WAKAYAMA Hidefumi",
+          "raw_name": "WAKAYAMA Hidefumi",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "3 JAN 1985",
+          "club": "Yokohama Gijuku (JPN)"
+        },
+        {
+          "bib": 4,
+          "name": "HAGA Masayuki",
+          "raw_name": "HAGA Masayuki",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "12 NOV 1984",
+          "club": "Axe (JPN)"
+        },
+        {
+          "bib": 6,
+          "name": "KANNO Kazuhiko",
+          "raw_name": "KANNO Kazuhiko",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "1 AUG 1981",
+          "club": "Rize Chiba (JPN)"
+        },
+        {
+          "bib": 7,
+          "name": "IKEZAKI Daisuke",
+          "raw_name": "IKEZAKI Daisuke",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "23 JAN 1978",
+          "club": "Hokkaido Big Dippers (JPN)"
+        },
+        {
+          "bib": 9,
+          "name": "IMAI Tomoaki",
+          "raw_name": "IMAI Tomoaki",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "12 MAR 1983",
+          "club": "Rize Chiba (JPN)"
+        },
+        {
+          "bib": 11,
+          "name": "NAKAZATO Shin",
+          "raw_name": "NAKAZATO Shin",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "6 APR 1977",
+          "club": "Okinawa Hurricanes (JPN)"
+        },
+        {
+          "bib": 13,
+          "name": "SHIMAKAWA Shinichi",
+          "raw_name": "SHIMAKAWA Shinichi",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "29 JAN 1975",
+          "club": "Blitz (JPN)"
+        },
+        {
+          "bib": 14,
+          "name": "SHOJI Takeshi",
+          "raw_name": "SHOJI Takeshi (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "11 MAY 1980",
+          "club": "Rize Chiba (JPN)"
+        },
+        {
+          "bib": 15,
+          "name": "KISHI Kotaro",
+          "raw_name": "KISHI Kotaro",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "8 OCT 1971",
+          "club": "Axe (JPN)"
+        },
+        {
+          "bib": 20,
+          "name": "YAMAGUCHI Takahisa",
+          "raw_name": "YAMAGUCHI Takahisa",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "15 DEC 1981",
+          "club": "Yokohama Gijuku (JPN)"
+        },
+        {
+          "bib": 21,
+          "name": "IKE Yukinobu",
+          "raw_name": "IKE Yukinobu (C)",
+          "is_captain": true,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "21 JUL 1980",
+          "club": "Freedom (JPN)"
+        },
+        {
+          "bib": 22,
+          "name": "NORIMATSU Seiya",
+          "raw_name": "NORIMATSU Seiya",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "2 APR 1990",
+          "club": "Okinawa Hurricanes (JPN)"
+        }
+      ],
+      "player_count": 12
+    },
+    "SWE": {
+      "team_code": "SWE",
+      "team_name": "Sweden",
+      "coach": "LABRECQUE Benoit (CAN)",
+      "assistant_coach": "WISTROEM Kristoffer",
+      "uniform_1": {
+        "top": "Blue",
+        "bottom": "Blue"
+      },
+      "uniform_2": {
+        "top": "Yellow",
+        "bottom": "Blue"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "ADASZAK Glenn",
+          "raw_name": "ADASZAK Glenn",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "9 JAN 1983",
+          "club": "K\u00f6ping Hillbillies  IK (SWE)"
+        },
+        {
+          "bib": 2,
+          "name": "LOEFGREN Rickard",
+          "raw_name": "LOEFGREN Rickard",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "17 AUG 1971",
+          "club": "Nacka HI (SWE)"
+        },
+        {
+          "bib": 3,
+          "name": "RISSMAR Loa",
+          "raw_name": "RISSMAR Loa",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "9 MAY 1963",
+          "club": "Nacka HI (SWE)"
+        },
+        {
+          "bib": 4,
+          "name": "VARNERUD Lars",
+          "raw_name": "VARNERUD Lars",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "9 OCT 1982",
+          "club": "K\u00f6ping Hillbillies  IK (SWE)"
+        },
+        {
+          "bib": 5,
+          "name": "BERTILSSON Claes",
+          "raw_name": "BERTILSSON Claes",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "25 JUL 1986",
+          "club": "Gothenburg Lions (SWE)"
+        },
+        {
+          "bib": 6,
+          "name": "SANDBERG Tobias",
+          "raw_name": "SANDBERG Tobias",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "28 JUN 1984",
+          "club": "FIFH Malm\u00f6 (SWE)"
+        },
+        {
+          "bib": 7,
+          "name": "LINDBERG Roger",
+          "raw_name": "LINDBERG Roger",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "11 JAN 1972",
+          "club": "K\u00f6ping Hillbillies  IK (SWE)"
+        },
+        {
+          "bib": 8,
+          "name": "NORLIN Mikael",
+          "raw_name": "NORLIN Mikael (C)",
+          "is_captain": true,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "7 FEB 1974",
+          "club": "FIFH Malm\u00f6 (SWE)"
+        },
+        {
+          "bib": 10,
+          "name": "ERIKSSON Thomas",
+          "raw_name": "ERIKSSON Thomas",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "6 APR 1960",
+          "club": "Nacka HI (SWE)"
+        },
+        {
+          "bib": 13,
+          "name": "JANSSON Stefan",
+          "raw_name": "JANSSON Stefan (C)",
+          "is_captain": true,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "8 MAR 1985",
+          "club": "K\u00f6ping Hillbillies  IK (SWE)"
+        },
+        {
+          "bib": 14,
+          "name": "COLLIN Andreas",
+          "raw_name": "COLLIN Andreas",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "19 MAR 1986",
+          "club": "Gothenburg Lions (SWE)"
+        },
+        {
+          "bib": 22,
+          "name": "HJERT Tomas",
+          "raw_name": "HJERT Tomas",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "22 JUN 1989",
+          "club": "Nacka HI (SWE)"
+        }
+      ],
+      "player_count": 12
+    },
+    "USA": {
+      "team_code": "USA",
+      "team_name": "United States of America",
+      "coach": "GUMBERT James",
+      "assistant_coach": "TUCKER Sue",
+      "uniform_1": {
+        "top": "Navy",
+        "bottom": "Navy"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "White"
+      },
+      "players": [
+        {
+          "bib": 2,
+          "name": "MELTON Chuck",
+          "raw_name": "MELTON Chuck",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "20 AUG 1978",
+          "club": "St. Louis Rams (USA)"
+        },
+        {
+          "bib": 4,
+          "name": "SCATURRO Adam",
+          "raw_name": "SCATURRO Adam",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "4 DEC 1978",
+          "club": "Denver Harlequins (USA)"
+        },
+        {
+          "bib": 5,
+          "name": "AOKI Chuck",
+          "raw_name": "AOKI Chuck (C)",
+          "is_captain": true,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "7 MAR 1991",
+          "club": "Minnesota Steelheads (USA)"
+        },
+        {
+          "bib": 6,
+          "name": "BUTLER Jeff",
+          "raw_name": "BUTLER Jeff",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "12 JUN 1990",
+          "club": "Texas Stampede (USA)"
+        },
+        {
+          "bib": 7,
+          "name": "REGIER Jason",
+          "raw_name": "REGIER Jason (C)",
+          "is_captain": true,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "8 FEB 1975",
+          "club": "Denver Harlequins (USA)"
+        },
+        {
+          "bib": 9,
+          "name": "NEWBY Eric",
+          "raw_name": "NEWBY Eric",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "8 APR 1988",
+          "club": "Denver Harlequins (USA)"
+        },
+        {
+          "bib": 10,
+          "name": "WHEELER Josh",
+          "raw_name": "WHEELER Josh",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "14 APR 1980",
+          "club": "U of A Wildcats (USA)"
+        },
+        {
+          "bib": 11,
+          "name": "McBRIDE Seth",
+          "raw_name": "McBRIDE Seth",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "26 FEB 1983",
+          "club": "Portland Pounders (USA)"
+        },
+        {
+          "bib": 12,
+          "name": "COHN Chad",
+          "raw_name": "COHN Chad",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "12 AUG 1983",
+          "club": "U of A Wildcats (USA)"
+        },
+        {
+          "bib": 15,
+          "name": "FREDETTE Lee",
+          "raw_name": "FREDETTE Lee",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "11 NOV 1982",
+          "club": "San Diego Sharp (USA)"
+        },
+        {
+          "bib": 20,
+          "name": "BREWER Josh",
+          "raw_name": "BREWER Josh",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "10 SEP 1995",
+          "club": "Texas Stampede (USA)"
+        },
+        {
+          "bib": 22,
+          "name": "PUDERBAUGH Kory",
+          "raw_name": "PUDERBAUGH Kory",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "2 APR 1996",
+          "club": "San Diego Sharp (USA)"
+        }
+      ],
+      "player_count": 12
+    }
+  },
+  "London 2012": {
+    "AUS": {
+      "team_code": "AUS",
+      "team_name": "Australia",
+      "coach": "DUBBERLEY Brad",
+      "assistant_coach": null,
+      "uniform_1": {
+        "top": "Green",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "Gold",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "NEWTON Ben",
+          "raw_name": "NEWTON Ben",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "14 FEB 1988",
+          "club": "Queensland (AUS)"
+        },
+        {
+          "bib": 2,
+          "name": "ERDEM Naz",
+          "raw_name": "ERDEM Naz",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "1 AUG 1970",
+          "club": "Victoria (AUS)"
+        },
+        {
+          "bib": 3,
+          "name": "BATT Ryley",
+          "raw_name": "BATT Ryley",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "22 MAY 1989",
+          "club": "New South Wales (AUS)"
+        },
+        {
+          "bib": 4,
+          "name": "HOSE Josh",
+          "raw_name": "HOSE Josh",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "1 DEC 1986",
+          "club": "Victoria (AUS)"
+        },
+        {
+          "bib": 7,
+          "name": "LEES Jason",
+          "raw_name": "LEES Jason",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "1 MAR 1977",
+          "club": "Victoria (AUS)"
+        },
+        {
+          "bib": 8,
+          "name": "MEAKIN Cody",
+          "raw_name": "MEAKIN Cody",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "27 DEC 1989",
+          "club": "Queensland (AUS)"
+        },
+        {
+          "bib": 9,
+          "name": "SMITH Greg",
+          "raw_name": "SMITH Greg",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "19 AUG 1967",
+          "club": "Victoria (AUS)"
+        },
+        {
+          "bib": 10,
+          "name": "BOND Chris",
+          "raw_name": "BOND Chris",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "28 MAY 1986",
+          "club": "Queensland (AUS)"
+        },
+        {
+          "bib": 13,
+          "name": "CARR Cameron",
+          "raw_name": "CARR Cameron",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "13 AUG 1977",
+          "club": "Queensland (AUS)"
+        },
+        {
+          "bib": 15,
+          "name": "HARRISON Andrew",
+          "raw_name": "HARRISON Andrew",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "7 JUN 1987",
+          "club": "Victoria (AUS)"
+        }
+      ],
+      "player_count": 10
+    },
+    "BEL": {
+      "team_code": "BEL",
+      "team_name": "Belgium",
+      "coach": "VANACKER Bob",
+      "assistant_coach": "WOUTERS Pascale",
+      "uniform_1": {
+        "top": "Red",
+        "bottom": "Red"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Red"
+      },
+      "players": [
+        {
+          "bib": 2,
+          "name": "GENYN Peter",
+          "raw_name": "GENYN Peter (C)",
+          "is_captain": true,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "24 DEC 1976",
+          "club": "Flemish Lions (BEL)"
+        },
+        {
+          "bib": 3,
+          "name": "MEERSSCHAUT Gunther",
+          "raw_name": "MEERSSCHAUT Gunther",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "14 DEC 1984",
+          "club": "Flemish Lions (BEL)"
+        },
+        {
+          "bib": 4,
+          "name": "THEUWISSEN Ive",
+          "raw_name": "THEUWISSEN Ive",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "16 DEC 1986",
+          "club": "Flemish Lions (BEL)"
+        },
+        {
+          "bib": 6,
+          "name": "DUQUENNE David",
+          "raw_name": "DUQUENNE David",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "2 SEP 1975",
+          "club": "Flemish Lions (BEL)"
+        },
+        {
+          "bib": 7,
+          "name": "VANACKER Bob",
+          "raw_name": "VANACKER Bob",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "7 NOV 1969",
+          "club": "Flemish Lions (BEL)"
+        },
+        {
+          "bib": 8,
+          "name": "MERTENS Lars",
+          "raw_name": "MERTENS Lars",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "1 MAR 1987",
+          "club": "Flemish Lions (BEL)"
+        },
+        {
+          "bib": 9,
+          "name": "VERHAEGEN Ronald",
+          "raw_name": "VERHAEGEN Ronald",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "2 APR 1966",
+          "club": "Flemish Lions (BEL)"
+        },
+        {
+          "bib": 10,
+          "name": "WINDEY Frederik",
+          "raw_name": "WINDEY Frederik",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "7 FEB 1986",
+          "club": "Flemish Lions (BEL)"
+        },
+        {
+          "bib": 11,
+          "name": "KETELBUTERS Bieke",
+          "raw_name": "KETELBUTERS Bieke",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "12 MAR 1974",
+          "club": "W"
+        },
+        {
+          "bib": 12,
+          "name": "BUDENERS Ludwig",
+          "raw_name": "BUDENERS Ludwig",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "16 MAY 1971",
+          "club": "Flemish Lions (BEL)"
+        },
+        {
+          "bib": 14,
+          "name": "HENDRIX Raf",
+          "raw_name": "HENDRIX Raf",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "13 APR 1984",
+          "club": "Flemish Lions (BEL)"
+        }
+      ],
+      "player_count": 11
+    },
+    "CAN": {
+      "team_code": "CAN",
+      "team_name": "Canada",
+      "coach": "ORR Kevin (USA)",
+      "assistant_coach": "COTE Patrick",
+      "uniform_1": {
+        "top": "Black",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "Red",
+        "bottom": "Red"
+      },
+      "players": [
+        {
+          "bib": 2,
+          "name": "CRONE Jason",
+          "raw_name": "CRONE Jason",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "23 JUL 1987",
+          "club": "London Annihilators (CAN)"
+        },
+        {
+          "bib": 3,
+          "name": "DAGENAIS Patrice",
+          "raw_name": "DAGENAIS Patrice",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "4 OCT 1984",
+          "club": "Ottawa Stingers (CAN)"
+        },
+        {
+          "bib": 5,
+          "name": "HICKLING Garett",
+          "raw_name": "HICKLING Garett",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "18 SEP 1970",
+          "club": "London Annihilators (CAN)"
+        },
+        {
+          "bib": 6,
+          "name": "CHAN Ian",
+          "raw_name": "CHAN Ian",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "8 MAY 1977",
+          "club": "BC Bandits (CAN)"
+        },
+        {
+          "bib": 8,
+          "name": "WHITEHEAD Mike",
+          "raw_name": "WHITEHEAD Mike",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "25 NOV 1975",
+          "club": "London Annihilators (CAN)"
+        },
+        {
+          "bib": 10,
+          "name": "HIRSCHFIELD Trevor",
+          "raw_name": "HIRSCHFIELD Trevor",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "21 DEC 1983",
+          "club": "BC Bandits (CAN)"
+        },
+        {
+          "bib": 11,
+          "name": "LAVOIE Fabien",
+          "raw_name": "LAVOIE Fabien",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "2 JUL 1981",
+          "club": "Qu\u00e9bec Impact (CAN)"
+        },
+        {
+          "bib": 12,
+          "name": "MURAO Travis",
+          "raw_name": "MURAO Travis",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "12 JAN 1983",
+          "club": "BC Bandits (CAN)"
+        },
+        {
+          "bib": 13,
+          "name": "FUNK Jared",
+          "raw_name": "FUNK Jared",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "30 JAN 1974",
+          "club": "Winnipeg (CAN)"
+        },
+        {
+          "bib": 15,
+          "name": "SIMARD Patrice",
+          "raw_name": "SIMARD Patrice",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "19 JAN 1979",
+          "club": "Qu\u00e9bec Impact (CAN)"
+        },
+        {
+          "bib": 33,
+          "name": "MADELL Zak",
+          "raw_name": "MADELL Zak",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "28 MAR 1994",
+          "club": "Calgary Inferno (CAN)"
+        }
+      ],
+      "player_count": 11
+    },
+    "FRA": {
+      "team_code": "FRA",
+      "team_name": "France",
+      "coach": "CUSIN Olivier",
+      "assistant_coach": "COURTAULT Nicolas",
+      "uniform_1": {
+        "top": "Blue",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "LHUISSIER Sebastien",
+          "raw_name": "LHUISSIER Sebastien",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "20 DEC 1976",
+          "club": "Atlantique Rugby Fauteuil (FRA)"
+        },
+        {
+          "bib": 2,
+          "name": "MEURISSE Eric",
+          "raw_name": "MEURISSE Eric",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "19 AUG 1974",
+          "club": "Rugby Club Roubaix Handis (FRA)"
+        },
+        {
+          "bib": 4,
+          "name": "CHALMIN Adrien",
+          "raw_name": "CHALMIN Adrien (C)",
+          "is_captain": true,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "21 JUL 1986",
+          "club": "AS Montferrandaise Sectio (FRA)"
+        },
+        {
+          "bib": 6,
+          "name": "COROMPT Christophe",
+          "raw_name": "COROMPT Christophe",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "4 JUL 1973",
+          "club": "C S B J H Bourgoin Jallie (FRA)"
+        },
+        {
+          "bib": 7,
+          "name": "NEUMAN Pablo",
+          "raw_name": "NEUMAN Pablo",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "24 AUG 1980",
+          "club": "Stade Toulousain Rugby HA (FRA)"
+        },
+        {
+          "bib": 8,
+          "name": "GERNIGON Steeve",
+          "raw_name": "GERNIGON Steeve",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "30 OCT 1985",
+          "club": "Atlantique Rugby Fauteuil (FRA)"
+        },
+        {
+          "bib": 9,
+          "name": "SALLEM Riadh",
+          "raw_name": "SALLEM Riadh",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "6 SEP 1970",
+          "club": "Flandre Rugby Fauteuil RO (FRA)"
+        },
+        {
+          "bib": 10,
+          "name": "MOREAU Mathieu",
+          "raw_name": "MOREAU Mathieu",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "25 JUL 1975",
+          "club": "Drop De Beton - Merignac (FRA)"
+        },
+        {
+          "bib": 12,
+          "name": "RIOUX Nicolas",
+          "raw_name": "RIOUX Nicolas",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "26 DEC 1981",
+          "club": "Atlantique Rugby Fauteuil (FRA)"
+        }
+      ],
+      "player_count": 9
+    },
+    "GBR": {
+      "team_code": "GBR",
+      "team_name": "Great Britain",
+      "coach": "O'CONNOR Tom",
+      "assistant_coach": null,
+      "uniform_1": {
+        "top": "Blue",
+        "bottom": "Blue"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Blue"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "SEHMI Mandip",
+          "raw_name": "SEHMI Mandip",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "13 DEC 1980",
+          "club": "Stoke Mandeville Storm (GBR)"
+        },
+        {
+          "bib": 2,
+          "name": "COGGAN Jonathan",
+          "raw_name": "COGGAN Jonathan",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "25 APR 1983",
+          "club": "Stoke Mandeville Storm (GBR)"
+        },
+        {
+          "bib": 3,
+          "name": "GRIMES Kylie",
+          "raw_name": "GRIMES Kylie",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "7 DEC 1987",
+          "club": "W"
+        },
+        {
+          "bib": 4,
+          "name": "ANTHONY David",
+          "raw_name": "ANTHONY David",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "18 DEC 1989",
+          "club": "South Wales Pirates (GBR)"
+        },
+        {
+          "bib": 5,
+          "name": "HUSSAIN Bulbul",
+          "raw_name": "HUSSAIN Bulbul",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "3 JAN 1972",
+          "club": "Kent Crusaders (GBR)"
+        },
+        {
+          "bib": 6,
+          "name": "MORRISON Ross",
+          "raw_name": "MORRISON Ross",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "22 JUN 1979",
+          "club": "Stoke Mandeville Storm (GBR)"
+        },
+        {
+          "bib": 7,
+          "name": "KERR Mike",
+          "raw_name": "KERR Mike",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "13 OCT 1982",
+          "club": "North East Bulls (GBR)"
+        },
+        {
+          "bib": 8,
+          "name": "PEARSON Myles",
+          "raw_name": "PEARSON Myles",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "15 MAR 1993",
+          "club": "West Coast Crash (GBR)"
+        },
+        {
+          "bib": 9,
+          "name": "BROWN Steve",
+          "raw_name": "BROWN Steve (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "2 JUN 1981",
+          "club": "Kent Crusaders (GBR)"
+        },
+        {
+          "bib": 10,
+          "name": "BARROW Andy",
+          "raw_name": "BARROW Andy",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "20 AUG 1979",
+          "club": "Kent Crusaders (GBR)"
+        },
+        {
+          "bib": 13,
+          "name": "PHIPPS Aaron",
+          "raw_name": "PHIPPS Aaron",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "7 APR 1983",
+          "club": "South Wales Pirates (GBR)"
+        }
+      ],
+      "player_count": 11
+    },
+    "JPN": {
+      "team_code": "JPN",
+      "team_name": "Japan",
+      "coach": "IWABUCHI Norihisa",
+      "assistant_coach": null,
+      "uniform_1": {
+        "top": "Black",
+        "bottom": "Black"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Black"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "WAKAYAMA Hidefumi",
+          "raw_name": "WAKAYAMA Hidefumi",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "3 JAN 1985",
+          "club": "YOKOHAMA GIJUKU (JPN)"
+        },
+        {
+          "bib": 5,
+          "name": "OGINO Koichi",
+          "raw_name": "OGINO Koichi",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "11 AUG 1966",
+          "club": "BLITZ (JPN)"
+        },
+        {
+          "bib": 6,
+          "name": "KANNO Kazuhiko",
+          "raw_name": "KANNO Kazuhiko",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "1 AUG 1981",
+          "club": "BLAST (JPN)"
+        },
+        {
+          "bib": 7,
+          "name": "IKEZAKI Daisuke",
+          "raw_name": "IKEZAKI Daisuke",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "23 JAN 1978",
+          "club": "HOKKAIDO BIG DIPPERS (JPN)"
+        },
+        {
+          "bib": 8,
+          "name": "MISAKA Hiroyuki",
+          "raw_name": "MISAKA Hiroyuki",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "21 JUN 1981",
+          "club": "HEAT (JPN)"
+        },
+        {
+          "bib": 9,
+          "name": "TAMURA Manabu",
+          "raw_name": "TAMURA Manabu",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "26 SEP 1974",
+          "club": "BLITZ (JPN)"
+        },
+        {
+          "bib": 11,
+          "name": "NAKAZATO Shin",
+          "raw_name": "NAKAZATO Shin",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "6 APR 1977",
+          "club": "OKINAWA HURRICANES (JPN)"
+        },
+        {
+          "bib": 12,
+          "name": "KAWASHITA Tadanori",
+          "raw_name": "KAWASHITA Tadanori",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "19 OCT 1972",
+          "club": "AXE (JPN)"
+        },
+        {
+          "bib": 13,
+          "name": "SHIMAKAWA Shin",
+          "raw_name": "SHIMAKAWA Shin",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "29 JAN 1975",
+          "club": "BLITZ (JPN)"
+        },
+        {
+          "bib": 14,
+          "name": "SHOJI Takeshi",
+          "raw_name": "SHOJI Takeshi",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "11 MAY 1980",
+          "club": "SUPER SONIC (JPN)"
+        },
+        {
+          "bib": 15,
+          "name": "KISHI Kotaro",
+          "raw_name": "KISHI Kotaro",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "8 OCT 1971",
+          "club": "AXE (JPN)"
+        }
+      ],
+      "player_count": 11
+    },
+    "SWE": {
+      "team_code": "SWE",
+      "team_name": "Sweden",
+      "coach": "LABRECQUE Benoit (CAN)",
+      "assistant_coach": "WAMFORS Therese",
+      "uniform_1": {
+        "top": "Blue",
+        "bottom": "Blue"
+      },
+      "uniform_2": {
+        "top": "Yellow",
+        "bottom": "Blue"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "ADASZAK Glenn",
+          "raw_name": "ADASZAK Glenn",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "9 JAN 1983",
+          "club": "Hillbillies (SWE)"
+        },
+        {
+          "bib": 2,
+          "name": "LOFGREN Rickard",
+          "raw_name": "LOFGREN Rickard",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "17 AUG 1971",
+          "club": "Nacka Spiders (SWE)"
+        },
+        {
+          "bib": 3,
+          "name": "WAHLBERG Mikael",
+          "raw_name": "WAHLBERG Mikael",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "18 FEB 1980",
+          "club": "Hillbillies (SWE)"
+        },
+        {
+          "bib": 4,
+          "name": "BRETZ Martin",
+          "raw_name": "BRETZ Martin",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "18 JAN 1985",
+          "club": "Nacka Spiders (SWE)"
+        },
+        {
+          "bib": 6,
+          "name": "SANDBERG Tobias",
+          "raw_name": "SANDBERG Tobias",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "28 JUN 1984",
+          "club": "FIFH Griffins (SWE)"
+        },
+        {
+          "bib": 8,
+          "name": "NORLIN Mikael",
+          "raw_name": "NORLIN Mikael",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "7 FEB 1974",
+          "club": "FIFH Griffins (SWE)"
+        },
+        {
+          "bib": 9,
+          "name": "UHLMANN Per-Johan",
+          "raw_name": "UHLMANN Per-Johan",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "2 OCT 1974",
+          "club": "FIFH Griffins (SWE)"
+        },
+        {
+          "bib": 11,
+          "name": "ALVAREZ ROMERO Alfredo",
+          "raw_name": "ALVAREZ ROMERO Alfredo",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "13 MAY 1982",
+          "club": "Nacka Spiders (SWE)"
+        },
+        {
+          "bib": 13,
+          "name": "JANSSON Stefan",
+          "raw_name": "JANSSON Stefan",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "8 MAR 1985",
+          "club": "Hillbillies (SWE)"
+        },
+        {
+          "bib": 14,
+          "name": "COLLIN Andreas",
+          "raw_name": "COLLIN Andreas",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "19 MAR 1986",
+          "club": "Nacka Spiders (SWE)"
+        },
+        {
+          "bib": 22,
+          "name": "HJERT Tomas",
+          "raw_name": "HJERT Tomas",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "22 JUN 1989",
+          "club": "Nacka Spiders (SWE)"
+        }
+      ],
+      "player_count": 11
+    },
+    "USA": {
+      "team_code": "USA",
+      "team_name": "United States",
+      "coach": "GUMBERT James",
+      "assistant_coach": "McGUIRK Troy",
+      "uniform_1": {
+        "top": "Navy",
+        "bottom": "Navy"
+      },
+      "uniform_2": {
+        "top": "White",
+        "bottom": "Navy"
+      },
+      "players": [
+        {
+          "bib": 1,
+          "name": "SUMNER Chance",
+          "raw_name": "SUMNER Chance",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "30 JAN 1977",
+          "club": "Phoenix Fusion (USA)"
+        },
+        {
+          "bib": 2,
+          "name": "McBRIDE Seth",
+          "raw_name": "McBRIDE Seth",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "26 FEB 1983",
+          "club": "Portland Pounders (USA)"
+        },
+        {
+          "bib": 4,
+          "name": "SCATURRO Adam",
+          "raw_name": "SCATURRO Adam",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "4 DEC 1978",
+          "club": "Denver Harlequins (USA)"
+        },
+        {
+          "bib": 5,
+          "name": "AOKI Chuck",
+          "raw_name": "AOKI Chuck",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "7 MAR 1991",
+          "club": "Tucson Pterodactyls (USA)"
+        },
+        {
+          "bib": 7,
+          "name": "REGIER Jason",
+          "raw_name": "REGIER Jason",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "8 FEB 1975",
+          "club": "Denver Harlequins (USA)"
+        },
+        {
+          "bib": 8,
+          "name": "HOGSETT Scott",
+          "raw_name": "HOGSETT Scott",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "16 OCT 1972",
+          "club": "Phoenix Fusion (USA)"
+        },
+        {
+          "bib": 9,
+          "name": "SPRINGER Nick",
+          "raw_name": "SPRINGER Nick",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "9 JUN 1985",
+          "club": "Phoenix Fusion (USA)"
+        },
+        {
+          "bib": 11,
+          "name": "COHN Andy",
+          "raw_name": "COHN Andy",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "3 FEB 1978",
+          "club": "Sharp Edge (USA)"
+        },
+        {
+          "bib": 12,
+          "name": "COHN Chad",
+          "raw_name": "COHN Chad",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "12 AUG 1983",
+          "club": "Tucson Pterodactyls (USA)"
+        },
+        {
+          "bib": 13,
+          "name": "HELTON Derrick",
+          "raw_name": "HELTON Derrick",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "5 NOV 1985",
+          "club": "Tucson Pterodactyls (USA)"
+        },
+        {
+          "bib": 14,
+          "name": "DELAGRAVE Joe",
+          "raw_name": "DELAGRAVE Joe",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "21 MAR 1985",
+          "club": "Phoenix Fusion (USA)"
+        }
+      ],
+      "player_count": 11
+    }
+  },
+  "Beijing 2008": {
+    "AUS": {
+      "team_code": "AUS",
+      "team_name": "Australia",
+      "coach": "DUBBERLEY Brad",
+      "assistant_coach": "DOIDGE Robert",
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "HUCKS George",
+          "raw_name": "HUCKS George",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "18 JAN 1968",
+          "club": "SA SHARKS(AUS)"
+        },
+        {
+          "bib": 2,
+          "name": "ERDEM Nazim",
+          "raw_name": "ERDEM Nazim",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "1 AUG 1970",
+          "club": "VIC THUNDER(AUS)"
+        },
+        {
+          "bib": 3,
+          "name": "BATT Ryley",
+          "raw_name": "BATT Ryley",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "22 MAY 1989",
+          "club": "NSW GLADIATORS(AUS)"
+        },
+        {
+          "bib": 4,
+          "name": "CARR Cameron",
+          "raw_name": "CARR Cameron",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "13 AUG 1977",
+          "club": "QLD CROCS(AUS)"
+        },
+        {
+          "bib": 5,
+          "name": "BRAND Shane",
+          "raw_name": "BRAND Shane",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "5 AUG 1973",
+          "club": "SA SHARKS(AUS)"
+        },
+        {
+          "bib": 6,
+          "name": "VITALE Scott",
+          "raw_name": "VITALE Scott",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "6 JUL 1985",
+          "club": "NSW GLADIATORS(AUS)"
+        },
+        {
+          "bib": 7,
+          "name": "BOXALL Grant",
+          "raw_name": "BOXALL Grant",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "19 JUL 1976",
+          "club": "WA ENFORCERS(AUS)"
+        },
+        {
+          "bib": 8,
+          "name": "ALMAN Bryce",
+          "raw_name": "ALMAN Bryce",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "19 JAN 1976",
+          "club": "VIC THUNDER(AUS)"
+        },
+        {
+          "bib": 11,
+          "name": "SCOTT Ryan",
+          "raw_name": "SCOTT Ryan",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "3 MAR 1982",
+          "club": "SA SHARKS(AUS)"
+        },
+        {
+          "bib": 12,
+          "name": "PORTER Steve",
+          "raw_name": "PORTER Steve (C)",
+          "is_captain": true,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "22 NOV 1969",
+          "club": "SA SHARKS(AUS)"
+        },
+        {
+          "bib": 13,
+          "name": "SMITH Greg",
+          "raw_name": "SMITH Greg",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "19 AUG 1967",
+          "club": "VIC THUNDER(AUS)"
+        }
+      ],
+      "player_count": 11
+    },
+    "CAN": {
+      "team_code": "CAN",
+      "team_name": "Canada",
+      "coach": "LABRECQUE Benoit",
+      "assistant_coach": "FROST Adam",
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "PARADIS Daniel",
+          "raw_name": "PARADIS Daniel",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "24 JUL 1961",
+          "club": "QUEBEC IMPACT(CAN)"
+        },
+        {
+          "bib": 2,
+          "name": "CRONE Jason",
+          "raw_name": "CRONE Jason",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "23 JUL 1987",
+          "club": "LONDON ANNIHILATORS(CAN)"
+        },
+        {
+          "bib": 4,
+          "name": "SCHMUTZ Erika",
+          "raw_name": "SCHMUTZ Erika",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "21 FEB 1973",
+          "club": "TORONTO(CAN)"
+        },
+        {
+          "bib": 5,
+          "name": "HICKLING Garett",
+          "raw_name": "HICKLING Garett",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "18 SEP 1970",
+          "club": "BRITISH COLUMBIA(CAN)"
+        },
+        {
+          "bib": 6,
+          "name": "CHAN Ian",
+          "raw_name": "CHAN Ian",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "8 MAY 1977",
+          "club": "BRITISH COLUMBIA(CAN)"
+        },
+        {
+          "bib": 8,
+          "name": "WHITEHEAD Mike",
+          "raw_name": "WHITEHEAD Mike",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "25 NOV 1975",
+          "club": "LONDON ANNIHILATORS(CAN)"
+        },
+        {
+          "bib": 9,
+          "name": "LUANGKHAMDENG Say",
+          "raw_name": "LUANGKHAMDENG Say",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "1 FEB 1977",
+          "club": "BRITISH COLUMBIA(CAN)"
+        },
+        {
+          "bib": 10,
+          "name": "HIRSCHFIELD Trevor",
+          "raw_name": "HIRSCHFIELD Trevor",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "21 DEC 1983",
+          "club": "BRITISH COLUMBIA(CAN)"
+        },
+        {
+          "bib": 11,
+          "name": "LAVOIE Fabien",
+          "raw_name": "LAVOIE Fabien",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "2 JUL 1981",
+          "club": "QUEBEC IMPACT(CAN)"
+        },
+        {
+          "bib": 13,
+          "name": "FUNK Jared",
+          "raw_name": "FUNK Jared",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "30 JAN 1974",
+          "club": "TEAM MANITOBA(CAN)"
+        },
+        {
+          "bib": 14,
+          "name": "WILLSIE David",
+          "raw_name": "WILLSIE David (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "23 MAR 1968",
+          "club": "LONDON ANNIHILATORS(CAN)"
+        },
+        {
+          "bib": 15,
+          "name": "SIMARD Patrice",
+          "raw_name": "SIMARD Patrice",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "19 JAN 1979",
+          "club": "QUEBEC IMPACT(CAN)"
+        }
+      ],
+      "player_count": 12
+    },
+    "CHN": {
+      "team_code": "CHN",
+      "team_name": "China",
+      "coach": "WEN Yan",
+      "assistant_coach": "WU Zhiming",
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "PAN Zilin",
+          "raw_name": "PAN Zilin",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "24 JUL 1973",
+          "club": "GUANGDONG(CHN)"
+        },
+        {
+          "bib": 2,
+          "name": "HAN Guifei",
+          "raw_name": "HAN Guifei",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "15 DEC 1986",
+          "club": "BEIJING(CHN)"
+        },
+        {
+          "bib": 3,
+          "name": "CHEN Jun",
+          "raw_name": "CHEN Jun",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "18 JAN 1985",
+          "club": "BEIJING(CHN)"
+        },
+        {
+          "bib": 5,
+          "name": "WANG Sheng",
+          "raw_name": "WANG Sheng",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "20 SEP 1972",
+          "club": "SHANDONG(CHN)"
+        },
+        {
+          "bib": 6,
+          "name": "TIAN Shilin",
+          "raw_name": "TIAN Shilin",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "6 AUG 1984",
+          "club": "BEIJING(CHN)"
+        },
+        {
+          "bib": 7,
+          "name": "CUI Maosheng",
+          "raw_name": "CUI Maosheng",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "25 DEC 1975",
+          "club": "YUNNAN(CHN)"
+        },
+        {
+          "bib": 8,
+          "name": "CHENG Shuangmiao",
+          "raw_name": "CHENG Shuangmiao (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "23 JUN 1980",
+          "club": "BEIJING(CHN)"
+        },
+        {
+          "bib": 9,
+          "name": "YU Zhongtao",
+          "raw_name": "YU Zhongtao",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "23 JUN 1983",
+          "club": "LIAONING(CHN)"
+        },
+        {
+          "bib": 10,
+          "name": "TAO Zhenfeng",
+          "raw_name": "TAO Zhenfeng",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "22 JAN 1976",
+          "club": "SHANDONG(CHN)"
+        },
+        {
+          "bib": 11,
+          "name": "XIA Junfeng",
+          "raw_name": "XIA Junfeng",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "15 JUL 1972",
+          "club": "BEIJING(CHN)"
+        },
+        {
+          "bib": 12,
+          "name": "SHAO Dequan",
+          "raw_name": "SHAO Dequan",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "15 JAN 1988",
+          "club": "BEIJING(CHN)"
+        },
+        {
+          "bib": 15,
+          "name": "ZHANG Wenli",
+          "raw_name": "ZHANG Wenli",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "11 AUG 1968",
+          "club": "SHANDONG(CHN)"
+        }
+      ],
+      "player_count": 12
+    },
+    "GER": {
+      "team_code": "GER",
+      "team_name": "Germany",
+      "coach": "SAHM Pierre",
+      "assistant_coach": "METZGER Bert",
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "WERNER Christoph",
+          "raw_name": "WERNER Christoph",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "7 NOV 1968",
+          "club": "RSC BAD WILDUNGEN(GER)"
+        },
+        {
+          "bib": 3,
+          "name": "GOETZE Christian",
+          "raw_name": "GOETZE Christian",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "16 SEP 1974",
+          "club": "HANNOVER(GER)(GER)"
+        },
+        {
+          "bib": 4,
+          "name": "MAYER Wolfgang",
+          "raw_name": "MAYER Wolfgang",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "20 JAN 1965",
+          "club": "THE REBELS(GER)"
+        },
+        {
+          "bib": 7,
+          "name": "WIESCHENDORF Dirk",
+          "raw_name": "WIESCHENDORF Dirk",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "1 SEP 1975",
+          "club": "RSG HEIDELBERG(GER)"
+        },
+        {
+          "bib": 8,
+          "name": "PICHT Oliver Johannes",
+          "raw_name": "PICHT Oliver Johannes",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "21 DEC 1971",
+          "club": "RSC BAD WILDUNGEN(GER)"
+        },
+        {
+          "bib": 10,
+          "name": "KOESEOGLU Salih",
+          "raw_name": "KOESEOGLU Salih",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "10 DEC 1979",
+          "club": "RSG HEIDELBERG(GER)"
+        },
+        {
+          "bib": 11,
+          "name": "REIS Micael",
+          "raw_name": "REIS Micael",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "22 NOV 1977",
+          "club": "BSG BOCHUM(GER)"
+        },
+        {
+          "bib": 12,
+          "name": "SCHMITT Wolfgang",
+          "raw_name": "SCHMITT Wolfgang",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "20 SEP 1982",
+          "club": "RSG KOBLENZ(GER)"
+        },
+        {
+          "bib": 13,
+          "name": "MENEZLA Nacer",
+          "raw_name": "MENEZLA Nacer",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "8 JAN 1975",
+          "club": "RSG KOBLENZ(GER)"
+        },
+        {
+          "bib": 14,
+          "name": "HOLZEM Joerg",
+          "raw_name": "HOLZEM Joerg (C)",
+          "is_captain": true,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "15 OCT 1972",
+          "club": "RSG KOBLENZ(GER)"
+        },
+        {
+          "bib": 15,
+          "name": "BAUMANN Maik",
+          "raw_name": "BAUMANN Maik",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "27 MAR 1980",
+          "club": "RSC BAD WILDUNGEN(GER)"
+        }
+      ],
+      "player_count": 11
+    },
+    "GBR": {
+      "team_code": "GBR",
+      "team_name": "Great Britain",
+      "coach": "O' CONNOR Mark Edward",
+      "assistant_coach": null,
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "SEHMI Mandip",
+          "raw_name": "SEHMI Mandip",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "13 DEC 1980",
+          "club": "MAURAUADERS(GBR)"
+        },
+        {
+          "bib": 2,
+          "name": "COGGAN Jonathan",
+          "raw_name": "COGGAN Jonathan",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "25 APR 1983",
+          "club": "LONDON(GBR)"
+        },
+        {
+          "bib": 3,
+          "name": "PALMER Steven",
+          "raw_name": "PALMER Steven",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "12 APR 1973",
+          "club": "LONDON(GBR)"
+        },
+        {
+          "bib": 4,
+          "name": "SHAW Paul",
+          "raw_name": "SHAW Paul",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "5 MAY 1971",
+          "club": "RHINO'S(GBR)"
+        },
+        {
+          "bib": 5,
+          "name": "HUSSAIN Bulbul",
+          "raw_name": "HUSSAIN Bulbul",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "3 JAN 1972",
+          "club": "LONDON(GBR)"
+        },
+        {
+          "bib": 6,
+          "name": "MORRISON Ross",
+          "raw_name": "MORRISON Ross",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "22 JUN 1979",
+          "club": "LONDON(GBR)"
+        },
+        {
+          "bib": 7,
+          "name": "ROBERTS Jason",
+          "raw_name": "ROBERTS Jason",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "12 AUG 1973",
+          "club": "DRAGONS(GBR)"
+        },
+        {
+          "bib": 8,
+          "name": "COLLINS Troye",
+          "raw_name": "COLLINS Troye",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "24 AUG 1972",
+          "club": "LONDON(GBR)"
+        },
+        {
+          "bib": 9,
+          "name": "FRISHBERG Justin",
+          "raw_name": "FRISHBERG Justin",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "17 MAR 1972",
+          "club": "LONDON(GBR)"
+        },
+        {
+          "bib": 10,
+          "name": "BARROW Andrew",
+          "raw_name": "BARROW Andrew",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "20 AUG 1979",
+          "club": "LONDON(GBR)"
+        },
+        {
+          "bib": 11,
+          "name": "ASH Alan",
+          "raw_name": "ASH Alan",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "27 JAN 1973",
+          "club": "RHINO'S(GBR)"
+        },
+        {
+          "bib": 12,
+          "name": "PEARSON Josie",
+          "raw_name": "PEARSON Josie",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "3 JAN 1986",
+          "club": "PIRATES(GBR)"
+        }
+      ],
+      "player_count": 12
+    },
+    "JPN": {
+      "team_code": "JPN",
+      "team_name": "Japan",
+      "coach": "SHIOZAWA Yasuo",
+      "assistant_coach": "AOYAGI Daisuke",
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "TAKAHASHI Yoshinobu",
+          "raw_name": "TAKAHASHI Yoshinobu",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "19 APR 1975",
+          "club": "BULLDOGS(JPN)"
+        },
+        {
+          "bib": 3,
+          "name": "NAGAYASU Yu",
+          "raw_name": "NAGAYASU Yu",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "17 JUN 1986",
+          "club": "HEAT(JPN)"
+        },
+        {
+          "bib": 4,
+          "name": "SHIMAKAWA Shinichi",
+          "raw_name": "SHIMAKAWA Shinichi",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "29 JAN 1975",
+          "club": "BLITZ(JPN)"
+        },
+        {
+          "bib": 5,
+          "name": "OGINO Koichi",
+          "raw_name": "OGINO Koichi (C)",
+          "is_captain": true,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "11 AUG 1966",
+          "club": "BLITZ(JPN)"
+        },
+        {
+          "bib": 6,
+          "name": "MUROHASHI Takuo",
+          "raw_name": "MUROHASHI Takuo",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "12 JAN 1975",
+          "club": "BULLDOGS(JPN)"
+        },
+        {
+          "bib": 7,
+          "name": "FUJISHIMA Shingo",
+          "raw_name": "FUJISHIMA Shingo",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "10 MAY 1972",
+          "club": "YOKOHAMA GIJUKU(JPN)"
+        },
+        {
+          "bib": 8,
+          "name": "MISAKA Hiroyuki",
+          "raw_name": "MISAKA Hiroyuki",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "21 JUN 1981",
+          "club": "HEAT(JPN)"
+        },
+        {
+          "bib": 9,
+          "name": "TAMURA Manabu",
+          "raw_name": "TAMURA Manabu",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "26 SEP 1974",
+          "club": "BLITZ(JPN)"
+        },
+        {
+          "bib": 10,
+          "name": "SATO Yoshito",
+          "raw_name": "SATO Yoshito",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "31 MAY 1980",
+          "club": "GENESIS(JPN)"
+        },
+        {
+          "bib": 11,
+          "name": "NAKAZATO Shin",
+          "raw_name": "NAKAZATO Shin",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "6 APR 1977",
+          "club": "OKINAWA HURRICANES(JPN)"
+        },
+        {
+          "bib": 12,
+          "name": "KAWANO Shunsuke",
+          "raw_name": "KAWANO Shunsuke",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "29 JAN 1976",
+          "club": "GENESIS(JPN)"
+        }
+      ],
+      "player_count": 11
+    },
+    "NZL": {
+      "team_code": "NZL",
+      "team_name": "New Zealand",
+      "coach": "SHARMAN Grant",
+      "assistant_coach": "JOHNSON Tim",
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 2,
+          "name": "PALMER Curtis",
+          "raw_name": "PALMER Curtis",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "8 MAY 1977",
+          "club": "AUCKLAND(NZL)"
+        },
+        {
+          "bib": 4,
+          "name": "TAYLOR Sholto",
+          "raw_name": "TAYLOR Sholto",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "1 SEP 1972",
+          "club": "MANAWATU(NZL)"
+        },
+        {
+          "bib": 5,
+          "name": "WAITE Jai",
+          "raw_name": "WAITE Jai",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "11 MAR 1976",
+          "club": "AUCKLAND(NZL)"
+        },
+        {
+          "bib": 6,
+          "name": "TINKER Geremy",
+          "raw_name": "TINKER Geremy",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "9 JAN 1973",
+          "club": "CANTERBURY(NZL)"
+        },
+        {
+          "bib": 7,
+          "name": "JOHNSON Tim",
+          "raw_name": "JOHNSON Tim",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "4 FEB 1976",
+          "club": "AUCKLAND(NZL)"
+        },
+        {
+          "bib": 11,
+          "name": "KLINKHAMER David",
+          "raw_name": "KLINKHAMER David",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "31 JAN 1982",
+          "club": "WAIKATO(NZL)"
+        },
+        {
+          "bib": 13,
+          "name": "BUCKINGHAM Daniel",
+          "raw_name": "BUCKINGHAM Daniel (C)",
+          "is_captain": true,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "25 SEP 1980",
+          "club": "AUCKLAND(NZL)"
+        },
+        {
+          "bib": 14,
+          "name": "WAKEFORD Adam",
+          "raw_name": "WAKEFORD Adam",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "14 APR 1978",
+          "club": "AUCKLAND(NZL)"
+        }
+      ],
+      "player_count": 8
+    },
+    "USA": {
+      "team_code": "USA",
+      "team_name": "United States",
+      "coach": "GUMBERT James",
+      "assistant_coach": "SUHR Edward",
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "SUMNER Chance",
+          "raw_name": "SUMNER Chance",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "30 JAN 1977",
+          "club": "DENVER HARLEQUINS(USA)"
+        },
+        {
+          "bib": 2,
+          "name": "McBRIDE Seth",
+          "raw_name": "McBRIDE Seth",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "26 FEB 1983",
+          "club": "POUNDERS(USA)"
+        },
+        {
+          "bib": 3,
+          "name": "ZUPAN Mark",
+          "raw_name": "ZUPAN Mark",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "20 MAY 1975",
+          "club": "STAMPEDE(USA)"
+        },
+        {
+          "bib": 4,
+          "name": "KIRKLAND Bryan",
+          "raw_name": "KIRKLAND Bryan (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "18 AUG 1971",
+          "club": "LAKESHORE DEMOLITION(USA)"
+        },
+        {
+          "bib": 5,
+          "name": "LYDUCH Norm",
+          "raw_name": "LYDUCH Norm",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "4 JUL 1972",
+          "club": "STAMPEDE(USA)"
+        },
+        {
+          "bib": 6,
+          "name": "WILMOTH Joel",
+          "raw_name": "WILMOTH Joel",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "31 JUL 1989",
+          "club": "LAKESHORE DEMOLITION(USA)"
+        },
+        {
+          "bib": 7,
+          "name": "REGIER Jason",
+          "raw_name": "REGIER Jason",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "8 FEB 1975",
+          "club": "DENVER HARLEQUINS(USA)"
+        },
+        {
+          "bib": 8,
+          "name": "HOGSETT Scott",
+          "raw_name": "HOGSETT Scott",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "16 OCT 1972",
+          "club": "STAMPEDE(USA)"
+        },
+        {
+          "bib": 9,
+          "name": "SPRINGER Nick",
+          "raw_name": "SPRINGER Nick",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "9 JUN 1985",
+          "club": "HOVEROUND GUNNERS(USA)"
+        },
+        {
+          "bib": 10,
+          "name": "GROULX Will",
+          "raw_name": "GROULX Will",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "11 MAR 1974",
+          "club": "POUNDERS(USA)"
+        },
+        {
+          "bib": 11,
+          "name": "COHN Andy",
+          "raw_name": "COHN Andy",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "3 FEB 1978",
+          "club": "SHARP EDGE(USA)"
+        }
+      ],
+      "player_count": 11
+    }
+  },
+  "Athens 2004": {
+    "AUS": {
+      "team_code": "AUS",
+      "team_name": "Australia",
+      "coach": "VINYARD Terry",
+      "assistant_coach": null,
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "HUCKS George",
+          "raw_name": "HUCKS George (C)",
+          "is_captain": true,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "18 JAN 1968",
+          "club": "SOUTH AUSTRALIA SHARKS (AUS)"
+        },
+        {
+          "bib": 2,
+          "name": "ERDEM Nazim",
+          "raw_name": "ERDEM Nazim",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "1 AUG 1970",
+          "club": "MELBOURN THUNDER (AUS)"
+        },
+        {
+          "bib": 3,
+          "name": "BATT Ryley",
+          "raw_name": "BATT Ryley",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "22 MAY 1989",
+          "club": "NSW BLUES (AUS)"
+        },
+        {
+          "bib": 4,
+          "name": "KERSNOVSKE Kevin",
+          "raw_name": "KERSNOVSKE Kevin",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "20 JUN 1970",
+          "club": "QUEENSLAND CROCS (AUS)"
+        },
+        {
+          "bib": 5,
+          "name": "BOYLAN Brett",
+          "raw_name": "BOYLAN Brett (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "26 JAN 1971",
+          "club": "NSW BLUES (AUS)"
+        },
+        {
+          "bib": 6,
+          "name": "DUBBERLEY Brad",
+          "raw_name": "DUBBERLEY Brad (C)",
+          "is_captain": true,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "28 JUN 1981",
+          "club": "WESTERN AUS BLACK DUCKS (AUS)"
+        },
+        {
+          "bib": 7,
+          "name": "BOXALL Grant",
+          "raw_name": "BOXALL Grant",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "19 JUL 1976",
+          "club": "WESTERN AUS BLACK DUCKS (AUS)"
+        },
+        {
+          "bib": 8,
+          "name": "ALMAN Bryce",
+          "raw_name": "ALMAN Bryce",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "19 JAN 1976",
+          "club": "MELBOURN THUNDER (AUS)"
+        },
+        {
+          "bib": 9,
+          "name": "RYAN Patrick",
+          "raw_name": "RYAN Patrick",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "13 MAY 1981",
+          "club": "QUEENSLAND CROCS (AUS)"
+        },
+        {
+          "bib": 10,
+          "name": "VITALE Scott",
+          "raw_name": "VITALE Scott",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "6 JUL 1985",
+          "club": "QUEENSLAND CROCS (AUS)"
+        },
+        {
+          "bib": 11,
+          "name": "SCOTT Ryan",
+          "raw_name": "SCOTT Ryan",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "3 MAR 1982",
+          "club": "SOUTH AUSTRALIA SHARKS (AUS)"
+        },
+        {
+          "bib": 12,
+          "name": "PORTER Steve",
+          "raw_name": "PORTER Steve",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "22 NOV 1969",
+          "club": "SOUTH AUSTRALIA SHARKS (AUS)"
+        }
+      ],
+      "player_count": 12
+    },
+    "BEL": {
+      "team_code": "BEL",
+      "team_name": "Belgium",
+      "coach": "van OIRSCHOT Francois",
+      "assistant_coach": "WOUTERS Pascale",
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "MICHEM Guy",
+          "raw_name": "MICHEM Guy",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "24 JAN 1957",
+          "club": "FLEMISH LIONS (BEL)"
+        },
+        {
+          "bib": 2,
+          "name": "GENIJN Peter",
+          "raw_name": "GENIJN Peter",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "24 DEC 1976",
+          "club": "FLEMISH LIONS (BEL)"
+        },
+        {
+          "bib": 3,
+          "name": "DELEN Koen",
+          "raw_name": "DELEN Koen",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "23 DEC 1968",
+          "club": "FLEMISH LIONS (BEL)"
+        },
+        {
+          "bib": 7,
+          "name": "VANACKER Bob",
+          "raw_name": "VANACKER Bob (C)",
+          "is_captain": true,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "7 NOV 1969",
+          "club": "FLEMISH LIONS (BEL)"
+        },
+        {
+          "bib": 8,
+          "name": "MERTENS Lars",
+          "raw_name": "MERTENS Lars",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "1 MAR 1987",
+          "club": "VOSPO (BEL)"
+        },
+        {
+          "bib": 9,
+          "name": "VERHAEGEN Ronny",
+          "raw_name": "VERHAEGEN Ronny",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "2 APR 1966",
+          "club": "FLEMISH LIONS (BEL)"
+        },
+        {
+          "bib": 12,
+          "name": "BUDENERS Ludwig",
+          "raw_name": "BUDENERS Ludwig",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "16 MAY 1971",
+          "club": "FLEMISH LIONS (BEL)"
+        },
+        {
+          "bib": 14,
+          "name": "HINDRICQ Christophe",
+          "raw_name": "HINDRICQ Christophe",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "18 FEB 1965",
+          "club": "HANDCYCLING PROMOTION (BEL)"
+        }
+      ],
+      "player_count": 8
+    },
+    "CAN": {
+      "team_code": "CAN",
+      "team_name": "Canada",
+      "coach": "SOARES Joseph",
+      "assistant_coach": "LABRECQUE Benoit",
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "PARADIS Daniel",
+          "raw_name": "PARADIS Daniel",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "24 JUL 1961",
+          "club": "QUEBEC IMPACT (CAN)"
+        },
+        {
+          "bib": 2,
+          "name": "LIZOTTE Raymond",
+          "raw_name": "LIZOTTE Raymond",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "31 DEC 1969",
+          "club": "QUEBEC IMPACT (CAN)"
+        },
+        {
+          "bib": 5,
+          "name": "HICKLING Garett",
+          "raw_name": "HICKLING Garett (C)",
+          "is_captain": true,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "18 SEP 1970",
+          "club": "BC BANDITS (CAN)"
+        },
+        {
+          "bib": 6,
+          "name": "CHAN Ian",
+          "raw_name": "CHAN Ian",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "8 MAY 1977",
+          "club": "BC BANDITS (CAN)"
+        },
+        {
+          "bib": 7,
+          "name": "SEMENIUK Allan",
+          "raw_name": "SEMENIUK Allan",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "9 MAR 1967",
+          "club": "SASKSQUASH (CAN)"
+        },
+        {
+          "bib": 8,
+          "name": "WHITEHEAD Michael",
+          "raw_name": "WHITEHEAD Michael",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "25 NOV 1975",
+          "club": "LONDON ANNIHILATORS (CAN)"
+        },
+        {
+          "bib": 9,
+          "name": "BACON Mike",
+          "raw_name": "BACON Mike",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "17 AUG 1964",
+          "club": "SASKSQUASH (CAN)"
+        },
+        {
+          "bib": 10,
+          "name": "CHARTRAND Allan",
+          "raw_name": "CHARTRAND Allan",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "9 OCT 1968",
+          "club": "PRAIRIE DAWGS (CAN)"
+        },
+        {
+          "bib": 11,
+          "name": "LAVOIE Fabien",
+          "raw_name": "LAVOIE Fabien",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "2 JUL 1981",
+          "club": "QUEBEC IMPACT (CAN)"
+        },
+        {
+          "bib": 13,
+          "name": "FUNK Jared",
+          "raw_name": "FUNK Jared",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "30 JAN 1974",
+          "club": "MANITOBA (CAN)"
+        },
+        {
+          "bib": 14,
+          "name": "WILLSIE David",
+          "raw_name": "WILLSIE David (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "23 MAR 1968",
+          "club": "LONDON ANNIHILATORS (CAN)"
+        },
+        {
+          "bib": 15,
+          "name": "SIMARD Patrice",
+          "raw_name": "SIMARD Patrice",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "19 JAN 1979",
+          "club": "QUEBEC IMPACT (CAN)"
+        }
+      ],
+      "player_count": 12
+    },
+    "GER": {
+      "team_code": "GER",
+      "team_name": "Germany",
+      "coach": "TE NEUES Haiko",
+      "assistant_coach": "ALLEMANN Markus",
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "WERNER Christoph",
+          "raw_name": "WERNER Christoph",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "7 NOV 1968",
+          "club": "BAD WILDUNGEN (GER)"
+        },
+        {
+          "bib": 2,
+          "name": "LEONHARD Andre",
+          "raw_name": "LEONHARD Andre",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "1 JUN 1976",
+          "club": "RSC BERLIN (GER)"
+        },
+        {
+          "bib": 3,
+          "name": "JANSSEN Bernd",
+          "raw_name": "JANSSEN Bernd",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "11 FEB 1960",
+          "club": "RSC KOLN (GER)"
+        },
+        {
+          "bib": 4,
+          "name": "MAYER Wolfgang",
+          "raw_name": "MAYER Wolfgang",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "20 JAN 1965",
+          "club": "TSG SOFLINGEN (GER)"
+        },
+        {
+          "bib": 5,
+          "name": "SCHREINER Peter",
+          "raw_name": "SCHREINER Peter (C)",
+          "is_captain": true,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "17 JAN 1969",
+          "club": "RSG HEIDELBERG (GER)"
+        },
+        {
+          "bib": 6,
+          "name": "BACH Hans",
+          "raw_name": "BACH Hans",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "30 JUL 1962",
+          "club": "TSV MILDERTSHOFEN (GER)"
+        },
+        {
+          "bib": 7,
+          "name": "WIESCHENDORF Dirk",
+          "raw_name": "WIESCHENDORF Dirk",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "1 SEP 1975",
+          "club": "LANGENDEER (GER)"
+        },
+        {
+          "bib": 8,
+          "name": "PICHT Oliver Johannes",
+          "raw_name": "PICHT Oliver Johannes",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "21 DEC 1971",
+          "club": "BAD WILDUNGEN (GER)"
+        },
+        {
+          "bib": 9,
+          "name": "SCHMID Juergen",
+          "raw_name": "SCHMID Juergen",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "23 AUG 1963",
+          "club": "TSV MILDERTSHOFEN (GER)"
+        },
+        {
+          "bib": 13,
+          "name": "MENEZLA Nacer",
+          "raw_name": "MENEZLA Nacer",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "8 JAN 1975",
+          "club": "GYHUM (GER)"
+        },
+        {
+          "bib": 14,
+          "name": "HOLZEM Joerg",
+          "raw_name": "HOLZEM Joerg",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "15 OCT 1977",
+          "club": "KOBLENZ (GER)"
+        }
+      ],
+      "player_count": 11
+    },
+    "GBR": {
+      "team_code": "GBR",
+      "team_name": "Great Britain",
+      "coach": "RANSOME Darren",
+      "assistant_coach": "MOODY Jeremy",
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "O'SHEA Bob",
+          "raw_name": "O'SHEA Bob",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "3 JUL 1960",
+          "club": "LONDON BRONCOS (GBR)"
+        },
+        {
+          "bib": 2,
+          "name": "COGGAN Jonathan",
+          "raw_name": "COGGAN Jonathan",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "25 APR 1983",
+          "club": "LONDON BRONCOS (GBR)"
+        },
+        {
+          "bib": 3,
+          "name": "PALMER Steve",
+          "raw_name": "PALMER Steve",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "12 APR 1973",
+          "club": "LONDON BRONCOS (GBR)"
+        },
+        {
+          "bib": 4,
+          "name": "STACKHOUSE Tony",
+          "raw_name": "STACKHOUSE Tony",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "12 AUG 1969",
+          "club": "WEST MIDLANDS BANDITS (GBR)"
+        },
+        {
+          "bib": 5,
+          "name": "SHAW Paul",
+          "raw_name": "SHAW Paul",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "5 MAY 1971",
+          "club": "WEST MIDLANDS BANDITS (GBR)"
+        },
+        {
+          "bib": 6,
+          "name": "MORRISON Ross",
+          "raw_name": "MORRISON Ross",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "22 JUN 1979",
+          "club": "LONDON BRONCOS (GBR)"
+        },
+        {
+          "bib": 7,
+          "name": "ROBERTS Jason",
+          "raw_name": "ROBERTS Jason",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "12 AUG 1973",
+          "club": "WEST MIDLANDS BANDITS (GBR)"
+        },
+        {
+          "bib": 8,
+          "name": "COLLINS Troye",
+          "raw_name": "COLLINS Troye",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "24 AUG 1972",
+          "club": "LONDON BRONCOS (GBR)"
+        },
+        {
+          "bib": 9,
+          "name": "FRISHBERG Justin",
+          "raw_name": "FRISHBERG Justin",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "17 MAR 1972",
+          "club": "LONDON BRONCOS (GBR)"
+        },
+        {
+          "bib": 10,
+          "name": "BARROW Andy",
+          "raw_name": "BARROW Andy",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "20 AUG 1979",
+          "club": "LONDON BRONCOS (GBR)"
+        },
+        {
+          "bib": 11,
+          "name": "ASH Alan",
+          "raw_name": "ASH Alan",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "27 JAN 1973",
+          "club": "WEST MIDLANDS BANDITS (GBR)"
+        },
+        {
+          "bib": 12,
+          "name": "TARR Rob",
+          "raw_name": "TARR Rob (C)",
+          "is_captain": true,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "1 JUL 1964",
+          "club": "EAST MIDLANDS MARAUDERS (GBR)"
+        }
+      ],
+      "player_count": 12
+    },
+    "JPN": {
+      "team_code": "JPN",
+      "team_name": "Japan",
+      "coach": "SHIOZAWA Yasuo",
+      "assistant_coach": null,
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "TAKAHASHI Yoshinobu",
+          "raw_name": "TAKAHASHI Yoshinobu",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "19 APR 1975",
+          "club": "BUIIDOGS (JPN)"
+        },
+        {
+          "bib": 2,
+          "name": "MORI Kenichi",
+          "raw_name": "MORI Kenichi",
+          "is_captain": false,
+          "sport_class": 1.5,
+          "gender": "M",
+          "dob": "13 JUL 1968",
+          "club": "TEAM FESTAE (JPN)"
+        },
+        {
+          "bib": 3,
+          "name": "FUKUI Masahiro",
+          "raw_name": "FUKUI Masahiro (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "18 MAR 1965",
+          "club": "TEAMFESTAE (JPN)"
+        },
+        {
+          "bib": 4,
+          "name": "SHIMAKAWA Shinichi",
+          "raw_name": "SHIMAKAWA Shinichi",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "29 JAN 1975",
+          "club": "TEAM FESTAE (JPN)"
+        },
+        {
+          "bib": 5,
+          "name": "OGINO Koichi",
+          "raw_name": "OGINO Koichi",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "11 AUG 1966",
+          "club": "TEAM FESTAE (JPN)"
+        },
+        {
+          "bib": 6,
+          "name": "MUROHASHI Takuo",
+          "raw_name": "MUROHASHI Takuo",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "12 JAN 1975",
+          "club": "BULLDOGS (JPN)"
+        },
+        {
+          "bib": 7,
+          "name": "ITO Satoshi",
+          "raw_name": "ITO Satoshi",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "30 APR 1968",
+          "club": "TEAM FESTAE (JPN)"
+        },
+        {
+          "bib": 8,
+          "name": "MISAKA Hiroyuki",
+          "raw_name": "MISAKA Hiroyuki",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "21 JUN 1981",
+          "club": "BULLDOGS (JPN)"
+        },
+        {
+          "bib": 9,
+          "name": "TAMURA Manabu",
+          "raw_name": "TAMURA Manabu",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "26 SEP 1974",
+          "club": "GENESIS (JPN)"
+        },
+        {
+          "bib": 10,
+          "name": "SATO Yoshito",
+          "raw_name": "SATO Yoshito",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "31 MAY 1980",
+          "club": "GENESIS (JPN)"
+        },
+        {
+          "bib": 11,
+          "name": "NAKAZATO Shin",
+          "raw_name": "NAKAZATO Shin",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "6 APR 1977",
+          "club": "OKINAWA HURRIC (JPN)"
+        },
+        {
+          "bib": 15,
+          "name": "KAWAMURA Masanao",
+          "raw_name": "KAWAMURA Masanao",
+          "is_captain": false,
+          "sport_class": 3.5,
+          "gender": "M",
+          "dob": "29 APR 1970",
+          "club": "TEAM FESTAE (JPN)"
+        }
+      ],
+      "player_count": 12
+    },
+    "NZL": {
+      "team_code": "NZL",
+      "team_name": "New Zealand",
+      "coach": "SHARMAN Grant",
+      "assistant_coach": null,
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 2,
+          "name": "PALMER Curtis",
+          "raw_name": "PALMER Curtis",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "8 MAY 1977",
+          "club": "AUCKLAND (NZL)"
+        },
+        {
+          "bib": 3,
+          "name": "Mc MURRAY Gary",
+          "raw_name": "Mc MURRAY Gary",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "16 DEC 1969",
+          "club": "AUCKLAND (NZL)"
+        },
+        {
+          "bib": 4,
+          "name": "TAYLOR Sholto",
+          "raw_name": "TAYLOR Sholto",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "1 SEP 1972",
+          "club": "MANAWATU (NZL)"
+        },
+        {
+          "bib": 5,
+          "name": "WAITE Jai",
+          "raw_name": "WAITE Jai",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "11 MAR 1976",
+          "club": "AUCKLAND (NZL)"
+        },
+        {
+          "bib": 6,
+          "name": "TINKER Gerry",
+          "raw_name": "TINKER Gerry",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "9 JAN 1973",
+          "club": "CANTERBURY (NZL)"
+        },
+        {
+          "bib": 7,
+          "name": "JOHNSON Tim",
+          "raw_name": "JOHNSON Tim",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "4 FEB 1976",
+          "club": "CANIERBURY (NZL)"
+        },
+        {
+          "bib": 9,
+          "name": "OUGHTON Bill",
+          "raw_name": "OUGHTON Bill (C)",
+          "is_captain": true,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "25 APR 1962",
+          "club": "CANTERBURY (NZL)"
+        },
+        {
+          "bib": 10,
+          "name": "GUTHRIE Steve",
+          "raw_name": "GUTHRIE Steve",
+          "is_captain": false,
+          "sport_class": 0.5,
+          "gender": "M",
+          "dob": "15 AUG 1969",
+          "club": "CANTERBURY (NZL)"
+        },
+        {
+          "bib": 13,
+          "name": "BUCKINGHAM Dan",
+          "raw_name": "BUCKINGHAM Dan",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "25 SEP 1980",
+          "club": "CANTENBURY (NZL)"
+        }
+      ],
+      "player_count": 9
+    },
+    "USA": {
+      "team_code": "USA",
+      "team_name": "United States",
+      "coach": "ORR Kevin",
+      "assistant_coach": "GUMBERT James",
+      "uniform_1": {},
+      "uniform_2": {},
+      "players": [
+        {
+          "bib": 1,
+          "name": "NELSON Lynn",
+          "raw_name": "NELSON Lynn",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "1 JAN 1978",
+          "club": "PORTLAND POUNDERS (USA)"
+        },
+        {
+          "bib": 2,
+          "name": "GLOOR Sam",
+          "raw_name": "GLOOR Sam",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "16 MAR 1969",
+          "club": "SAN DIEGO BUSHWACKERS (USA)"
+        },
+        {
+          "bib": 3,
+          "name": "ZUPAN Mark",
+          "raw_name": "ZUPAN Mark",
+          "is_captain": false,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "20 MAY 1975",
+          "club": "TEXAS STAMPEDE (USA)"
+        },
+        {
+          "bib": 4,
+          "name": "KIRKLAND Bryan",
+          "raw_name": "KIRKLAND Bryan",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "18 AUG 1971",
+          "club": "LAKESHORE DEMOLITION (USA)"
+        },
+        {
+          "bib": 5,
+          "name": "LYDUCH Norm",
+          "raw_name": "LYDUCH Norm",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "4 JUL 1972",
+          "club": "TEXAS STAMPEDE (USA)"
+        },
+        {
+          "bib": 6,
+          "name": "COHN Andy",
+          "raw_name": "COHN Andy",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "3 FEB 1978",
+          "club": "PHOENIX HEAT (USA)"
+        },
+        {
+          "bib": 7,
+          "name": "LUJANO Bob",
+          "raw_name": "LUJANO Bob",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "22 JUL 1969",
+          "club": "LAKESHORE DEMOLITION (USA)"
+        },
+        {
+          "bib": 8,
+          "name": "HOGSETT Scott",
+          "raw_name": "HOGSETT Scott",
+          "is_captain": false,
+          "sport_class": 1.0,
+          "gender": "M",
+          "dob": "16 OCT 1972",
+          "club": "PHOENIX HEAT (USA)"
+        },
+        {
+          "bib": 10,
+          "name": "GROULX Will",
+          "raw_name": "GROULX Will",
+          "is_captain": false,
+          "sport_class": 2.5,
+          "gender": "M",
+          "dob": "11 MAR 1974",
+          "club": "PORTLAND POUNDERS (USA)"
+        },
+        {
+          "bib": 11,
+          "name": "POPPEN Brent",
+          "raw_name": "POPPEN Brent",
+          "is_captain": false,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "24 MAY 1973",
+          "club": "CALIFORNIA QUAKE (USA)"
+        },
+        {
+          "bib": 12,
+          "name": "ROMERO Wayne",
+          "raw_name": "ROMERO Wayne (C)",
+          "is_captain": true,
+          "sport_class": 3.0,
+          "gender": "M",
+          "dob": "25 JAN 1961",
+          "club": "FRAZIER TNT (USA)"
+        },
+        {
+          "bib": 13,
+          "name": "CHUNN Clifton",
+          "raw_name": "CHUNN Clifton (C)",
+          "is_captain": true,
+          "sport_class": 2.0,
+          "gender": "M",
+          "dob": "10 OCT 1978",
+          "club": "FRAZIER  TNT (USA)"
+        }
+      ],
+      "player_count": 12
+    }
+  }
+}

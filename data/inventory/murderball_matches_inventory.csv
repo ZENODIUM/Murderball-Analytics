@@ -1,0 +1,204 @@
+match_id,tournament,tournament_year,stage,date,team_a,team_b,score_a,score_b,final_score,winner,events_count,stints_count,source_pdf,quality_tier
+PAR24_M01,Paris 2024,2024,Preliminary Round Group B,THU 29 AUG 2024,AUS,GBR,55,58,55 - 58,GBR,179,27,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M02,Paris 2024,2024,Preliminary Round Group A,THU 29 AUG 2024,USA,CAN,51,48,51 - 48,USA,203,65,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M03,Paris 2024,2024,Preliminary Round Group B,THU 29 AUG 2024,FRA,DEN,53,51,53 - 51,FRA,181,43,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M04,Paris 2024,2024,Preliminary Round Group A,THU 29 AUG 2024,JPN,GER,55,44,55 - 44,JPN,192,45,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M05,Paris 2024,2024,Preliminary Round Group B,FRI 30 AUG 2024,GBR,DEN,55,53,55 - 53,GBR,186,49,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M06,Paris 2024,2024,Preliminary Round Group A,FRI 30 AUG 2024,USA,JPN,42,45,42 - 45,JPN,187,56,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M07,Paris 2024,2024,Preliminary Round Group A,FRI 30 AUG 2024,GER,CAN,47,54,47 - 54,CAN,184,36,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M08,Paris 2024,2024,Preliminary Round Group B,FRI 30 AUG 2024,AUS,FRA,55,53,55 - 53,AUS,163,25,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M09,Paris 2024,2024,Preliminary Round Group A,SAT 31 AUG 2024,GER,USA,47,57,47 - 57,USA,188,29,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M10,Paris 2024,2024,Preliminary Round Group B,SAT 31 AUG 2024,DEN,AUS,49,53,49 - 53,AUS,173,39,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M11,Paris 2024,2024,Preliminary Round Group A,SAT 31 AUG 2024,CAN,JPN,46,50,46 - 50,JPN,192,56,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M12,Paris 2024,2024,Preliminary Round Group B,SAT 31 AUG 2024,GBR,FRA,50,49,50 - 49,GBR,160,32,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M13,Paris 2024,2024,Preliminary Round,SUN 1 SEP 2024,CAN,DEN,56,46,56 - 46,CAN,186,52,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M14,Paris 2024,2024,Preliminary Round,SUN 1 SEP 2024,FRA,GER,54,48,54 - 48,FRA,199,41,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M15,Paris 2024,2024,Semifinal,SUN 1 SEP 2024,JPN,AUS,52,51,52 - 51,JPN,187,52,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M16,Paris 2024,2024,Semifinal,SUN 1 SEP 2024,GBR,USA,43,50,43 - 50,USA,181,45,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M17,Paris 2024,2024,Preliminary Round,MON 2 SEP 2024,DEN,GER,56,49,56 - 49,DEN,194,47,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M18,Paris 2024,2024,Preliminary Round,MON 2 SEP 2024,CAN,FRA,50,53,50 - 53,FRA,170,40,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M19,Paris 2024,2024,Bronze Medal Game,MON 2 SEP 2024,AUS,GBR,50,48,50 - 48,AUS,171,31,PG2024-Overall-results-book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+PAR24_M20,Paris 2024,2024,Gold Medal Game,MON 2 SEP 2024,JPN,USA,48,41,48 - 41,JPN,175,38,,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M01,Tokyo 2020,2020,Preliminary Round,WED 25 AUG 2021,USA,NZL,63,35,63 - 35,USA,215,65,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M02,Tokyo 2020,2020,Preliminary Round,WED 25 AUG 2021,AUS,DEN,53,54,53 - 54,DEN,176,30,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M03,Tokyo 2020,2020,Preliminary Round,WED 25 AUG 2021,GBR,CAN,50,47,50 - 47,GBR,155,27,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M04,Tokyo 2020,2020,Preliminary Round,WED 25 AUG 2021,JPN,FRA,53,51,53 - 51,JPN,169,29,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M05,Tokyo 2020,2020,Preliminary Round,THU 26 AUG 2021,CAN,USA,54,58,54 - 58,USA,210,55,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M06,Tokyo 2020,2020,Preliminary Round,THU 26 AUG 2021,JPN,DEN,60,51,60 - 51,JPN,217,57,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M07,Tokyo 2020,2020,Preliminary Round,THU 26 AUG 2021,FRA,AUS,48,50,48 - 50,AUS,168,21,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M08,Tokyo 2020,2020,Preliminary Round,THU 26 AUG 2021,GBR,NZL,60,37,60 - 37,GBR,178,35,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M09,Tokyo 2020,2020,Preliminary Round,FRI 27 AUG 2021,DEN,FRA,50,52,50 - 52,FRA,167,34,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M10,Tokyo 2020,2020,Preliminary Round,FRI 27 AUG 2021,AUS,JPN,53,57,53 - 57,JPN,208,58,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M11,Tokyo 2020,2020,Preliminary Round,FRI 27 AUG 2021,USA,GBR,50,48,50 - 48,USA,181,32,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M12,Tokyo 2020,2020,Preliminary Round,FRI 27 AUG 2021,NZL,CAN,36,51,36 - 51,CAN,177,41,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M13,Tokyo 2020,2020,7th-8th classification,SAT 28 AUG 2021,DEN,NZL,56,53,56 - 53,DEN,172,22,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M14,Tokyo 2020,2020,Semifinal,SAT 28 AUG 2021,USA,AUS,49,42,49 - 42,USA,169,41,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M15,Tokyo 2020,2020,Semifinal,SAT 28 AUG 2021,JPN,GBR,49,55,49 - 55,GBR,197,41,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M16,Tokyo 2020,2020,5th-6th classification,SAT 28 AUG 2021,FRA,CAN,49,57,49 - 57,CAN,178,35,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M17,Tokyo 2020,2020,Bronze Medal,SUN 29 AUG 2021,AUS,JPN,52,60,52 - 60,JPN,225,54,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+TKY20_M18,Tokyo 2020,2020,Gold Medal,SUN 29 AUG 2021,USA,GBR,49,54,49 - 54,GBR,169,25,2020-Tokyo-Wheelchair-Rugby-Results-Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M18,Rio 2016,2016,Gold Medal,SUN 18 SEP 2016,AUS,USA,59,58,59 - 58,AUS,250,5,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M17,Rio 2016,2016,Bronze Medal,SUN 18 SEP 2016,JPN,CAN,52,50,52 - 50,JPN,178,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M15,Rio 2016,2016,Semifinal,SAT 17 SEP 2016,AUS,JPN,63,57,63 - 57,AUS,225,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M16,Rio 2016,2016,Semifinal,SAT 17 SEP 2016,USA,CAN,60,55,60 - 55,USA,208,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M14,Rio 2016,2016,5th-6th Classification,SAT 17 SEP 2016,GBR,SWE,56,42,56 - 42,GBR,191,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M13,Rio 2016,2016,7th-8th Classification,SAT 17 SEP 2016,BRA,FRA,54,59,54 - 59,FRA,253,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M01,Rio 2016,2016,Preliminary Round,WED 14 SEP 2016,AUS,GBR,53,51,53 - 51,AUS,167,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M04,Rio 2016,2016,Preliminary Round,WED 14 SEP 2016,CAN,BRA,62,48,62 - 48,CAN,238,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M06,Rio 2016,2016,Preliminary Round,THU 15 SEP 2016,GBR,CAN,49,50,49 - 50,CAN,185,5,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M08,Rio 2016,2016,Preliminary Round,THU 15 SEP 2016,AUS,BRA,72,45,72 - 45,AUS,260,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M10,Rio 2016,2016,Preliminary Round,FRI 16 SEP 2016,BRA,GBR,32,52,32 - 52,GBR,185,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M12,Rio 2016,2016,Preliminary Round,FRI 16 SEP 2016,CAN,AUS,62,63,62 - 63,AUS,212,5,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M02,Rio 2016,2016,Preliminary Round,WED 14 SEP 2016,USA,FRA,51,42,51 - 42,USA,219,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M03,Rio 2016,2016,Preliminary Round,WED 14 SEP 2016,JPN,SWE,50,46,50 - 46,JPN,181,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M05,Rio 2016,2016,Preliminary Round,THU 15 SEP 2016,SWE,USA,44,54,44 - 54,USA,208,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M07,Rio 2016,2016,Preliminary Round,THU 15 SEP 2016,JPN,FRA,57,52,57 - 52,JPN,201,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M09,Rio 2016,2016,Preliminary Round,FRI 16 SEP 2016,FRA,SWE,47,55,47 - 55,SWE,231,4,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+RIO16_M11,Rio 2016,2016,Preliminary Round,FRI 16 SEP 2016,USA,JPN,57,56,57 - 56,USA,204,5,2016_Rio_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M20,London 2012,2012,Gold Medal,SUN 9 SEP 2012,CAN,AUS,51,66,51 - 66,AUS,222,70,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M19,London 2012,2012,Bronze Medal,SUN 9 SEP 2012,USA,JPN,53,43,53 - 43,USA,179,45,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M18,London 2012,2012,Preliminary Round,SAT 8 SEP 2012,GBR,SWE,59,47,59 - 47,GBR,187,42,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M17,London 2012,2012,Preliminary Round,SAT 8 SEP 2012,BEL,FRA,54,50,54 - 50,BEL,189,52,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M15,London 2012,2012,Semifinal,SAT 8 SEP 2012,USA,CAN,49,50,49 - 50,CAN,201,63,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M16,London 2012,2012,Semifinal,SAT 8 SEP 2012,AUS,JPN,59,45,59 - 45,AUS,184,46,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M13,London 2012,2012,Preliminary Round,SAT 8 SEP 2012,GBR,BEL,54,49,54 - 49,GBR,161,30,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M14,London 2012,2012,Preliminary Round,SAT 8 SEP 2012,SWE,FRA,58,48,58 - 48,SWE,208,54,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M01,London 2012,2012,Preliminary Round,WED 5 SEP 2012,USA,GBR,56,44,56 - 44,USA,191,58,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M04,London 2012,2012,Preliminary Round,WED 5 SEP 2012,JPN,FRA,65,56,65 - 56,JPN,218,51,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M07,London 2012,2012,Preliminary Round,THU 6 SEP 2012,GBR,FRA,57,50,57 - 50,GBR,199,41,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M08,London 2012,2012,Preliminary Round,THU 6 SEP 2012,JPN,USA,48,64,48 - 64,USA,195,49,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M11,London 2012,2012,Preliminary Round,FRI 7 SEP 2012,GBR,JPN,39,51,39 - 51,JPN,185,45,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M12,London 2012,2012,Preliminary Round,FRI 7 SEP 2012,USA,FRA,70,44,70 - 44,USA,231,65,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M02,London 2012,2012,Preliminary Round,WED 5 SEP 2012,SWE,BEL,52,42,52 - 42,SWE,162,35,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M03,London 2012,2012,Preliminary Round,WED 5 SEP 2012,AUS,CAN,64,52,64 - 52,AUS,224,70,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M05,London 2012,2012,Preliminary Round,THU 6 SEP 2012,SWE,AUS,47,60,47 - 60,AUS,195,52,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M06,London 2012,2012,Preliminary Round,THU 6 SEP 2012,CAN,BEL,58,50,58 - 50,CAN,198,62,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M09,London 2012,2012,Preliminary Round,FRI 7 SEP 2012,AUS,BEL,58,43,58 - 43,AUS,177,41,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+LON12_M10,London 2012,2012,Preliminary Round,FRI 7 SEP 2012,CAN,SWE,53,52,53 - 52,CAN,193,65,2012_London_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M20,Beijing 2008,2008,GOLD MEDAL,16 SEP 2008,USA,AUS,53,44,53 - 44,USA,260,70,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M19,Beijing 2008,2008,BRONZE MEDAL,16 SEP 2008,GBR,CAN,41,47,41 - 47,CAN,254,88,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M18,Beijing 2008,2008,Preliminary Round,16 SEP 2008,GER,NZL,25,28,25 - 28,NZL,183,80,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M17,Beijing 2008,2008,Preliminary Round,16 SEP 2008,JPN,CHN,58,32,58 - 32,JPN,243,58,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M15,Beijing 2008,2008,SEMIFINAL,15 SEP 2008,USA,GBR,35,32,35 - 32,USA,223,79,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M16,Beijing 2008,2008,SEMIFINAL,15 SEP 2008,AUS,CAN,41,40,41 - 40,AUS,219,73,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M13,Beijing 2008,2008,Preliminary Round,15 SEP 2008,JPN,GER,38,39,38 - 39,GER,255,125,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M14,Beijing 2008,2008,Preliminary Round,15 SEP 2008,NZL,CHN,47,34,47 - 34,NZL,216,62,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M01,Beijing 2008,2008,Preliminary Round,12 SEP 2008,USA,CHN,65,30,65 - 30,USA,305,86,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M02,Beijing 2008,2008,Preliminary Round,12 SEP 2008,CAN,JPN,48,40,48 - 40,CAN,257,100,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M05,Beijing 2008,2008,Preliminary Round,13 SEP 2008,CAN,CHN,57,25,57 - 25,CAN,285,96,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M06,Beijing 2008,2008,Preliminary Round,13 SEP 2008,USA,JPN,44,37,44 - 37,USA,252,82,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M09,Beijing 2008,2008,Preliminary Round,14 SEP 2008,JPN,CHN,55,38,55 - 38,JPN,237,64,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M10,Beijing 2008,2008,Preliminary Round,14 SEP 2008,USA,CAN,37,32,37 - 32,USA,217,98,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M03,Beijing 2008,2008,Preliminary Round,12 SEP 2008,AUS,GER,47,36,47 - 36,AUS,294,118,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M04,Beijing 2008,2008,Preliminary Round,12 SEP 2008,GBR,NZL,39,38,39 - 38,GBR,217,56,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M07,Beijing 2008,2008,Preliminary Round,13 SEP 2008,AUS,NZL,39,38,39 - 38,AUS,220,76,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M08,Beijing 2008,2008,Preliminary Round,13 SEP 2008,GBR,GER,39,35,39 - 35,GBR,223,86,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M11,Beijing 2008,2008,Preliminary Round,14 SEP 2008,AUS,GBR,43,37,43 - 37,AUS,232,60,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+BEI08_M12,Beijing 2008,2008,Preliminary Round,14 SEP 2008,NZL,GER,40,31,40 - 31,NZL,241,86,2008_Beijing_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M24,Athens 2004,2004,Gold Medal,25 SEP 2004,CAN,NZL,29,31,29 - 31,NZL,292,24,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M23,Athens 2004,2004,Bronze Medal,25 SEP 2004,GBR,USA,39,43,39 - 43,USA,342,32,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M22,Athens 2004,2004,Preliminary Round,25 SEP 2004,BEL,AUS,43,46,43 - 46,AUS,348,34,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M21,Athens 2004,2004,Preliminary Round,25 SEP 2004,GER,JPN,41,40,41 - 40,GER,328,34,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M19,Athens 2004,2004,Semifinal,24 SEP 2004,USA,CAN,20,24,20 - 24,CAN,277,52,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M20,Athens 2004,2004,Semifinal,24 SEP 2004,GBR,NZL,35,39,35 - 39,NZL,299,26,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M17,Athens 2004,2004,Preliminary Round,24 SEP 2004,BEL,JPN,36,35,36 - 35,BEL,288,38,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M18,Athens 2004,2004,Preliminary Round,24 SEP 2004,AUS,GER,44,40,44 - 40,AUS,337,32,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M13,Athens 2004,2004,final,23 SEP 2004,USA,GER,46,34,46 - 34,USA,272,38,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M14,Athens 2004,2004,final,23 SEP 2004,GBR,JPN,50,42,50 - 42,GBR,287,48,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M15,Athens 2004,2004,final,23 SEP 2004,NZL,BEL,40,33,40 - 33,NZL,310,26,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M16,Athens 2004,2004,final,23 SEP 2004,CAN,AUS,36,33,36 - 33,CAN,338,34,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M03,Athens 2004,2004,Preliminary Round,19 SEP 2004,USA,JPN,54,39,54 - 39,USA,394,42,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M04,Athens 2004,2004,Preliminary Round,19 SEP 2004,AUS,NZL,31,41,31 - 41,NZL,299,34,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M07,Athens 2004,2004,Preliminary Round,20 SEP 2004,AUS,JPN,48,47,48 - 47,AUS,328,31,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M08,Athens 2004,2004,Preliminary Round,20 SEP 2004,USA,NZL,35,32,35 - 32,USA,306,34,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M11,Athens 2004,2004,Preliminary Round,21 SEP 2004,NZL,JPN,47,35,47 - 35,NZL,328,32,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M12,Athens 2004,2004,Preliminary Round,21 SEP 2004,USA,AUS,49,38,49 - 38,USA,373,40,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M01,Athens 2004,2004,Preliminary Round,19 SEP 2004,GBR,BEL,27,22,27 - 22,GBR,273,26,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M02,Athens 2004,2004,Preliminary Round,19 SEP 2004,CAN,GER,33,30,33 - 30,CAN,331,37,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M05,Athens 2004,2004,Preliminary Round,20 SEP 2004,GER,BEL,33,40,33 - 40,BEL,271,30,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M06,Athens 2004,2004,Preliminary Round,20 SEP 2004,CAN,GBR,30,32,30 - 32,GBR,254,63,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M10,Athens 2004,2004,Preliminary Round,21 SEP 2004,CAN,BEL,33,29,33 - 29,CAN,213,20,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+ATH04_M09,Athens 2004,2004,Preliminary Round,21 SEP 2004,GBR,GER,41,30,41 - 30,GBR,280,36,2004_Athens_Wheelchair_Rugby_Results_Book.pdf,TIER_1_OFFICIAL_RESULTS_BOOK
+WC26_M01,2026 World Championship,2026,Group Competition (Pool A),2026-08-17,AUS,CAN,50,41,50 - 41,AUS,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M02,2026 World Championship,2026,Group Competition (Pool A),2026-08-17,BRA,NED,47,49,47 - 49,NED,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M03,2026 World Championship,2026,Group Competition (Pool B),2026-08-18,DEN,GBR,56,57,56 - 57,GBR,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M04,2026 World Championship,2026,Group Competition (Pool B),2026-08-18,COL,GER,44,57,44 - 57,GER,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M05,2026 World Championship,2026,Group Competition (Pool A),2026-08-18,NZL,AUS,31,62,31 - 62,AUS,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M06,2026 World Championship,2026,Group Competition (Pool A),2026-08-18,NED,USA,33,57,33 - 57,USA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M07,2026 World Championship,2026,Group Competition (Pool B),2026-08-18,GER,JPN,44,60,44 - 60,JPN,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M08,2026 World Championship,2026,Group Competition (Pool B),2026-08-18,DEN,FRA,53,56,53 - 56,FRA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M09,2026 World Championship,2026,Group Competition (Pool B),2026-08-18,GBR,COL,55,42,55 - 42,GBR,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M10,2026 World Championship,2026,Group Competition (Pool A),2026-08-18,NZL,USA,38,53,38 - 53,USA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M11,2026 World Championship,2026,Group Competition (Pool A),2026-08-18,BRA,CAN,49,48,49 - 48,BRA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M12,2026 World Championship,2026,Group Competition (Pool B),2026-08-19,COL,FRA,40,51,40 - 51,FRA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M13,2026 World Championship,2026,Group Competition (Pool B),2026-08-19,GER,GBR,44,52,44 - 52,GBR,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M14,2026 World Championship,2026,Group Competition (Pool B),2026-08-19,JPN,DEN,56,43,56 - 43,JPN,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M15,2026 World Championship,2026,Group Competition (Pool A),2026-08-19,NED,NZL,44,40,44 - 40,NED,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M16,2026 World Championship,2026,Group Competition (Pool B),2026-08-19,FRA,GER,54,40,54 - 40,FRA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M17,2026 World Championship,2026,Group Competition (Pool B),2026-08-19,GBR,JPN,48,62,48 - 62,JPN,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M18,2026 World Championship,2026,Group Competition (Pool A),2026-08-19,CAN,USA,39,49,39 - 49,USA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M19,2026 World Championship,2026,Group Competition (Pool B),2026-08-19,COL,DEN,43,64,43 - 64,DEN,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M20,2026 World Championship,2026,Group Competition (Pool A),2026-08-19,BRA,AUS,32,59,32 - 59,AUS,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M21,2026 World Championship,2026,Group Competition (Pool A),2026-08-20,CAN,NED,44,42,44 - 42,CAN,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M22,2026 World Championship,2026,Group Competition (Pool B),2026-08-20,FRA,JPN,45,50,45 - 50,JPN,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M23,2026 World Championship,2026,Group Competition (Pool A),2026-08-20,BRA,NZL,58,44,58 - 44,BRA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M24,2026 World Championship,2026,Group Competition (Pool A),2026-08-20,AUS,USA,54,44,54 - 44,AUS,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M25,2026 World Championship,2026,Group Competition (Pool B),2026-08-20,DEN,GER,57,51,57 - 51,DEN,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M26,2026 World Championship,2026,Group Competition (Pool B),2026-08-20,JPN,COL,61,42,61 - 42,JPN,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M27,2026 World Championship,2026,Group Competition (Pool A),2026-08-20,CAN,NZL,40,38,40 - 38,CAN,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M28,2026 World Championship,2026,Group Competition (Pool A),2026-08-20,AUS,NED,60,45,60 - 45,AUS,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M29,2026 World Championship,2026,Group Competition (Pool B),2026-08-20,FRA,GBR,42,57,42 - 57,GBR,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M30,2026 World Championship,2026,Group Competition (Pool A),2026-08-20,BRA,USA,56,57,56 - 57,USA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M31,2026 World Championship,2026,Quarter-Final 1 (Q1),2026-08-21,AUS,DEN,59,47,59 - 47,AUS,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M32,2026 World Championship,2026,9-12th Placement Crossover,2026-08-21,BRA,COL,45,52,45 - 52,COL,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M33,2026 World Championship,2026,Quarter-Final 2 (Q2),2026-08-21,JPN,NED,58,44,58 - 44,JPN,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M34,2026 World Championship,2026,9-12th Placement Crossover,2026-08-21,NZL,GER,42,44,42 - 44,GER,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M35,2026 World Championship,2026,Quarter-Final 3 (Q3),2026-08-21,CAN,GBR,51,54,51 - 54,GBR,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M36,2026 World Championship,2026,Quarter-Final 4 (Q4),2026-08-21,FRA,USA,42,53,42 - 53,USA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M37,2026 World Championship,2026,5-8th Placement Crossover,2026-08-22,DEN,CAN,51,50,51 - 50,DEN,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M38,2026 World Championship,2026,11th-12th Place Match,2026-08-22,BRA,NZL,53,37,53 - 37,BRA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M39,2026 World Championship,2026,5-8th Placement Crossover,2026-08-22,NED,FRA,48,55,48 - 55,FRA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M40,2026 World Championship,2026,9th-10th Place Match,2026-08-22,COL,GER,37,65,37 - 65,GER,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M41,2026 World Championship,2026,Semi-Final 1,2026-08-22,AUS,GBR,60,44,60 - 44,AUS,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M42,2026 World Championship,2026,Semi-Final 2,2026-08-22,JPN,USA,49,50,49 - 50,USA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M43,2026 World Championship,2026,7th-8th Place Match,2026-08-23,CAN,NED,48,43,48 - 43,CAN,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M44,2026 World Championship,2026,5th-6th Place Match,2026-08-23,DEN,FRA,55,62,55 - 62,FRA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M45,2026 World Championship,2026,Bronze Medal Match (3rd-4th),2026-08-23,GBR,JPN,47,54,47 - 54,JPN,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+WC26_M46,2026 World Championship,2026,Gold Medal Match (1st-2nd),2026-08-23,AUS,USA,51,57,51 - 57,USA,0,0,Centro de Treinamento Paralímpico Brasileiro,TIER_2_OFFICIAL_COMPETITION_DATA
+CC24_M01,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Round Robin,2024-07-04,CAN,USA,49,54,49 - 54,USA,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M02,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Round Robin,2024-07-04,JPN,GBR,55,48,55 - 48,JPN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M03,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Round Robin,2024-07-04,AUS,FRA,53,47,53 - 47,AUS,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M04,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Round Robin,2024-07-05,USA,GBR,52,50,52 - 50,USA,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M05,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Round Robin,2024-07-05,JPN,FRA,56,49,56 - 49,JPN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M06,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Round Robin,2024-07-05,AUS,CAN,54,51,54 - 51,AUS,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M07,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Round Robin,2024-07-06,JPN,USA,58,53,58 - 53,JPN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M08,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Round Robin,2024-07-06,AUS,GBR,55,51,55 - 51,AUS,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M09,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Round Robin,2024-07-06,CAN,FRA,52,50,52 - 50,CAN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M10,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Round Robin,2024-07-06,JPN,AUS,54,52,54 - 52,JPN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M11,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Round Robin,2024-07-07,USA,FRA,56,48,56 - 48,USA,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M12,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Round Robin,2024-07-07,CAN,GBR,50,53,50 - 53,GBR,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M13,2024 Canada Cup International Wheelchair Rugby Tournament,2024,5th Place Match,2024-07-07,CAN,FRA,51,48,51 - 48,CAN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M14,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Bronze Medal Match,2024-07-07,USA,GBR,55,51,55 - 51,USA,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+CC24_M15,2024 Canada Cup International Wheelchair Rugby Tournament,2024,Gold Medal Match,2024-07-07,JPN,AUS,53,51,53 - 51,JPN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+SHIB24_M01,2024 Shibuya International Para Cup,2024,Group Stage,2024-06-05,JPN,FRA,56,47,56 - 47,JPN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+SHIB24_M02,2024 Shibuya International Para Cup,2024,Group Stage,2024-06-05,USA,AUS,54,52,54 - 52,USA,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+SHIB24_M03,2024 Shibuya International Para Cup,2024,Group Stage,2024-06-06,JPN,AUS,57,53,57 - 53,JPN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+SHIB24_M04,2024 Shibuya International Para Cup,2024,Group Stage,2024-06-06,USA,FRA,55,49,55 - 49,USA,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+SHIB24_M05,2024 Shibuya International Para Cup,2024,Group Stage,2024-06-07,AUS,FRA,58,50,58 - 50,AUS,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+SHIB24_M06,2024 Shibuya International Para Cup,2024,Group Stage,2024-06-07,JPN,USA,55,52,55 - 52,JPN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+SHIB24_M07,2024 Shibuya International Para Cup,2024,Semi-Final 1,2024-06-08,JPN,FRA,58,48,58 - 48,JPN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+SHIB24_M08,2024 Shibuya International Para Cup,2024,Semi-Final 2,2024-06-08,USA,AUS,56,53,56 - 53,USA,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+SHIB24_M09,2024 Shibuya International Para Cup,2024,Bronze Match,2024-06-08,AUS,FRA,54,48,54 - 48,AUS,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+SHIB24_M10,2024 Shibuya International Para Cup,2024,Gold Match,2024-06-08,JPN,USA,52,50,52 - 50,JPN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+LAKE24_M01,2024 Lakeshore Demolition Classic,2024,Group Stage,2024-05-17,USA,GER,58,41,58 - 41,USA,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+LAKE24_M02,2024 Lakeshore Demolition Classic,2024,Group Stage,2024-05-17,CAN,DEN,53,49,53 - 49,CAN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+LAKE24_M03,2024 Lakeshore Demolition Classic,2024,Group Stage,2024-05-18,USA,DEN,55,46,55 - 46,USA,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+LAKE24_M04,2024 Lakeshore Demolition Classic,2024,Group Stage,2024-05-18,CAN,GER,54,47,54 - 47,CAN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+LAKE24_M05,2024 Lakeshore Demolition Classic,2024,Group Stage,2024-05-19,DEN,GER,52,48,52 - 48,DEN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+LAKE24_M06,2024 Lakeshore Demolition Classic,2024,Group Stage,2024-05-19,USA,CAN,56,51,56 - 51,USA,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+LAKE24_M07,2024 Lakeshore Demolition Classic,2024,Semi-Final 1,2024-05-19,USA,GER,59,42,59 - 42,USA,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+LAKE24_M08,2024 Lakeshore Demolition Classic,2024,Semi-Final 2,2024-05-19,CAN,DEN,52,50,52 - 50,CAN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+LAKE24_M09,2024 Lakeshore Demolition Classic,2024,3rd Place Match,2024-05-20,DEN,GER,54,49,54 - 49,DEN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+LAKE24_M10,2024 Lakeshore Demolition Classic,2024,Championship Final,2024-05-20,USA,CAN,57,50,57 - 50,USA,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+LAKE24_M11,2024 Lakeshore Demolition Classic,2024,Exhibition Match 1,2024-05-20,USA,DEN,53,45,53 - 45,USA,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
+LAKE24_M12,2024 Lakeshore Demolition Classic,2024,Exhibition Match 2,2024-05-20,CAN,GER,55,46,55 - 46,CAN,0,0,Official Invitational Tournament Results,TIER_3_INVITATIONAL_RESULTS
